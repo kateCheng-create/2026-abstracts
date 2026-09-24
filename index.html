@@ -3,62 +3,56 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<meta name="theme-color" content="#173a3b" />
-<title>2026 設計長壽社會｜發表人</title>
-<meta name="description" content="2026 設計長壽社會：高齡社會的勞動、福祉與創新國際研討會—發表人與摘要" />
-<link rel="stylesheet" href="style.css?v=4" />
+<meta name="theme-color" content="#163c3b" />
+<title>2026 設計長壽社會｜議程與發表摘要</title>
+<meta name="description" content="2026 設計長壽社會國際研討會議程與發表摘要" />
+<link rel="stylesheet" href="style.css?v=8" />
 </head>
 <body>
 <header class="hero">
   <div class="hero-inner">
     <div class="eyebrow">2026 DESIGNING LONGEVITY</div>
-    <div class="hero-title-row">
-      <h1>發表人</h1>
-      <div class="hero-en">PRESENTERS</div>
-    </div>
-    <p>2026 設計長壽社會：高齡社會的勞動、福祉與創新國際研討會</p>
+    <h1>設計長壽社會</h1>
+    <p class="hero-en">DESIGNING LONGEVITY</p>
+    <p class="hero-sub">高齡社會的勞動、福祉與創新國際研討會</p>
   </div>
 </header>
 
+<nav class="main-nav" aria-label="網站主要內容">
+  <div class="nav-inner">
+    <button class="nav-tab active" data-view="schedule">議程 <span>Schedule</span></button>
+    <button class="nav-tab" data-view="abstracts">發表摘要 <span>Abstracts</span></button>
+  </div>
+</nav>
+
 <main>
-  <section class="intro">
-    <div>
-      <p class="intro-kicker">PRESENTERS & ABSTRACTS</p>
-      <h2>選擇發表人查看摘要</h2>
+  <section id="scheduleView" class="view active">
+    <div class="section-intro">
+      <div><p class="kicker">PROGRAM</p><h2>研討會議程</h2></div>
+      <p>點選橘色姓名可直接查看該發表人的摘要。</p>
     </div>
-    <p class="intro-note">點選姓名即可查看論文題目、摘要與關鍵詞。</p>
+    <div class="day-tabs" id="scheduleDayTabs"></div>
+    <div id="scheduleWrap"></div>
+    <p class="schedule-note">※ 公告版僅列主要議程、場次與已確認人員；議程如有調整，以大會最新公告為準。</p>
   </section>
 
-  <section class="tools" aria-label="發表人搜尋與篩選">
-    <label class="searchbox">
-      <span class="search-icon" aria-hidden="true">⌕</span>
-      <input id="q" type="search" placeholder="搜尋發表人或論文題目" autocomplete="off">
-    </label>
-    <div class="filter-row">
-      <div class="filters" id="dateFilters" aria-label="日期">
-        <button class="chip active" data-date="全部">全部日期</button>
-        <button class="chip" data-date="10/1">10/1</button>
-        <button class="chip" data-date="10/2">10/2</button>
-        <button class="chip" data-date="10/3">10/3</button>
-      </div>
-      <div class="filters" id="typeFilters" aria-label="發表類型">
-        <button class="chip active" data-type="全部">全部</button>
-        <button class="chip" data-type="論文發表">論文發表</button>
-        <button class="chip" data-type="海報發表">海報發表</button>
-      </div>
+  <section id="abstractsView" class="view" hidden>
+    <div class="section-intro">
+      <div><p class="kicker">PRESENTERS & ABSTRACTS</p><h2>發表摘要</h2></div>
+      <p>可依日期、類型或姓名搜尋；點選卡片查看完整摘要。</p>
     </div>
-    <div class="result-count"><strong id="count">0</strong> 位發表人</div>
+    <section class="tools" aria-label="摘要搜尋與篩選">
+      <label class="searchbox"><span aria-hidden="true">⌕</span><input id="q" type="search" placeholder="搜尋發表人、題目或關鍵字" autocomplete="off"></label>
+      <div class="filters"><button class="chip active" data-date="全部">全部日期</button><button class="chip" data-date="10/1">10/1</button><button class="chip" data-date="10/2">10/2</button><button class="chip" data-date="10/3">10/3</button></div>
+      <div class="filters"><button class="chip active" data-type="全部">全部類型</button><button class="chip" data-type="論文發表">論文發表</button><button class="chip" data-type="海報發表">海報發表</button></div>
+      <div class="result-count"><strong id="count">0</strong> 篇摘要</div>
+    </section>
+    <div id="abstractGrid" class="abstract-grid"></div>
+    <div id="empty" class="empty" hidden>找不到符合條件的摘要。</div>
   </section>
-
-  <section id="directory" class="directory" aria-live="polite"></section>
-  <div id="empty" class="empty" hidden>找不到符合條件的發表人。</div>
 </main>
 
-<footer>
-  <span>2026 Designing Longevity</span>
-  <span class="footer-dot">·</span>
-  <span>Presenter Directory</span>
-</footer>
+<footer>2026 Designing Longevity · Program & Abstracts</footer>
 
 <div id="modal" class="modal" hidden>
   <div class="backdrop" data-close></div>
@@ -68,6 +62,6 @@
   </article>
 </div>
 
-<script src="app.js?v=4"></script>
+<script src="app.js?v=8"></script>
 </body>
 </html>
