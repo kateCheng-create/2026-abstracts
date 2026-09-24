@@ -195,7 +195,17 @@ function authorDisplayRows(r){
       }
     });
   }
-  return rows.filter(x=>x.name||x.role||x.unit);
+  const filtered=rows.filter(x=>x.name||x.role||x.unit);
+  return filtered.filter((row,i,arr)=>{
+    if(row.name) return true;
+    const role=cleanAuthorText(row.role||'');
+    const unit=cleanAuthorText(row.unit||'');
+    if(!role&&!unit) return false;
+    return !arr.some((other,j)=>{
+      if(j===i||!other.name) return false;
+      return cleanAuthorText(other.role||'')===role && cleanAuthorText(other.unit||'')===unit;
+    });
+  });
 }
 function renderAuthorSection(r){
   const rows=authorDisplayRows(r);
