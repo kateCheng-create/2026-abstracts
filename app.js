@@ -125,13 +125,90 @@ function normalizeAuthorInfo(r){
   });
   return {authors, affiliations, notes, contacts};
 }
-function renderAuthorSection(r){
+function extractRoleFromText(text){
+  const roles=[
+    '兼任助理副教授','兼任助理教授','特聘教授','助理教授','副教授','教授','講師','教師',
+    '助理研究員','副研究員','研究員','博士研究生','碩士研究生','博士生','碩士生','研究生',
+    '中級組員','組員','理事長','負責人','學生','主治醫師','物理治療師',
+    "Master's Student",'Ph.D. Student','Year 4 Student','Lecturer','Professor','student'
+  ];
+  const v=cleanAuthorText(text);
+  for(const role of roles){
+    if(v.includes(role)) return role;
+  }
+  return '';
+}
+function splitUnitAndRole(detail){
+  const v=cleanAuthorText(detail);
+  if(!v) return {unit:'',role:''};
+  const parts=v.split(/\s*[｜|／/]\s*/).map(x=>x.trim()).filter(Boolean);
+  if(parts.length>=2){
+    const rolePart=parts.find(x=>extractRoleFromText(x));
+    if(rolePart){
+      const role=extractRoleFromText(rolePart);
+      const unit=parts.filter(x=>x!==rolePart).join('｜');
+      return {unit,role};
+    }
+  }
+  const role=extractRoleFromText(v);
+  if(role){
+    const unit=v.replace(role,'').replace(/[｜|／/]+\s*$/,'').trim();
+    return {unit,role};
+  }
+  return {unit:v,role:''};
+}
+function splitNameAndRole(name){
+  const v=cleanAuthorText(name).replace(/[＊*]/g,'');
+  const role=extractRoleFromText(v);
+  if(role){
+    return {name:v.replace(role,'').trim(),role};
+  }
+  return {name:v,role:''};
+}
+function authorDisplayRows(r){
   const info=normalizeAuthorInfo(r);
-  if(!info.authors.length && !info.affiliations.length && !info.notes.length && !info.contacts.length) return '';
-  const authorRows=info.authors.map(a=>`<div class="author-item"><div class="author-name">${esc(a.name)}</div>${a.detail?`<div class="author-detail">${esc(a.detail)}</div>`:''}</div>`).join('');
-  const affBlock=info.affiliations.length?`<div class="author-subblock"><div class="author-subtitle">單位／職稱</div><div class="author-lines">${info.affiliations.map(line=>`<div class="author-line">${esc(line)}</div>`).join('')}</div></div>`:'';
-  const noteBlock=info.notes.length?`<div class="author-subblock"><div class="author-subtitle">補充資訊</div><div class="author-lines">${info.notes.map(line=>`<div class="author-line">${esc(line)}</div>`).join('')}</div></div>`:'';
-  return `<section class="author-section"><div class="modal-label">作者資訊</div><div class="author-info">${authorRows}${affBlock}${noteBlock}</div></section>`;
+  const authors=info.authors.map(a=>({name:a.name||'',detail:a.detail||''}));
+  const affiliations=[...info.affiliations];
+  const rows=[];
+
+  authors.forEach((a,i)=>{
+    const nr=splitNameAndRole(a.name);
+    let detail=a.detail||'';
+    if(!detail && affiliations.length===authors.length) detail=affiliations[i]||'';
+    const ur=splitUnitAndRole(detail);
+    const role=nr.role||ur.role;
+    const unit=ur.unit;
+    rows.push({name:nr.name||a.name,role,unit});
+  });
+
+  if(affiliations.length && affiliations.length!==authors.length){
+    affiliations.forEach((line,i)=>{
+      if(i<authors.length && !authors[i].detail){
+        const ur=splitUnitAndRole(line);
+        if(rows[i]){
+          if(!rows[i].role) rows[i].role=ur.role;
+          if(!rows[i].unit) rows[i].unit=ur.unit;
+        }
+      }else if(i>=authors.length){
+        const ur=splitUnitAndRole(line);
+        rows.push({name:'',role:ur.role,unit:ur.unit});
+      }
+    });
+  }
+  return rows.filter(x=>x.name||x.role||x.unit);
+}
+function renderAuthorSection(r){
+  const rows=authorDisplayRows(r);
+  if(!rows.length) return '';
+  return `<section class="author-section">
+    <div class="modal-label">作者資訊</div>
+    <div class="author-one-line-list">
+      ${rows.map(row=>{
+        const left=[row.name,row.role].filter(Boolean).join(' ');
+        return `<div class="author-one-line"><strong>${esc(left||'未提供')}</strong>${row.unit?`<span class="author-sep">｜</span><span>${esc(row.unit)}</span>`:''}</div>`;
+      }).join('')}
+    </div>
+  </section>`;
 }
 
 function paragraphsHtml(text){

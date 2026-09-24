@@ -29,8 +29,27 @@
 }
 
 /* Author information from submitted abstracts */
-.author-section{margin-top:22px;padding:17px 18px;background:#f5f3ed;border-left:3px solid var(--accent);border-radius:0 11px 11px 0}
-.author-section .modal-label{margin-bottom:8px}
-.author-info{display:grid;gap:5px;color:#415854;font-size:.92rem;line-height:1.65}
-.author-line:first-child{font-weight:800;color:var(--ink)}
-@media(max-width:720px){.author-section{margin-top:18px;padding:14px 15px}.author-info{font-size:.88rem}}
+.author-section{margin-top:22px;padding:18px 20px;background:#f5f3ed;border-left:3px solid var(--accent);border-radius:0 11px 11px 0}
+.author-section .modal-label{margin-bottom:10px}
+.author-info{display:grid;gap:0}
+.author-item{padding:10px 0;border-top:1px solid rgba(22,60,59,.09)}
+.author-item:first-child{padding-top:0;border-top:0}
+.author-name{font-weight:800;color:var(--ink);font-size:.98rem;line-height:1.5}
+.author-detail{margin-top:4px;color:#536865;font-size:.9rem;line-height:1.65}
+.author-subblock{margin-top:12px;padding-top:12px;border-top:1px solid rgba(22,60,59,.09)}
+.author-subtitle{font-size:.72rem;color:var(--accent);font-weight:900;letter-spacing:.12em;margin-bottom:7px}
+.author-lines{display:grid;gap:6px}
+.author-line{color:#415854;font-size:.9rem;line-height:1.65}
+@media(max-width:720px){.author-section{margin-top:18px;padding:15px}.author-name{font-size:.95rem}.author-detail,.author-line{font-size:.87rem}}
+
+
+.author-section{margin-top:22px;padding:18px 20px;background:#f5f3ed;border-left:3px solid var(--accent);border-radius:0 11px 11px 0}
+.author-section .modal-label{margin-bottom:12px}
+.author-unified-row{display:grid;grid-template-columns:92px minmax(0,1fr);gap:14px;padding:10px 0;border-top:1px solid rgba(22,60,59,.09)}
+.author-unified-row:first-of-type{border-top:0;padding-top:0}
+.author-field-label{font-size:.78rem;font-weight:900;color:var(--accent);letter-spacing:.08em}
+.author-field-value{color:#415854;font-size:.93rem;line-height:1.7}
+.author-names{font-weight:800;color:var(--ink)}
+@media(max-width:720px){.author-unified-row{grid-template-columns:1fr;gap:3px}.author-field-value{font-size:.89rem}}
+
+.author-one-line-list{display:grid;gap:8px}.author-one-line{color:#415854;font-size:.94rem;line-height:1.7}.author-one-line strong{color:var(--ink);font-weight:800}.author-sep{margin:0 4px;color:#87918e}@media(max-width:720px){.author-one-line{font-size:.89rem}}
