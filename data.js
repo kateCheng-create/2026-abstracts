@@ -48,7 +48,7 @@ window.DB = {
       "keywords_en": "Elderly Prisoners; Release Transition; Protective Treatment; Social Reintegration; Social Safety Net",
       "display_presenters": "李莉娟",
       "author_info_lines": [
-        "李莉娟",
+        "李莉娟 助理教授｜南臺科技大學財經法律研究所",
         "南臺科技大學財經法律研究所｜助理教授"
       ]
     },
@@ -123,7 +123,7 @@ window.DB = {
       "keywords_en": "Social Participation; Health Support; Healthy Ageing; Social Prescribing; Dementia-Friendly Community",
       "display_presenters": "范家榮",
       "author_info_lines": [
-        "范家榮｜台北大學｜兼任助理教授"
+        "范家榮 兼任助理教授｜國立臺北大學社會工作學系"
       ]
     },
     {
@@ -147,7 +147,7 @@ window.DB = {
       "keywords_en": "Local Revitalization, Forest Therapy, Social Prescribing, Link Workers, Third Age, Senior Social Connection,",
       "display_presenters": "蔡文宜",
       "author_info_lines": [
-        "蔡文宜"
+        "蔡文宜 助理教授｜臺北醫學大學醫療暨生物科技法律研究所"
       ]
     },
     {
@@ -171,7 +171,7 @@ window.DB = {
       "keywords_en": "Parent Co-learning Community; Social Capital; Middle School Students ; Lifelong Learning.",
       "display_presenters": "戴慧真",
       "author_info_lines": [
-        "戴慧真",
+        "戴慧真 博士生｜國立中正大學成人及繼續教育學系",
         "國立中正大學成人及繼續教育學系 博士班"
       ]
     },
@@ -197,6 +197,8 @@ window.DB = {
       "keywords_en": "Palliative care; Decision Making; Quantitative Meta-synthesis; End-of-life Care; Advance-care planning",
       "display_presenters": "馮卓奇、蘇枳晴",
       "author_info_lines": [
+        "蘇枳晴 學生｜香港中文大學文化及宗教研究系",
+        "馮卓奇 講師｜香港都會大學伍絜宜人文社會科學院社會科學系",
         "So Chi Ching｜The Chinese University of Hong Kong｜Master's Student",
         "Fung Cheuk Ki｜Hong Kong Metropolitan University｜Lecturer"
       ]
@@ -223,7 +225,7 @@ window.DB = {
       "keywords_en": "older family caregivers; adult education; lifelong learning; psychological resilience; family caregiver support services",
       "display_presenters": "林佳慈",
       "author_info_lines": [
-        "林佳慈",
+        "林佳慈 博士生｜國立中正大學成人及繼續教育學系",
         "國立中正大學成人及繼續教育學系／博士生",
         "臺南國家美術館籌備處／教育推廣組副研究員兼組長"
       ]
@@ -276,7 +278,7 @@ window.DB = {
       "keywords_en": "capability approach; lifelong learning policy; middle-aged and older adult learning; super-aged society; age justice",
       "display_presenters": "Bei-Yun Wang",
       "author_info_lines": [
-        "Bei-Yun Wang",
+        "Bei-Yun Wang 博士生｜國立中正大學教育學研究所",
         "Graduate Institute of Education, National Chung Cheng University",
         "Ph.D. Student",
         "bethiawang@alum.ccu.edu.tw"
@@ -304,7 +306,8 @@ window.DB = {
       "keywords_en": "social prescribing; large language model; link worker; literature analysis; mechanisms; outcome evaluation; social determinants of health",
       "display_presenters": "劉宜君、陳怡蒨",
       "author_info_lines": [
-        "劉宜君、陳怡蒨"
+        "劉宜君 教授兼學務長｜元智大學社會暨政策科學學系",
+        "陳怡蒨 助理教授兼校務研究中心主任｜元智大學社會暨政策科學學系"
       ]
     },
     {
@@ -353,7 +356,7 @@ window.DB = {
       "keywords_en": "Long-Term Care, Welfare Eligibility, Institutional Design",
       "display_presenters": "吳子頤",
       "author_info_lines": [
-        "吳子頤*",
+        "吳子頤 博士生｜國立政治大學社會學系",
         "張文馨"
       ]
     },
@@ -476,7 +479,7 @@ window.DB = {
       "keywords_en": "Older exercisers, Health literacy, Healthy aging, Senior fitness clubs, Health inequality",
       "display_presenters": "林玉梅",
       "author_info_lines": [
-        "林玉梅｜雲林縣古坑國民中小學｜教師"
+        "林玉梅 博士/教師｜國立中正大學成人及繼續教育所暨雲林縣古坑國民中小學"
       ]
     },
     {
@@ -655,7 +658,7 @@ window.DB = {
       "keywords_en": "midlife and older women; re-employment; caregiving responsibilities; care support; age-friendly workplace",
       "display_presenters": "黃冠豪",
       "author_info_lines": [
-        "黃冠豪／國立臺北大學公共行政暨政策學系／碩士生"
+        "黃冠豪 碩士生｜國立臺北大學公共行政暨政策學系"
       ]
     },
     {
@@ -679,7 +682,7 @@ window.DB = {
       "keywords_en": "Middle-aged and Elderly Adults, Atypical Employment, Platform Labor, Psychological Adjustment, Labor Policy",
       "display_presenters": "陳志羿",
       "author_info_lines": [
-        "陳志羿／國立臺灣師範大學工業教育學系技職教育數位碩士在職專班／研究生"
+        "陳志羿 碩士生｜國立臺灣師範大學工業教育學系技職教育碩士在職專班"
       ]
     },
     {
@@ -703,7 +706,7 @@ window.DB = {
       "keywords_en": "young adult caregiving, disability care, feeling rules, values of care, logic of voluntariness",
       "display_presenters": "陳香婷",
       "author_info_lines": [
-        "陳香婷｜清華大學社會學研究所｜碩士"
+        "陳香婷 碩士生｜國立清華大學社會學研究所"
       ]
     },
     {
@@ -779,7 +782,7 @@ window.DB = {
       "keywords_en": "AI Exergames, Senior Daycare Centers, Service Innovation, Disability Prevention, Social Participation",
       "display_presenters": "黃雪芳",
       "author_info_lines": [
-        "黃雪芳"
+        "黃雪芳 博士生｜國立臺北科技大學技術及職業教育研究所"
       ]
     },
     {
@@ -803,7 +806,7 @@ window.DB = {
       "keywords_en": "SECI Knowledge Spiral Theory, Adult Learning, Learning Strategy, Older Learners",
       "display_presenters": "陳靖垟",
       "author_info_lines": [
-        "陳靖垟",
+        "陳靖垟 博士生｜國立中正大學成人及繼續教育學系研究所",
         "國立中正大學成人及繼續教育學系研究所博士生"
       ]
     },
@@ -828,7 +831,7 @@ window.DB = {
       "keywords_en": "Age-Friendly Workplace; Middle-Aged and Older Employees; Career Continuation; Rural Healthcare Institutions.",
       "display_presenters": "戴慧真",
       "author_info_lines": [
-        "戴慧真 王皓晨",
+        "戴慧真 博士生｜國立中正大學成人及繼續教育學系",
         "國立中正大學成人及繼續教育學系/博士班 國立臺東大學公共與文化事務學系/碩士班"
       ]
     },
@@ -853,7 +856,7 @@ window.DB = {
       "keywords_en": "aging workforce; age-friendly workplace; middle-aged and older worker",
       "display_presenters": "陳怡陵",
       "author_info_lines": [
-        "陳怡陵",
+        "陳怡陵 組員｜高雄市立小港醫院",
         "高雄市立小港醫院（委託財團法人私立高雄醫學大學經營）、高雄醫學大學附設中和紀念醫院、高雄醫學大學｜人力資源室 中級組員"
       ]
     },
@@ -878,7 +881,7 @@ window.DB = {
       "keywords_en": "retirement preparation; career transition",
       "display_presenters": "陳怡陵",
       "author_info_lines": [
-        "陳怡陵",
+        "陳怡陵 組員｜高雄市立小港醫院",
         "高雄市立小港醫院（委託財團法人私立高雄醫學大學經營）、高雄醫學大學附設中和紀念醫院、高雄醫學大學｜人力資源室 中級組員"
       ]
     },
@@ -1008,7 +1011,7 @@ window.DB = {
       "keywords_en": "Mindfulness, Older Adults, Quality of Life, Coping Strategy",
       "display_presenters": "陳靖垟",
       "author_info_lines": [
-        "陳靖垟",
+        "陳靖垟 博士生｜國立中正大學成人及繼續教育學系研究所",
         "國立中正大學成人及繼續教育學系研究所博士生"
       ]
     },
@@ -1086,7 +1089,7 @@ window.DB = {
       "keywords_en": "Ageing Technology; LINE Chatbot; Artificial Intelligence; Anti-Fraud Design; Design Translation.",
       "display_presenters": "張紋綺、楊吉豐",
       "author_info_lines": [
-        "張紋綺／屏東大學／研究生、楊吉豐／屏東大學／研究生、陳怡穆／屏東大學／副教授"
+        "張紋綺／國立屏東大學／研究生、楊吉豐／國立屏東大學／研究生、陳怡穆／國立屏東大學／副教授"
       ]
     },
     {
@@ -1110,7 +1113,7 @@ window.DB = {
       "keywords_en": "Elder and child-Aware, Longevity Society, Health considerations, user-interface",
       "display_presenters": "呂紀臻",
       "author_info_lines": [
-        "呂紀臻"
+        "呂紀臻 學生｜龍華科技大學電子工程系"
       ]
     },
     {
@@ -1134,7 +1137,7 @@ window.DB = {
       "keywords_en": "Elder-Aware, exercise-habit, exercise date and timing, personal-driven user-interface",
       "display_presenters": "倪郡嶸",
       "author_info_lines": [
-        "倪郡嶸",
+        "倪郡嶸 學生｜龍華科技大學電子工程系",
         "NI, CHUN-JUNG／student"
       ]
     },
@@ -1159,7 +1162,7 @@ window.DB = {
       "keywords_en": "Sarcopenia; Gamified Training; Multisensory Feedback; Interactive Assistive Device for Older Adults; Directional Movement Training",
       "display_presenters": "李育瑋",
       "author_info_lines": [
-        "李育瑋 大同大學機械與材料工程學系 研究生（通訊作者）",
+        "李育瑋 碩士生｜大同大學機械與材料工程學系",
         "賴躍仁 大同大學機械與材料工程學系 助理教授"
       ]
     },
@@ -1185,7 +1188,7 @@ window.DB = {
       "keywords_en": "Generative AI, Older Adults, Local Cultural Translation, Scaffolding Theory, Digital Empowerment",
       "display_presenters": "林孟儀",
       "author_info_lines": [
-        "林孟儀",
+        "林孟儀 博士生｜國立彰化師範大學教育研究所",
         "國立彰化師範大學 教育研究所",
         "博士生"
       ]
