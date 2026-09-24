@@ -12,6 +12,128 @@ const nameIndex=new Map();
 ABSTRACTS.forEach(r=>presentersOf(r).forEach(n=>{if(!nameIndex.has(n))nameIndex.set(n,[]);nameIndex.get(n).push(r)}));
 const allNames=[...nameIndex.keys()].sort((a,b)=>b.length-a.length);
 
+
+function normalizeDigits(s){
+  return String(s||'').replace(/[¹²³⁴⁵⁶⁷⁸⁹⁰]/g,m=>({'¹':'1','²':'2','³':'3','⁴':'4','⁵':'5','⁶':'6','⁷':'7','⁸':'8','⁹':'9','⁰':'0'}[m]||m));
+}
+function cleanAuthorText(s){
+  return normalizeDigits(s).replace(/\s+/g,' ').trim();
+}
+function isEmailLine(line){return /e-?mail|email|@|聯絡/i.test(String(line||''))}
+function isCorrespondenceLine(line){return /^(?:[＊*]\s*)?通訊作者[:：]?/i.test(String(line||'').trim())}
+function isLikelyTitleLine(line,r){
+  const v=String(line||'').trim();
+  return !!v && (v===String(r.title||'').trim() || v===String(r.title_en||'').trim());
+}
+function splitDelimitedAuthorLine(line){
+  const parts=String(line||'').split(/\s*[｜|／/]\s*/).map(x=>x.trim()).filter(Boolean);
+  return parts.length>=2?parts:null;
+}
+function isLikelyPersonName(v){const s=String(v||'').trim();return !!s && !/大學|學系|研究所|學院|醫院|中心|department|institute|university/i.test(s) && s.length<=20;}
+function startsWithMarker(line){
+  const v=String(line||'').trim();
+  return /^[\d¹²³⁴⁵⁶⁷⁸⁹⁰＊*]+\s*/.test(v)||/[\d¹²³⁴⁵⁶⁷⁸⁹⁰＊*]\s*$/.test(v);
+}
+function cleanLeadingMarker(line){
+  return cleanAuthorText(line).replace(/^[\d¹²³⁴⁵⁶⁷⁸⁹⁰]+\s*/, '').replace(/[\d¹²³⁴⁵⁶⁷⁸⁹⁰＊*]+$/,'').replace(/^[＊*]\s*/, '').trim();
+}
+function extractNameList(line){
+  return cleanAuthorText(line)
+    .replace(/[＊*]/g,'')
+    .split(/[、,，]/)
+    .map(x=>x.replace(/\d+/g,'').trim())
+    .filter(Boolean);
+}
+function isLikelyNameOnly(line){
+  const v=cleanAuthorText(line).replace(/[＊*\d]/g,'').trim();
+  if(!v) return false;
+  if(/[｜|／/]/.test(v)) return false;
+  if(/大學|學系|研究所|學院|教授|博士|碩士|學生|student|Professor|Lecturer|Email|email|@/i.test(v)) return false;
+  return v.length<=16;
+}
+function parseLooseAuthorLine(line){
+  const v=cleanAuthorText(line);
+  const m=v.match(/^([\u4e00-\u9fffA-Za-z\-．·]{2,20})\s+(.+)$/);
+  if(m && !/大學|學系|研究所|學院|醫院|中心/.test(m[1])){
+    return {name:m[1].replace(/[＊*]/g,''), detail:m[2].trim()};
+  }
+  return null;
+}
+function normalizeAuthorInfo(r){
+  const raw=(r.author_info_lines||[])
+    .map(x=>String(x||'').trim())
+    .filter(Boolean)
+    .filter(line=>!isLikelyTitleLine(line,r));
+
+  const contacts=raw.filter(isEmailLine).map(line=>cleanAuthorText(line).replace(/[＊*]+$/,'').trim());
+  const notes=raw.filter(line=>!isEmailLine(line)&&isCorrespondenceLine(line)).map(cleanAuthorText);
+  const lines=raw.filter(line=>!isEmailLine(line)&&!isCorrespondenceLine(line));
+
+  const authors=[];
+  const affiliations=[];
+
+  if(!lines.length) return {authors, affiliations, notes, contacts};
+
+  if(lines.every(isLikelyNameOnly)){
+    lines.forEach(line=>authors.push({name:cleanAuthorText(line).replace(/[＊*]/g,'')}));
+    return {authors, affiliations, notes, contacts};
+  }
+
+  const delimitedCount=lines.filter(line=>splitDelimitedAuthorLine(line)).length;
+  if(delimitedCount===lines.length){
+    lines.forEach(line=>{
+      const parts=splitDelimitedAuthorLine(line);
+      authors.push({name:parts[0], detail:parts.slice(1).join('｜')});
+    });
+    return {authors, affiliations, notes, contacts};
+  }
+
+  if(lines.length>1 && /[、,，]/.test(lines[0]) && lines.slice(1).some(startsWithMarker)){
+    extractNameList(lines[0]).forEach(name=>authors.push({name}));
+    lines.slice(1).forEach(line=>affiliations.push(cleanLeadingMarker(line)));
+    return {authors, affiliations, notes, contacts};
+  }
+
+  if(lines.length===1){
+    const parts=splitDelimitedAuthorLine(lines[0]);
+    if(parts){
+      authors.push({name:parts[0], detail:parts.slice(1).join('｜')});
+    }else{
+      const loose=parseLooseAuthorLine(lines[0]);
+      if(loose) authors.push(loose);
+      else authors.push({name:cleanAuthorText(lines[0]).replace(/[＊*]/g,'')});
+    }
+    return {authors, affiliations, notes, contacts};
+  }
+
+  const first=lines[0];
+  const looseFirst=parseLooseAuthorLine(first);
+  if(looseFirst && lines.length===2 && !splitDelimitedAuthorLine(lines[1])){
+    authors.push(looseFirst);
+    affiliations.push(cleanAuthorText(lines[1]));
+    return {authors, affiliations, notes, contacts};
+  }
+
+  extractNameList(first).forEach(name=>authors.push({name}));
+  lines.slice(1).forEach(line=>{
+    const parsed=splitDelimitedAuthorLine(line);
+    if(parsed && parsed.length>=2 && isLikelyPersonName(parsed[0])){
+      authors.push({name:parsed[0], detail:parsed.slice(1).join('｜')});
+    }else{
+      affiliations.push(cleanAuthorText(line));
+    }
+  });
+  return {authors, affiliations, notes, contacts};
+}
+function renderAuthorSection(r){
+  const info=normalizeAuthorInfo(r);
+  if(!info.authors.length && !info.affiliations.length && !info.notes.length && !info.contacts.length) return '';
+  const authorRows=info.authors.map(a=>`<div class="author-item"><div class="author-name">${esc(a.name)}</div>${a.detail?`<div class="author-detail">${esc(a.detail)}</div>`:''}</div>`).join('');
+  const affBlock=info.affiliations.length?`<div class="author-subblock"><div class="author-subtitle">單位／職稱</div><div class="author-lines">${info.affiliations.map(line=>`<div class="author-line">${esc(line)}</div>`).join('')}</div></div>`:'';
+  const noteBlock=info.notes.length?`<div class="author-subblock"><div class="author-subtitle">補充資訊</div><div class="author-lines">${info.notes.map(line=>`<div class="author-line">${esc(line)}</div>`).join('')}</div></div>`:'';
+  return `<section class="author-section"><div class="modal-label">作者資訊</div><div class="author-info">${authorRows}${affBlock}${noteBlock}</div></section>`;
+}
+
 function paragraphsHtml(text){
   const value=String(text||'').trim();
   if(!value)return '<p class="abstract-paragraph no-content">尚未提供</p>';
@@ -34,10 +156,7 @@ function openAbstract(r){
       ${hasEnTitle?`<p class="modal-en-title">${esc(r.title_en)}</p>`:''}
     </section>
 
-    ${r.author_info_lines&&r.author_info_lines.length?`<section class="author-section">
-      <div class="modal-label">作者資訊</div>
-      <div class="author-info">${r.author_info_lines.map(line=>`<div class="author-line">${esc(line)}</div>`).join('')}</div>
-    </section>`:''}
+    ${renderAuthorSection(r)}
 
     <section class="abstract-block primary-abstract">
       <h4><span>摘要</span><span>ABSTRACT</span></h4>
