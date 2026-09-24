@@ -26,7 +26,7 @@ main{width:min(1120px,100%);margin:auto;padding:46px 22px 72px}
 .intro-note{margin:0;color:var(--muted);font-size:.92rem;text-align:right}
 .tools{background:rgba(255,253,249,.94);border:1px solid rgba(23,58,59,.09);border-radius:18px;padding:17px;box-shadow:0 8px 24px rgba(23,58,59,.05);margin-bottom:34px}
 .searchbox{display:flex;align-items:center;gap:10px;height:50px;padding:0 15px;background:#fff;border:1px solid var(--line);border-radius:12px}
-.searchbox svg{width:20px;height:20px;fill:none;stroke:var(--muted);stroke-width:1.8;stroke-linecap:round}
+.search-icon{width:22px;flex:0 0 22px;color:var(--muted);font-size:1.7rem;line-height:1;text-align:center}
 .searchbox input{width:100%;border:0;outline:0;background:transparent;color:var(--ink);font-size:.96rem}
 .filter-row{display:flex;justify-content:space-between;align-items:start;gap:14px;flex-wrap:wrap;margin-top:12px}
 .filters{display:flex;gap:7px;flex-wrap:wrap}
