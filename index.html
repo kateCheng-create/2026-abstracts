@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#173a3b" />
+<title>2026 設計長壽社會｜發表摘要</title>
+<meta name="description" content="2026 設計長壽社會：高齡社會的勞動、福祉與創新國際研討會—發表摘要查詢" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <div class="eyebrow">2026 DESIGNING LONGEVITY</div>
+    <h1>發表摘要 <span>Abstracts</span></h1>
+    <p>2026 設計長壽社會：高齡社會的勞動、福祉與創新國際研討會</p>
+  </div>
+</header>
+<main>
+  <section class="controls" aria-label="摘要搜尋與篩選">
+    <label class="searchbox"><span>⌕</span><input id="q" type="search" placeholder="搜尋題目、發表人、關鍵字…" autocomplete="off"></label>
+    <div class="filters" id="typeFilters">
+      <button class="chip active" data-type="全部">全部</button>
+      <button class="chip" data-type="論文發表">論文發表</button>
+      <button class="chip" data-type="海報發表">海報發表</button>
+    </div>
+    <div class="filters" id="dateFilters">
+      <button class="chip active" data-date="全部">全部日期</button>
+      <button class="chip" data-date="10/1">10/1</button>
+      <button class="chip" data-date="10/2">10/2</button>
+      <button class="chip" data-date="10/3">10/3</button>
+    </div>
+    <div class="summary"><strong id="count">0</strong> 篇發表摘要</div>
+  </section>
+  <section id="cards" class="cards" aria-live="polite"></section>
+  <div id="empty" class="empty" hidden>找不到符合條件的摘要，請換個關鍵字試試看。</div>
+</main>
+<footer>2026 Designing Longevity · Abstract Browser</footer>
+
+<div id="modal" class="modal" hidden>
+  <div class="backdrop" data-close></div>
+  <article class="sheet" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <button class="close" data-close aria-label="關閉">×</button>
+    <div id="modalBody"></div>
+  </article>
+</div>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
