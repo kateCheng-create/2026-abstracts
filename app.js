@@ -12,16 +12,44 @@ const nameIndex=new Map();
 ABSTRACTS.forEach(r=>presentersOf(r).forEach(n=>{if(!nameIndex.has(n))nameIndex.set(n,[]);nameIndex.get(n).push(r)}));
 const allNames=[...nameIndex.keys()].sort((a,b)=>b.length-a.length);
 
+function paragraphsHtml(text){
+  const value=String(text||'').trim();
+  if(!value)return '<p class="abstract-paragraph no-content">尚未提供</p>';
+  return value.split(/\n\s*\n+/).map(p=>`<p class="abstract-paragraph">${esc(p.trim()).replace(/\n/g,'<br>')}</p>`).join('');
+}
+
 function openAbstract(r){
   const code=r.type==='海報發表'?`海報 ${r.code}`:r.code;
-  modalBody.innerHTML=`<div class="modal-eyebrow">Presenter / Abstract</div>
-    <h2 id="modalTitle" class="modal-presenters">${esc(presentersOf(r).join('、'))}</h2>
-    <div class="modal-meta"><span>${esc(r.date)}</span><span>${esc(r.type)}</span><span>${esc(code)}</span></div>
-    <div class="modal-label">發表題目</div>
-    <h3 class="modal-title">${esc(r.title||r.title_en||'未提供題目')}</h3>
-    ${r.title_en&&r.title_en!==r.title?`<p class="modal-en-title">${esc(r.title_en)}</p>`:''}
-    <section class="abstract-block"><h4>摘要 Abstract</h4><div class="abstract-text">${esc(r.abstract||'尚未提供中文摘要')}</div>${r.keywords?`<div class="keywords"><strong>關鍵詞：</strong>${esc(r.keywords)}</div>`:''}</section>
-    ${r.abstract_en?`<section class="abstract-block"><h4>English Abstract</h4><div class="abstract-text">${esc(r.abstract_en)}</div>${r.keywords_en?`<div class="keywords"><strong>Keywords:</strong> ${esc(r.keywords_en)}</div>`:''}</section>`:''}`;
+  const hasEnTitle=Boolean(r.title_en&&r.title_en!==r.title);
+  modalBody.innerHTML=`
+    <header class="abstract-header">
+      <div class="modal-eyebrow">PRESENTER / ABSTRACT</div>
+      <h2 id="modalTitle" class="modal-presenters">${esc(presentersOf(r).join('、'))}</h2>
+      <div class="modal-meta"><span>${esc(r.date)}</span><span>${esc(r.type)}</span><span>${esc(code)}</span></div>
+    </header>
+
+    <section class="title-section">
+      <div class="modal-label">發表題目</div>
+      <h3 class="modal-title">${esc(r.title||r.title_en||'未提供題目')}</h3>
+      ${hasEnTitle?`<p class="modal-en-title">${esc(r.title_en)}</p>`:''}
+    </section>
+
+    ${r.author_info_lines&&r.author_info_lines.length?`<section class="author-section">
+      <div class="modal-label">作者資訊</div>
+      <div class="author-info">${r.author_info_lines.map(line=>`<div class="author-line">${esc(line)}</div>`).join('')}</div>
+    </section>`:''}
+
+    <section class="abstract-block primary-abstract">
+      <h4><span>摘要</span><span>ABSTRACT</span></h4>
+      <div class="abstract-text">${paragraphsHtml(r.abstract||'')}</div>
+      ${r.keywords?`<div class="keywords"><span class="keyword-label">關鍵詞</span><span>${esc(r.keywords)}</span></div>`:''}
+    </section>
+
+    ${r.abstract_en?`<section class="abstract-block english-abstract">
+      <h4><span>英文摘要</span><span>ENGLISH ABSTRACT</span></h4>
+      <div class="abstract-text en">${paragraphsHtml(r.abstract_en)}</div>
+      ${r.keywords_en?`<div class="keywords"><span class="keyword-label">Keywords</span><span>${esc(r.keywords_en)}</span></div>`:''}
+    </section>`:''}`;
   modal.hidden=false;document.body.classList.add('lock');
 }
 function closeModal(){modal.hidden=true;document.body.classList.remove('lock')}
