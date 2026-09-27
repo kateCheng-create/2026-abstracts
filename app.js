@@ -12,6 +12,14 @@ const nameIndex=new Map();
 ABSTRACTS.forEach(r=>presentersOf(r).forEach(n=>{if(!nameIndex.has(n))nameIndex.set(n,[]);nameIndex.get(n).push(r)}));
 const allNames=[...nameIndex.keys()].sort((a,b)=>b.length-a.length);
 
+// Agenda display names that differ from the abstract-handbook author spelling.
+// Keep the agenda text as published, but link to the corresponding abstract record.
+const presenterAliases=new Map([
+  ['李建錠','李建錡'],
+  ['卓美涓','卓美涵']
+]);
+const agendaNames=[...new Set([...allNames,...presenterAliases.keys()])].sort((a,b)=>b.length-a.length);
+
 
 function normalizeDigits(s){
   return String(s||'').replace(/[¹²³⁴⁵⁶⁷⁸⁹⁰]/g,m=>({'¹':'1','²':'2','³':'3','⁴':'4','⁵':'5','⁶':'6','⁷':'7','⁸':'8','⁹':'9','⁰':'0'}[m]||m));
@@ -301,7 +309,7 @@ function clickableText(raw){
   function linkPresenterNames(line){
     let safe=esc(line);
     const tokens=[];
-    allNames.forEach(name=>{
+    agendaNames.forEach(name=>{
       const encoded=esc(name);
       if(!safe.includes(encoded))return;
       const key=`@@NAME${tokens.length}@@`;
@@ -309,10 +317,15 @@ function clickableText(raw){
       safe=safe.split(encoded).join(key);
     });
     tokens.forEach(({key,name})=>{
-      const rows=nameIndex.get(name)||[];
+      const canonical=presenterAliases.get(name)||name;
+      const rows=nameIndex.get(canonical)||[];
+      if(!rows.length){
+        safe=safe.split(key).join(esc(name));
+        return;
+      }
       const btn=rows.length===1
         ?`<button class="presenter-link" data-abstract-id="${esc(rows[0].id)}">${esc(name)}</button>`
-        :`<button class="presenter-link" data-presenter="${esc(name)}">${esc(name)}</button>`;
+        :`<button class="presenter-link" data-presenter="${esc(canonical)}">${esc(name)}</button>`;
       safe=safe.split(key).join(btn);
     });
     return safe;
@@ -334,7 +347,8 @@ function clickableText(raw){
     const shouldLink=!isNonPresenterRole && (isPresenterLine || presenterContinuation);
     const html=shouldLink?linkPresenterNames(line):esc(line);
     if(i===0)return `<span class="session-title">${html}</span>`;
-    return `<span class="line">${html}</span>`;
+    const roleClass=isNonPresenterRole?' role-line':'';
+    return `<span class="line${roleClass}">${html}</span>`;
   }).join('');
 }
 
