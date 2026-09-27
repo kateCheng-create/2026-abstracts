@@ -29,7 +29,7 @@ function splitDelimitedAuthorLine(line){
   const parts=String(line||'').split(/\s*[｜|／/]\s*/).map(x=>x.trim()).filter(Boolean);
   return parts.length>=2?parts:null;
 }
-function isLikelyPersonName(v){const s=String(v||'').trim();return !!s && !/大學|學系|研究所|學院|醫院|中心|department|institute|university/i.test(s) && s.length<=20;}
+function isLikelyPersonName(v){const s=String(v||'').trim();if(!s)return false;const role=extractRoleFromText(s);const base=role?s.slice(0,s.lastIndexOf(role)).trim():s;return !!base && !/大學|學系|研究所|學院|醫院|中心|department|institute|university/i.test(base) && base.length<=20;}
 function startsWithMarker(line){
   const v=String(line||'').trim();
   return /^[\d¹²³⁴⁵⁶⁷⁸⁹⁰＊*]+\s*/.test(v)||/[\d¹²³⁴⁵⁶⁷⁸⁹⁰＊*]\s*$/.test(v);
@@ -83,7 +83,11 @@ function normalizeAuthorInfo(r){
   if(delimitedCount===lines.length){
     lines.forEach(line=>{
       const parts=splitDelimitedAuthorLine(line);
-      authors.push({name:parts[0], detail:parts.slice(1).join('｜')});
+      if(isLikelyPersonName(parts[0])){
+        authors.push({name:parts[0], detail:parts.slice(1).join('｜')});
+      }else{
+        affiliations.push(parts.join('｜'));
+      }
     });
     return {authors, affiliations, notes, contacts};
   }
@@ -127,14 +131,22 @@ function normalizeAuthorInfo(r){
 }
 function extractRoleFromText(text){
   const roles=[
-    '兼任助理副教授','兼任助理教授','特聘教授','助理教授','副教授','教授','講師','教師',
-    '助理研究員','副研究員','研究員','博士研究生','碩士研究生','博士生','碩士生','研究生',
+    '助理教授兼校務研究中心主任','教授兼學務長','副研究員兼組長','兼任助理副教授','兼任助理教授',
+    '博士／教師','博士/教師','特聘教授','助理教授','副教授','教授','講師','教師','園長',
+    '助理研究員','副研究員','研究員','博士研究生','碩士研究生','博士生','碩士生','研究生','四年級生','碩二',
     '中級組員','組員','理事長','負責人','學生','主治醫師','物理治療師',
-    "Master's Student",'Ph.D. Student','Year 4 Student','Lecturer','Professor','student'
+    "Master's Student",'Master’s Student','Ph.D. Student','PhD Student','Year 4 Student','Lecturer','Assistant Professor','Associate Professor','Professor','Student','student'
   ];
   const v=cleanAuthorText(text);
   for(const role of roles){
-    if(v.includes(role)) return role;
+    if(v===role || v.endsWith(' '+role) || v.endsWith('／'+role) || v.endsWith('/'+role) || v.endsWith(role)){
+      const idx=v.lastIndexOf(role);
+      if(idx===0 || /[\s／/｜|]/.test(v[idx-1]||'')) return role;
+      if(/^[\u4e00-\u9fff]/.test(role) && idx>0 && /[\u4e00-\u9fff]/.test(v[idx-1])){
+        const prefix=v.slice(0,idx);
+        if(!/大學|學系|研究所|學院|醫院|中心/.test(prefix.slice(-8))) return role;
+      }
+    }
   }
   return '';
 }
@@ -221,6 +233,17 @@ function renderAuthorSection(r){
   </section>`;
 }
 
+function renderEnglishAuthorSection(r){
+  const lines=(r.author_info_lines_en||[]).map(x=>String(x||'').trim()).filter(Boolean).filter(x=>!/(?:e-?mail|email|@|contact)/i.test(x));
+  if(!lines.length) return '';
+  return `<section class="author-section english-author-section">
+    <div class="modal-label">AUTHOR INFORMATION</div>
+    <div class="author-one-line-list">
+      ${lines.map(line=>`<div class="author-one-line"><strong>${esc(line.split('｜')[0]||line)}</strong>${line.includes('｜')?`<span class="author-sep">｜</span><span>${esc(line.split('｜').slice(1).join('｜'))}</span>`:''}</div>`).join('')}
+    </div>
+  </section>`;
+}
+
 function paragraphsHtml(text){
   const value=String(text||'').trim();
   if(!value)return '<p class="abstract-paragraph no-content">尚未提供</p>';
@@ -251,7 +274,7 @@ function openAbstract(r){
       ${r.keywords?`<div class="keywords"><span class="keyword-label">關鍵詞</span><span>${esc(r.keywords)}</span></div>`:''}
     </section>
 
-    ${r.abstract_en?`<section class="abstract-block english-abstract">
+    ${r.abstract_en?`${renderEnglishAuthorSection(r)}<section class="abstract-block english-abstract">
       <h4><span>英文摘要</span><span>ENGLISH ABSTRACT</span></h4>
       <div class="abstract-text en">${paragraphsHtml(r.abstract_en)}</div>
       ${r.keywords_en?`<div class="keywords"><span class="keyword-label">Keywords</span><span>${esc(r.keywords_en)}</span></div>`:''}

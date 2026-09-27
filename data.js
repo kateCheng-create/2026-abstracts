@@ -1,6 +1,1090 @@
 window.DB = {
   "abstracts": [
     {
+      "id": "PN-01-1",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 01",
+      "code": "Panel 01-1",
+      "presenter": "林彩媚",
+      "presenters": [
+        "林彩媚"
+      ],
+      "title": "高齡家庭照顧者正念介入方案對提升覺察與緩解照顧負荷及壓力知覺之探討",
+      "title_en": "A Mindfulness Intervention Program for Older Family Caregivers: Exploring the Effects on Enhancing Mindful Awareness and Alleviating Caregiver Burden and Perceived Stress",
+      "author_info_lines": [
+        "林彩媚 博士候選人｜國立臺灣師範大學社會教育學系"
+      ],
+      "author_info_lines_en": [
+        "Ph.D. Candidate Choi-Mei Lin｜Department of Social Education, National Taiwan Normal University"
+      ],
+      "abstract": "台灣自 2025 年正式邁入超高齡社會，家庭照顧者長期承受多重身心壓力，卻是長\n照體系中最被忽視的族群。國際標準正念減壓（MBSR）課程因時間密集、體力需求高，\n對高齡照顧者存在顯著適配障礙，形成「最需要支持者最難近用支持」的雙重困境。本\n研究旨在探討優化型正念介入支持團體方案對高齡家庭照顧者正念覺察能力、主觀照顧\n負荷及壓力知覺之影響，並探究照顧者態度轉化之內在歷程。\n本研究採混合研究法，以單組前後測準實驗設計為主體，輔以半結構式訪談進行質\n性三角檢證。透過立意抽樣，招募20位高齡家庭照顧者分兩梯次參與八週優化型正念支\n持團體（每週三小時，共 24 小時）；有效問卷 18 份（女性 94.4%，平均62.2 歲，平\n均照顧年資10.4年），另邀請其中 5 位團體成員進行半結構式訪談，採主題分析法進行\n質性資料分析。量化工具包含正念注意覺察量表（MAAS）、照顧負荷量表（ZBI-12）及\n壓力知覺量表（PSS-14）。\n量化結果依據成對樣本 t 檢定顯示，八週優化型正念介入方案後，三項依變項均\n呈顯著改變：（1）正念覺察（MAAS）顯著提升；（2）照顧負荷（ZBI-12）顯著降低；\n（3）壓力知覺（PSS-14）顯著降低。三項效果量均達極佳水準。相關分析進一步顯示，\n正念覺察改變量與照顧負荷改變量及壓力知覺改變量，均呈顯著負相關，支持正念覺察\n提升為緩解照顧負荷與壓力知覺之核心共變機制。質性分析則萃取出五大核心主題：（一）\n打破照顧慣性；（二）照顧負荷的重新詮釋；（三）自我慈心的萌發；（四）人際正念與\n界限建立；（五）正念的生活化實踐。研究揭示，本優化型正念介入方案在體力友善、\n時間可及的設計前提下，能有效提升中高齡照顧者之正念覺察，並同步緩解照顧負荷與\n壓力知覺，以「自我慈心」與「心理韌性（復原力）」為核心支持機制，為長照政策中\n照顧者身心支持系統之建構提供實證依據，強調照顧者心理賦能的重要性。",
+      "keywords": "高齡家庭照顧者、正念介入方案、正念覺察、照顧負荷、壓力知覺、自我慈心",
+      "abstract_en": "Taiwan entered a super-aged society in 2025, yet family caregivers—who bear prolonged\nphysical and psychological strain—remain the most overlooked group within the long-term\ncare system. The internationally standardized Mindfulness-Based Stress Reduction (MBSR)\nprogram is time-intensive and physically demanding, posing adaptability barriers for older\ncaregivers and creating a predicament in which those most in need of support find it hardest to\naccess it. This study examined the effects of an optimized mindfulness-based support group\nprogram on older family caregivers’ mindful awareness, caregiver burden, and perceived stress,\nand explored their inner process of attitudinal transformation.\nA mixed-methods design was adopted, centered on a single-group pretest–posttest quasi-\nexperimental design with semi-structured interviews for qualitative triangulation. Twenty older\ncaregivers were purposively recruited across two cohorts for an eight-week program (three\nhours weekly, 24 hours total); 18 valid questionnaires were obtained (94.4% female; mean age\n62.2 years; mean caregiving tenure 10.4 years). Five participants were interviewed and\nanalyzed thematically. Quantitative instruments comprised the Mindful Attention Awareness\nScale (MAAS), the Zarit Burden Interview (ZBI-12), and the Perceived Stress Scale (PSS-14).\nPaired-samples t-tests showed significant post-program changes across all variables:\nmindful awareness increased, while caregiver burden and perceived stress decreased, all with\nexcellent effect sizes. Gains in mindful awareness correlated significantly and negatively with\nreductions in burden and stress, supporting awareness as the core shared mechanism. Thematic\nanalysis yielded five themes: breaking caregiving inertia, reframing burden, emerging self-\ncompassion, interpersonal mindfulness and boundary-setting, and integrating mindfulness into\ndaily life. Under a physically friendly, time-accessible design, the program enhanced mindful\nawareness while alleviating burden and stress, with self-compassion and psychological\nresilience as core mechanisms, offering empirical evidence for embedding caregiver support\nwithin long-term care policy and underscoring psychological empowerment.",
+      "keywords_en": "Older Family Caregivers; Mindfulness Intervention Program; Mindful Awareness; Caregiver Burden; Perceived Stress; Self-Compassion",
+      "source_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "PN-01-2",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 01",
+      "code": "Panel 01-2",
+      "presenter": "盧祥富",
+      "presenters": [
+        "盧祥富"
+      ],
+      "title": "藝術陪伴作為社會處方箋：以蟾蜍山社區《歲月花》策展促進高齡者社會連結之個案研究",
+      "title_en": "Art Accompanying as Social Prescribing: A Case Study of Enhancing Social Connectedness among Older Adults through the Flowers of Time Community Art Exhibition in Toad Hill Community",
+      "author_info_lines": [
+        "盧祥富 博士生｜國立臺灣師範大學社會教育學系"
+      ],
+      "author_info_lines_en": [
+        "Ph.D. Student Hsiang-Fu Lu｜Department of Social Education, National Taiwan Normal University"
+      ],
+      "abstract": "臺灣已邁入超高齡社會，高齡者如何透過社區支持促進社會參與、強化社會連結\n並提升生活品質。世界衛生組織（WHO）於 2015 年提出「健康老化」概念，強調透\n過支持性環境與社區參與維持個人功能能力；此外，英國國民保健署（NHS）自2019\n年起將「社會處方箋」納入國家醫療政策，同年成立英國國家社會處方學院\n（NASP），倡導非醫療介入連結社區資源，以促進健康、福祉與社會參與，近年社區\n藝術逐漸成為社會處方的重要實踐形式。\n本研究以臺北市蟾蜍山社區《歲月花》策展為個案，探討藝術陪伴如何作為社會\n處方，促進高齡者社會參與與社會連結。研究採質性個案研究法，以半結構式訪談、\n參與觀察及文件分析等方法蒐集資料，歸納分析3位高齡參與者、1位藝術陪伴教師與2\n位社區工作者參與經驗，探究藝術陪伴作為社會處方箋之實踐歷程及其促進社會連結\n的作用機制。\n本研究初步發現，藝術陪伴不僅是社區高齡者的藝術創作實踐，更是一種融合陪\n伴、學習與賦能的社會處方箋模式。高齡者透過個人或集體創作、策展參與及公共展\n示的歷程，得以重新建構並表達生命經驗；此歷程提升參與者的人際互動、社區歸屬\n感與社會支持網絡，進而強化其社會連結並有助於支持健康老化及積極老化之實踐。\n本研究結果顯示，藝術陪伴具有作為社會處方箋之實踐潛力，其成果可作為成人教\n育、高齡社區工作及社會處方政策推動的重要參考。",
+      "keywords": "藝術陪伴、社會處方箋、社會連結、健康老化、質性個案研究法",
+      "abstract_en": "Taiwan has become a super-aged society, making community support increasingly\nimportant for promoting social participation, strengthening social connectedness, and\nenhancing quality of life among older adults. In 2015, the World Health Organization (WHO)\nintroduced the concept of Healthy Ageing, emphasizing supportive environments and\ncommunity participation in maintaining functional ability. Since 2019, the National Health\nService (NHS) in England has incorporated social prescribing into national health policy,\nwhile the National Academy for Social Prescribing (NASP) was established to promote non-\nmedical approaches that connect people with community resources for health, well-being,\nand social participation. Community arts have since emerged as an important form of social\nprescribing.\nThis qualitative case study examines the Flowers of Time exhibition in Toad Hill\nCommunity, Taipei, exploring how art accompanying as social prescribing fosters social\nparticipation and connectedness among older adults. Data were collected through semi-\nstructured interviews, participant observation, and document analysis, involving three older\nparticipants, one art companionship instructor, and two community workers. The study\ninvestigates the practice of art accompanying as social prescribing and the mechanisms\nthrough which it fosters social connectedness.\nPreliminary findings indicate that art accompanying is not only an artistic practice for\nolder adults but also a form of social prescribing integrating companionship, learning, and\nempowerment. Through individual and collective art-making, curatorial participation, and\npublic exhibition, older adults reconstructed and expressed their life experiences. These\nprocesses enhanced interpersonal interaction, community belonging, and social support\nnetworks, thereby strengthening social connectedness and supporting healthy and active\nageing. The findings highlight the potential of art accompanying as social prescribing and\noffer practical implications for adult education, community-based work with older adults, and\nsocial prescribing policy.",
+      "keywords_en": "Art Accompanying; Social Prescribing; Social Connectedness; Healthy Ageing; Qualitative Case Study",
+      "source_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "PN-01-3",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 01",
+      "code": "Panel 01-3",
+      "presenter": "涂喜敏",
+      "presenters": [
+        "涂喜敏"
+      ],
+      "title": "情境學習取向下生成式人工智慧支持中高齡志工培力之可行性與學習經驗：前導量化研究",
+      "title_en": "Feasibility and Learning Experiences of Generative AI-Supported Training for Middle-Aged and Older Volunteers: A Pilot Quantitative Study from a Situated Learning Perspective",
+      "author_info_lines": [
+        "涂喜敏 博士候選人｜國立臺灣師範大學社會教育學系"
+      ],
+      "author_info_lines_en": [
+        "Ph.D. Candidate Hsi-Min Tu｜Department of Social Education, National Taiwan Normal University"
+      ],
+      "abstract": "臺灣已邁入超高齡社會，中高齡志工如何持續運用生命經驗與志願服務能量，並\n因應志願服務數位化發展，已成為志工培力的重要課題。生成式人工智慧（Generative\nArtificial Intelligence, GenAI）具備互動、情境模擬與反覆練習等特性，為中高齡志工\n提供新的學習支持可能。然而，目前相關研究多聚焦一般學習者或專業訓練者，對中\n高齡志工應用 GenAI 進行情境式培力之研究仍有限。本研究以情境學習為理論取\n向，探討 GenAI 支持中高齡志工情境式培力之可行性與學習經驗，研究問題聚焦於\n互動擬真性、練習便利性、學習焦慮、心流體驗及訓練專業價值。研究採前導量化研\n究設計，以國內非營利心理健康服務機構20名45歲以上志工為對象，導入生成式人工\n智慧虛擬角色（GPT-NPC）進行情境互動與反覆練習，並以描述性統計分析參與者之\n學習經驗與訓練評價。本研究預期透過小樣本前導資料，檢視訓練情境與研究工具之\n可行性，並作為後續擴大樣本研究之基礎。實務上，研究結果可提供志工培訓者設計\n具情境性、可重複及具人工監督之 GenAI 培力模式參考，並協助中高齡志工在數位\n化志願服務環境中持續學習與參與。",
+      "keywords": "生成式人工智慧、中高齡志工、情境學習、志工培力、學習經驗",
+      "abstract_en": "Taiwan has entered a super-aged society, making the continued engagement of middle-\naged and older volunteers an important issue for volunteer training and participation.\nGenerative artificial intelligence (GenAI), with its capacity for interactive simulation and\nrepeated practice, may provide an alternative form of training support. However, existing\nresearch has focused mainly on general learners and professional trainees, with limited\nattention to GenAI-supported training for middle-aged and older volunteers. Guided by\nsituated learning, this study examines the feasibility and learning experiences associated with\nGenAI-supported situational training for middle-aged and older volunteers. The study focuses\non perceived interaction fidelity, practice convenience, learning anxiety, flow experience, and\nperceived professional training value. A pilot quantitative design will be adopted with 20\nvolunteers aged 45 years and above from a nonprofit mental health service organisation in\nTaiwan. Participants will engage in situational interactions and repeated practice with a\ngenerative AI-based virtual character (GPT-NPC). Descriptive statistics will be used to\nexamine participants’ learning experiences and evaluations of the training. The study is\nexpected to provide preliminary evidence on the feasibility of the training scenario and\nresearch measures, while informing the design of subsequent studies with larger samples. In\npractice, the findings may offer guidance for developing situational, repeatable, and human-\nsupervised GenAI-supported training for middle-aged and older volunteers and for supporting\ntheir continued learning and participation in increasingly digital volunteer services.",
+      "keywords_en": "Generative artificial intelligence; middle-aged and older volunteers; situated learning; volunteer training; learning experiences",
+      "source_pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "PN-02-1",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 02",
+      "code": "Panel 02-1",
+      "presenter": "彭凱榆",
+      "presenters": [
+        "彭凱榆"
+      ],
+      "title": "武術運動對注意力不足過動症兒童抑制控制與問題行為之影響",
+      "title_en": "The Effects of Martial Arts Intervention on Inhibitory Control and Problem Behaviors in Children with Attention Deficit Hyperactivity Disorder",
+      "author_info_lines": [
+        "彭凱榆 研究生｜臺北市立大學身心障礙者轉銜及休閒教育學程"
+      ],
+      "author_info_lines_en": [
+        "Kai-Yu Peng｜Graduate Student, Transition and Leisure Education for Individuals with Disabilities, University of Taipei"
+      ],
+      "abstract": "背景\n注意力不足過動症 (ADHD) 兒童常有抑制控制困難與問題行為。\n目的\n探討武術運動介入對ADHD 兒童抑制控制與問題行為之影響，並觀察動作技能與\n有氧適能之變化。方法：採介入對照研究，納入35名8至12歲ADHD 兒童 (介入組17名；\n控制組18名)。介入組接受8週、16次、每次90分鐘之武術散打課程，控制組維持原有生\n活型態。以Simon 與Flanker 任務逆向效能分數 (IES) 及ASEBA 評估抑制控制與問題\n行為，並以前後測差值進行獨立樣本t 檢定。\n結果\n介入組之內化問題、外化問題及整體問題改善幅度顯著優於控制組 (p = .003、p\n< .001及 p = .006)；Simon 與Flanker 任務IES 分別呈現顯著組別主要效果與情境主要\n效果；注意力問題、動作技能及有氧適能均未達顯著差異。\n結論\n8週武術散打課程可能有助於改善ADHD 兒童的內化問題、外化問題及整體問題；\n惟對注意力問題、動作技能及有氧適能尚未顯示顯著成效，仍待後續研究驗證。",
+      "keywords": "",
+      "abstract_en": "Background\nChildren with attention-deficit/hyperactivity disorder (ADHD) commonly experience\ndifficulties with inhibitory control and behavioral problems.\nPurpose:\nThis study investigated the effects of a martial arts intervention on inhibitory control and\nbehavioral problems in children with ADHD and examined changes in motor skills and aerobic\nfitness.\nMethods:\nA controlled intervention study was conducted with 35 children with ADHD aged 8–12\nyears (intervention group, n = 17; control group, n = 18). The intervention group participated\nin 16 90-minute Sanda training sessions over eight weeks, whereas the control group\nmaintained their usual lifestyle. Inhibitory control was assessed using inverse efficiency scores\n(IESs) derived from the Simon and Flanker tasks, while behavioral problems were evaluated\nusing the Achenbach System of Empirically Based Assessment (ASEBA). Independent-\nsamples t tests were conducted on the pre–post difference scores.\nResults:\nCompared with the control group, the intervention group demonstrated significantly\ngreater improvements in internalizing problems, externalizing problems, and total problems (p\n= .003, p < .001, and p = .006, respectively). The IESs derived from the Simon and Flanker\ntasks showed a significant main effect of group and a significant main effect of task condition,\nrespectively. No significant differences were observed in attention problems, motor skills, or\naerobic fitness. Conclusion: An eight-week Sanda training program may help reduce\ninternalizing, externalizing, and total behavioral problems in children with ADHD. However,\nno significant benefits were observed for attention problems, motor skills, or aerobic fitness,\nand further research is warranted.",
+      "keywords_en": "",
+      "source_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "PN-02-2",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 02",
+      "code": "Panel 02-2",
+      "presenter": "鄭伊玲",
+      "presenters": [
+        "鄭伊玲"
+      ],
+      "title": "當長者走進山林：高齡者戶外教育與自然療癒的實務經驗與反思",
+      "title_en": "When Older Adults Enter the Mountains: Practical Experiences and Reflections on Outdoor Education and Nature-Based Healing for Older Adults",
+      "author_info_lines": [
+        "鄭伊玲 碩士生｜臺北市立大學心理與諮商學系"
+      ],
+      "author_info_lines_en": [
+        "Yi-Ling Cheng｜Master’s Student, Department of Psychology and Counseling, University of Taipei"
+      ],
+      "abstract": "高齡者走入自然，可能經驗感官覺察、自主探索、關係連結與重新感受生命的歷程。\n本文以實務工作者的帶領經驗為核心，分享從海拔 0 至 3000 公尺、從 1 小時公園自\n然體驗到 10 天高山野外「靈境追尋」的多元案例，包含五感覺察、自然獨處、高強度\n登山與長時間野外生活，呈現長者在自然中面對限制、突破自我、重新感受身體與開展\n生命意義的真實故事，並整理活動結束後持續改變的觀察。同時參照自然體驗、自然療\n癒與心理健康相關文獻及實證資料，說明戶外與自然經驗可能帶來的身心效益，提供高\n齡教育、健康促進及社區工作者將自然融入長者生活的實務思考。",
+      "keywords": "",
+      "abstract_en": "Drawing on the author’s experience as an outdoor education practitioner, this presentation\nshares diverse nature-based programs for older adults, ranging from one-hour park experiences\nat sea level to ten-day wilderness “Vision Quest” programs in high-altitude mountain\nenvironments reaching 3,000 meters. Through real-life stories involving sensory awareness,\nsolitude in nature, and challenging mountain journeys, the presentation explores how older\nadults reconnect with their bodies, move beyond perceived limitations, explore the self, and\ndiscover renewed meaning in life. Relevant literature on nature-based experiences, nature-\nbased healing, and mental health will also be discussed to explore the potential of integrating\nnature into later life.",
+      "keywords_en": "",
+      "source_pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "PN-02-3",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 02",
+      "code": "Panel 02-3",
+      "presenter": "胡聖民",
+      "presenters": [
+        "胡聖民"
+      ],
+      "title": "AI 虛擬人結合 STE²P 溝通模型於失智症溝通訓練之成效與可行性研究",
+      "title_en": "Effectiveness and Feasibility of AI Virtual Human-Based Dementia Communication Training Using the STE²P Communication Model",
+      "author_info_lines": [
+        "胡聖民 專任助理｜臺北市立大學 USR 計畫"
+      ],
+      "author_info_lines_en": [
+        "Sheng-Min Hu｜Research Assistant, USR Project, University of Taipei"
+      ],
+      "abstract": "隨著全球高齡化趨勢加劇，失智症人口持續增加，失智症患者因認知功能退化及行\n為與心理症狀 (Behavioral and Psychological Symptoms of Dementia, BPSD)，常伴隨溝通\n困難，進而增加照顧者之照護負荷與互動挑戰。有效的失智症溝通教育除提供疾病知識\n外，更需透過情境化與互動式訓練，協助學習者將溝通技巧應用於真實照護情境。近年\n來，虛擬實境 (Virtual Reality, VR) 及人工智慧 (Artificial Intelligence, AI) 等數位科技\n逐漸應用於健康照護教育，提供安全、可重複且具即時回饋之模擬學習環境，為失智症\n溝通教育提供新的發展方向。\n本研究旨在探討 AI 虛擬人結合 STE²P(Smile, Thanks, Eye contact, Embrace the\nmoment, & Patience) 溝通模型應用於大專生失智症溝通訓練之成效與可行性。研究採準\n實驗研究設計，以可行性研究為取向，採單組重複測量設計，於介入前 (T0)、介入後立\n即 (T1) 及一週後追蹤 (T2) 進行資料蒐集，以評估訓練之即時成效、延宕成效及可行\n性。研究對象預計透過線上方式招募 40 名臺北市大專院校在學學生參與研究。研究介\n入包含 1.5 小時失智症基本認識、失智症常見行為與心理症狀 (BPSD) 及 STE²P 溝通\n模型理論課程，以及 1.5 小時運用 Virti AI 虛擬人平台進行情境模擬與溝通演練。\n研究工具包含「AI 虛擬人溝通演練評量表」及「失智症溝通訓練可行性與學習回\n饋問卷」，分別蒐集客觀溝通技能表現及受試者對課程內容、平台操作、情境擬真度、\n學習經驗、接受度與滿意度等主觀回饋。本研究預期可提供 AI 虛擬人應用於失智症溝\n通教育之初步實證，並作為未來失智症教育訓練、AI 數位教材發展及相關研究設計之\n參考依據。",
+      "keywords": "失智症、AI 虛擬人、STE²P 溝通模型、Virti、溝通訓練、可行性研究",
+      "abstract_en": "As global population aging accelerates, the number of people living with dementia\ncontinues to increase. Individuals with dementia often experience communication difficulties\ndue to cognitive decline and Behavioral and Psychological Symptoms of Dementia (BPSD),\nwhich increase caregivers' burden and create challenges in daily interactions. Effective\ndementia communication education should extend beyond providing disease-related\nknowledge by incorporating contextualized and interactive training that enables learners to\napply communication skills in real-world care settings. In recent years, digital technologies,\nincluding Virtual Reality (VR) and Artificial Intelligence (AI), have been increasingly adopted\nin healthcare education to provide safe, repeatable, and feedback-oriented simulated learning\nenvironments, offering new opportunities for dementia communication education.\nThis study aims to investigate the effectiveness and feasibility of integrating an AI virtual\nhuman with the STE²P communication model (Smile, Thanks, Eye contact, Embrace the\nmoment, and Patience) into dementia communication training for university students. A quasi-\nexperimental study with a feasibility study approach and a single-group repeated-measures\ndesign will be employed. Data will be collected at three time points: before the intervention\n(T0), immediately after the intervention (T1), and one week after the intervention (T2) to\nevaluate the immediate effects, retention effects, and feasibility of the training program.\nParticipants will consist of 40 university students currently enrolled in universities in Taipei\nCity, who will be recruited through online recruitment. The intervention includes a 1.5-hour\ntheoretical course covering dementia, Behavioral and Psychological Symptoms of Dementia\n(BPSD), and the STE²P communication model, followed by a 1.5-hour scenario-based\ncommunication training session using the Virti AI virtual human platform.\nThe research instruments include the AI Virtual Human Communication Performance\nAssessment Scale and the Feasibility and Learning Feedback Questionnaire for Dementia\nCommunication Training, which will be used to assess participants' objective communication\nperformance as well as their subjective feedback regarding the course content, platform\nusability, scenario realism, learning experience, acceptability, and satisfaction. The findings of\nthis study are expected to provide preliminary evidence supporting the application of AI virtual\nhumans in dementia communication education and to serve as a reference for future dementia\neducation programs, AI-based digital learning materials, and related research designs.",
+      "keywords_en": "dementia, AI virtual human, STE²P communication model, Virti, communication training, feasibility study",
+      "source_pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "PN-03-1",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 03",
+      "code": "Panel 03-1",
+      "presenter": "徐晏萱",
+      "presenters": [
+        "徐晏萱"
+      ],
+      "title": "理性認知老化中的前瞻性記憶系列研究",
+      "title_en": "Prospective Memory in Pathological Cognitive Aging",
+      "author_info_lines": [
+        "徐晏萱 教授兼副主任｜國立中正大學心理學系／高齡社會勞動與福祉研究中心"
+      ],
+      "author_info_lines_en": [
+        "Yen-Hsuan Hsu｜Department of Psychology, National Chung Cheng University"
+      ],
+      "abstract": "前瞻性記憶是個體在形成意圖後，能適時履行的能力。前瞻性記憶不必然\n隨認知老化而衰退，但十分敏感於腦部病理變化。一般認為前瞻性記憶缺損與\n前額葉功能缺失有關，本系列研究以四個實驗進一步探討海馬迴與預設模式網\n絡在意圖維持中的角色。實驗一檢驗遺忘型輕度認知缺損個體的海馬回體積與\n其前瞻性記憶表現之關聯；實驗二探討預設模式網路內部功能連結性與極早期\n阿茲海默症患者前瞻性記憶表現之相關性；實驗三觀察健康老年人意圖重新浮\n現與大型神經網路功能連結性的關係；實驗四則以隨機對照實驗探討是否可藉\n由強化意圖與行動之間的連結來改善前瞻性記憶表現。這些結果顯示，前瞻性\n記憶指標極具潛力作為後端記憶網路病理性老化的早期認知標記，且可望藉由\n行為策略來改善表現水準。",
+      "keywords": "前瞻性記憶、高齡認知、認知障礙、認知介入",
+      "abstract_en": "Prospective memory refers to the ability to fulfill an intended action at an appropriate\ntime. It does not necessarily decline with normal aging, but appears to be particularly\nsensitive to neuropathological changes. Beyond the predominant view that associates\nprospective memory impairment with prefrontal dysfunction, the present series of studies\nfurther examines the roles of midline structures in the maintenance of intentions. Study 1\ninvestigated the association between hippocampal volume and prospective memory\nperformance in individuals with amnestic mild cognitive impairment. Study 2 examined the\nrelationship between default mode network functional connectivity and prospective memory\nin individuals with very early Alzheimer’s disease. Study 3 investigated the biological basis\nof intention persistence in healthy older adults from a neural network perspective. Finally,\nStudy 4 employed a randomized controlled trial to examine whether prospective memory\nperformance could be improved by strengthening the bindings between intended actions and\ntheir associated cues. Together, these findings suggest that prospective memory has great\npotential to serve as a sensitive early cognitive marker of pathological aging with a neural\nbasis in posterior memory networks. They further demonstrate that prospective memory\nremains amenable to improvement through targeted behavioral strategies.",
+      "keywords_en": "prospective memory; cognitive aging; cognitive impairment; cognitive intervention",
+      "source_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "PN-03-2",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 03",
+      "code": "Panel 03-2",
+      "presenter": "陳丹怡",
+      "presenters": [
+        "陳丹怡"
+      ],
+      "title": "（待補）",
+      "title_en": "",
+      "author_info_lines": [
+        "陳丹怡 博士後研究員｜國立中正大學人文創新與社會實踐計畫"
+      ],
+      "author_info_lines_en": [],
+      "abstract": "",
+      "keywords": "",
+      "abstract_en": "",
+      "keywords_en": "",
+      "source_pages": []
+    },
+    {
+      "id": "PN-03-3",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 03",
+      "code": "Panel 03-3",
+      "presenter": "戴浩一",
+      "presenters": [
+        "戴浩一"
+      ],
+      "title": "認知儲備與正向情緒對韌性與長壽",
+      "title_en": "Cognitive Reserve and Positive Emotions for Resilience and Longevity",
+      "author_info_lines": [
+        "戴浩一 講座教授兼主任｜國立中正大學語言學研究所／人文與社會研究中心"
+      ],
+      "author_info_lines_en": [
+        "James H.-Y. Tai The Graduate Institute of Linguistics｜National Chung Cheng University"
+      ],
+      "abstract": "「修女研究」（Snowdon, et al. 1996, 1997, 2000, 2001）對於生存韌性與長壽提供了\n兩項重要啟示：其一是建立於語言能力之上的認知儲備cognitive reserve），其二是建立\n於正向情緒之上的美德 virtues）。本演講將針對這兩項重要啟示加以闡述。「修女研究」\n是一項關於老化的縱貫性流行病學研究，旨在探討阿茲海默症的發展與長壽之相關因素，\n並特別著重於年輕時期的語言能力（ Snowdon et al., 1996, 2000）。研究分析修女自進\n入修道院以來所撰寫的日記，檢視其中的詞彙與句法表現。結果發現，概念稠密度（ idea\ndensity）與語法複雜度 grammatical complexity）較低的修女，比這兩項指標較高的修女\n更容易罹患阿茲海默症。因此，該研究顯示，年輕時期的語言能力可能有助於建立抵禦\n阿茲海默症的「認知儲備」。\n「認知儲備」 應與「大腦儲備（brain reserve）」加以區分 Varangis & Stern, 2020）。\n大腦儲備主要涉及個體腦容量的大小，或神經元與突觸的數量；相較之下，認知儲備則\n是指即使大腦已出現病理性或結構性損傷，個體仍能維持其執行功能。瑪麗修女（ Sister\nMary）於 101歲去世，死後解剖顯示其腦部已有明顯的阿茲海默症神經病理變化（β β-\n類澱粉蛋白斑塊與 tau 蛋白神經纖維糾結），但她生前並未表現出明顯的認知障礙或認\n知衰退。針對瑪麗修女及其同一研究群體所進行的後續研究顯示，教育程度較高且活動\n參與程度較 高的修女，罹患阿茲海默症的可能性顯著較低。Danner et al., 2001研究者進\n一步分析修女日記中的情緒表達（emotional expressions），結果顯示，正向情緒（positive\nemotions）亦可能有益於執行功能與長壽正相關。\n本演講將簡要介紹如何運用與兒童語言習得研究相似的方法，測量「概念密度」與\n「語法複雜度」，例如平均語句長度（Mean Length of Utterance, MLU）、類型與個例比\n率（Type-Token Ratio, TTR），以及分析不同語言類型中的各種複雜句式，包括關係子\n句（relative clauses）等。此外，我們也將說明聽、說、讀、寫等語言技能對高齡者在社\n會互動（social interactions）與健康識能（health literacy）方面所發揮的功能，以及這些\n能力如何進一步增強高齡者晚年生活的韌性。尤其，我們認為透過手寫漢字進行書信往\n來、撰寫日記與文章等活動，可能是相當有益的抗老化方式之一；然而，此一主張仍有\n待進一步的實證研究加以驗證。在正向情緒方面，我們依循Seligman（2002）的理論架\n構，將24項性格優勢（strengths），如好奇心〔curiosity〕至活力〔zest〕）歸納於六項\n核心美德之下，包括「智慧與知識（wisdom and knowledge）」、「勇氣（courage）」、\n「人道（humanity）」、「正義（justice）」、「節制（temperance）」以及「超越（transcendence）」。\n這24項性格優勢也可以以Likert Scale 量化。本演講將前四項美德視為具有普遍性，而\n後兩項美德則可能隨不同文化與宗教信仰而有所差異。總而言之，在年輕時期建立穩固\n的語言能力基礎，並培養正向情緒，是促進晚年身心健康的重要基礎，有助於個體邁向\n長壽且富有意義與成就感的人生。",
+      "keywords": "",
+      "abstract_en": "Two key messages from ‘The Nun Study’ (Snowdon, et al. 1996, 1997, 2000, 2001) for\nresilience and longevity are cognitive reserve built upon linguistic ability and virtues built on\npositive emotions. In this talk, I will expound these two key messages. ‘The Nun Study’ can be\nviewed as consisting of two sequels. Originally, it is a longitudinal, epidemiological study of\naging, investigating risk factors for the development of Alzheimer’s disease and longevity with a\nspecial focus on linguistic ability (Snowdon et al. 1996, 2000). The diaries written by the nuns\nsince their entrance to the convents were analyzed with respect to their vocabulary and syntax. It\nwas found that those sisters with low degrees of ‘idea density’ and ‘grammatical complexity’\nwere more susceptible to AD than those with higher degrees. The study thus suggests that\nlinguistic abilities in early life helps to build up ‘cognitive reserve’ against AD.\nThe concept of ‘cognitive reserve’ is to be distinguished from ‘brain reserve’ (Varangis and\nStern 2020). Brain reserve concerns larger brain size, or more neurons/synapses in individuals. In\ncontrast, cognitive reserve refers to the preservation of executive functions, in spite of the\npathological or structural damages to the brain. Sister Mary, who passed away at age 101 with\nclear evidence of AD-neuropathology at autopsy showed no signs of cognitive impairment or\ndecline prior to autopsy. The neuropathology contains beta-amyloid plaque and tau tangles.\nFollow-up studies on Sister Mary and her cohort showed that those sisters with higher levels of\neducational attainment and activities were significantly less susceptible to AD. As a sequel to the\nlinguistic study, the expressions of emotions in the diaries were analyzed, indicating that positive\nemotions are also beneficial to executive functions and longevity (Danner et al. 2001).\nI will brief how ‘idea density’ and ‘grammatical complexity’ can be measured with similar\nmethods used in child language acquisition, e.g., MLU, TTR, and different complex sentences\nincluding relative clauses in typologically different languages. In addition, I will outline the\nfunctions of language skills (listening, speaking, reading, and writing) for the elderly in social\ninteractions and health literacy, thus adding to the resilience for the later life of the elderly. In\nparticular, I propose that handwriting. Chinese characters for correspondences, diaries, and\nessays, etc., could be one of the most beneficial anti-aging methods, pending further empirical\nevidence. With respect to positive emotions, I follow Seligman (2002) in taking 24 strengths\n(curiosity….Zest) under six core virtues consisting of ‘wisdom and knowledge’, ‘courage’,\n‘humanities’, ‘justice’, ’temperance’, ‘transcendence’. I will treat the first four virtues as\nuniversal with the last two to vary in different cultures and religious beliefs. In sum, building up\nsolid foundation for linguistic ability together with positive emotions in early life is fundamental\nto both physical and mental well-being of later life, leading to a long, meaningful, and rewarding\nlife.",
+      "keywords_en": "",
+      "source_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "PN-04-1",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 04",
+      "code": "Panel 04-1",
+      "presenter": "賴一予",
+      "presenters": [
+        "賴一予"
+      ],
+      "title": "Nature-Supportive Learning Spaces: Environmental Needs of Middle-Aged and Older Graduate Students",
+      "title_en": "Nature-Supportive Learning Spaces: Environmental Needs of Middle-Aged and Older Graduate Students",
+      "author_info_lines": [
+        "賴一予 博士生｜國立中正大學成人及繼續教育學系"
+      ],
+      "author_info_lines_en": [
+        "Yi-Yu Lai｜Ph.D. Student, Department of Adult and Continuing Education, National Chung Cheng University"
+      ],
+      "abstract": "",
+      "keywords": "",
+      "abstract_en": "As higher education institutions increasingly admit adult learners, growing numbers of\nmiddle-aged and older adults are pursuing master’s and doctoral degrees. This trend raises the\nquestion of whether university learning spaces adequately respond to their sensory, physical, and\nadaptive learning needs. Compared with general lifelong learning activities, degree study\ninvolves prolonged class attendance, academic reading, digital-device use, group discussion, and\nresearch tasks, which may increase visual, postural, mobility-related, and environmental burdens.\nThis study aimed to: (1) explore age-related challenges and difficulties in using learning spaces\namong middle-aged and older graduate students; (2) examine the adaptation strategies they\nemploy under spatial constraints; and (3) identify their needs for biophilic learning spaces.\nA qualitative research design was adopted. Data were collected through semi-structured\ninterviews with middle-aged and older graduate students and analyzed using inductive thematic\nanalysis. Three themes emerged. First, age-related challenges and difficulties in using degree-\nlearning spaces, including visual and physical fatigue, reduced viewing clarity, and susceptibility\nto distraction. Second, ongoing self-adjustment within constrained learning spaces, whereby\nparticipants modified their seating positions, viewing directions, movement patterns, and use of\nspace to sustain learning participation. Third, natural environments as resources for regulating\nlearning states, with natural light, ventilation, greenery, distant views, and open spaces supporting\nvisual shifts, emotional relaxation, and changes in learning rhythm.\nThe findings indicate that these challenges arise from the interaction between degree-\nlearning demands and university environments rather than ageing alone. Universities should\ntherefore provide more accessible, flexible, and nature-integrated learning spaces for middle-aged\nand older learners.",
+      "keywords_en": "middle-aged and older graduate students; degree learning; personal adaptation; biophilic learning spaces",
+      "source_pages": [
+        29
+      ]
+    },
+    {
+      "id": "PN-04-2",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 04",
+      "code": "Panel 04-2",
+      "presenter": "查顯達",
+      "presenters": [
+        "查顯達"
+      ],
+      "title": "The Development Process of a Digital Dementia Health Education Smartphone Application in Taiwan",
+      "title_en": "The Development Process of a Digital Dementia Health Education Smartphone Application in Taiwan",
+      "author_info_lines": [
+        "查顯達 博士生｜國立中正大學成人及繼續教育學系"
+      ],
+      "author_info_lines_en": [
+        "Hsian-Ta Zha｜Ph.D. Student, Department of Adult and Continuing Education, National Chung Cheng University"
+      ],
+      "abstract": "",
+      "keywords": "",
+      "abstract_en": "As population ageing accelerates and the number of people living with dementia continues to\nincrease worldwide, Taiwan faces growing demands for dementia care alongside a shortage of\nprofessional care personnel. The use of digital technology to support people with dementia in acquiring\nthe knowledge and skills required for daily living, while easing the care burden experienced by primary\ncaregivers, has therefore become an important issue in the development of gerontechnology. This study\naimed to develop a smartphone-based dietary health education application for older adults with mild\ndementia and to examine its accessibility, usability, and areas for improvement through user testing.\nThe health education knowledge incorporated into the application was reviewed by a registered dietitian\nto ensure its accuracy and appropriateness.\nA qualitative research design was adopted, and semi-structured interviews were conducted to collect\nthe experiences and perspectives of older adults with mild dementia, primary caregivers of people with\ndementia, and relevant professionals. The participants included 43 primary caregivers, nurses, social\nworkers, and other relevant personnel, with a mean age of 56 years and an average of six years of\ncaregiving or professional service experience. Four older adults with dementia also participated,\nincluding two individuals with very mild dementia and two with mild dementia, with a mean age of\n77.25 years. After using the application, participants provided feedback on its interface design,\noperational procedures, game content, learning experience, and potential for practical application. The\nresearch team subsequently revised the system based on the findings of the user testing.\nThis study presents the development process of a digital dementia health education tool,\nencompassing content design, user testing, and iterative modification based on user feedback. Older\nadults with mild dementia generally reported that the application featured clear visual displays, intuitive\noperations, and a game-based experience that provided them with a sense of accomplishment. Primary\ncaregivers and relevant professionals also expressed positive views regarding the use of game-based\nlearning for dementia health education. They considered the interface clear and the operational\nprocedures straightforward and suggested that the application had the potential to facilitate health\nknowledge acquisition and provide cognitive stimulation. Nevertheless, users identified several areas\nfor improvement, including enlarging the font size and icons, strengthening auditory and visual\nfeedback, modifying the gestures required to operate the games, and providing multiple levels of\ndifficulty. The application was subsequently revised in response to these recommendations to enhance\nits age-friendliness and operational appropriateness. The findings may serve as a reference for dementia\ncare organisations, primary caregivers, and developers of gerontechnology and digital dementia health\neducation tools in future product design and effectiveness evaluations.",
+      "keywords_en": "older adult education, mild dementia, digital game-based learning, dementia health education, smartphone application, usability evaluation",
+      "source_pages": [
+        30
+      ]
+    },
+    {
+      "id": "PN-04-3",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 04",
+      "code": "Panel 04-3",
+      "presenter": "潘叡昱",
+      "presenters": [
+        "潘叡昱"
+      ],
+      "title": "Midlife Career Pathways: Understanding Motivations for Enrolling in Exercise Instructor Training Programs",
+      "title_en": "Midlife Career Pathways: Understanding Motivations for Enrolling in Exercise Instructor Training Programs",
+      "author_info_lines": [
+        "潘叡昱 博士生｜國立中正大學成人及繼續教育學系"
+      ],
+      "author_info_lines_en": [
+        "Rui-Yu Pan｜Ph.D. Student, Department of Adult and Continuing Education, National Chung Cheng University"
+      ],
+      "abstract": "",
+      "keywords": "",
+      "abstract_en": "Taiwan entered a super-aged society in 2025, prompting the government to expand\nvocational training programmes for middle-aged and older adults to promote reemployment\nand address workforce demands associated with population ageing. However, existing policies\nand research have primarily evaluated these programmes in terms of labour market outcomes,\nwith limited attention to how learners understand vocational training and its educational\nsignificance in a longevity society. This study explored the educational meaning of vocational\ntraining from the perspectives of middle-aged and older adult learners.\nA qualitative research design was adopted, involving semi-structured interviews with 20\nparticipants who completed a 320-hour Exercise Instructor Vocational Training Programme\ncommissioned by Taiwan’s Ministry of Labor. Data were analysed using thematic analysis.\nFour themes were identified: preparing for healthy ageing, preparing for family and social\nresponsibility, preparing for a meaningful later life, and preparing for a new career.\nCollectively, these findings indicate that participants did not perceive vocational training\nmerely as preparation for reemployment. Instead, they reconstructed the educational meaning\nof vocational training as a process supporting preparation for later life, with reemployment\nrepresenting only one component of broader later-life planning rather than the ultimate learning\ngoal.\nFurthermore, the Exercise Instructor Vocational Training Programme demonstrated\neducational value beyond conventional employment-oriented outcomes, serving as an\nimportant adult education practice that supports preparation for later life. Based on these\nfindings, this study argues that, in the context of a longevity society, the educational purpose\nof vocational training should be reconceptualised from preparation for work to preparation for\nlater life.",
+      "keywords_en": "middle-aged and older adults; vocational training; adult education; healthy ageing; preparation for later life",
+      "source_pages": [
+        31
+      ]
+    },
+    {
+      "id": "PN-05-1",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 05",
+      "code": "Panel 05-1",
+      "presenter": "廖珮妏",
+      "presenters": [
+        "廖珮妏"
+      ],
+      "title": "成人遠距學習之跨世代與性別差異對學習成效分析",
+      "title_en": "An Analysis of Intergenerational and Gender Differences in Learning Outcomes of Adult Distance Learning",
+      "author_info_lines": [
+        "廖珮妏 副教授｜國立空中大學商學系"
+      ],
+      "author_info_lines_en": [
+        "Pei Wen Liao｜Associate Professor, Department of Business, National Open University"
+      ],
+      "abstract": "隨著高齡化社會與終身學習的蓬勃發展，全齡數位學習已成為成人教育的重要趨勢。\n本研究旨在探討國立空中大學成人學習者在遠距學習環境中，不同世代與性別在選課動\n機、媒介偏好及數位平台滿意度與學習成效之差異。研究採用次級資料分析法，以114\n學年度第1學期國立空中大學前三門熱門課程之教學意見調查資料，有效樣本共計1,742\n份。經獨立樣本t 檢定、成對樣本t 檢定、單因子變異數分析與多元迴歸分析後，研究\n發現：（1）選課動機具顯著世代與性別差異，青年世代多為公職考試，中壯年族群（30-\n49歲）與女性偏向就業與職涯轉型，高齡族群則轉為追求自我實現；（2）在教學模式\n上，視訊面授學習者對平台的滿意度顯著高於傳統實體面授；（3）跨世代學習者對助\n教協助及學習媒介認同高度一致，且高齡族群學習者對媒介認同度最高，且每週平台學\n習時數（學習黏著度）居各世代之冠；（4）此外，空大在全齡課程設計能有效發揮教\n育平權，確保任何年齡的學習者皆能獲得同等程度的成長與社會參與能力。未來在推動\n樂齡遠距教育時，應將資源優先投注於優化系統介面便利性，並延續友善強化互動的視\n訊教學模式。",
+      "keywords": "跨世代、遠距學習、成人學習",
+      "abstract_en": "With the advent of an aging society and the flourishing development of lifelong learning,\nlifelong digital learning has emerged as a critical trend in adult education. This study aims to\ninvestigate the differences in course enrollment motivation, media preference, digital platform\nsatisfaction, and learning outcomes across various generations and genders among adult\nlearners in a distance learning environment the National Open University. Utilizing secondary\ndata analysis, this study examined data from teaching evaluation surveys of the top three\npopular courses in the first semester of the 2025 academic year at the National Open University,\nyielding a total of 1,742 valid samples. Following independent samples t-tests, paired samples\nt-tests, one-way ANOVA, and multiple regression analysis, the empirical findings indicate that:\n(1) Significant generational and gender differences exist in course enrollment motivations,\nwhere the younger generation predominantly aims for civil service examinations, the middle-\naged cohort (ages 30–49) and females lean toward employment and career transition, and the\nelderly cohort shifts toward self-actualization. (2) Regarding instructional modes, learners\nengaged in synchronous videoconference instruction demonstrated significantly higher\nplatform satisfaction than those in traditional in-person instruction. (3) Cross-generational\nlearners exhibited a high consensus regarding teaching assistant support and learning media\nalignment; notably, elderly learners reported the highest level of media alignment, and their\nweekly platform study hours (learning stickiness) ranked highest among all generations. (4)\nFurthermore, the age-inclusive curriculum design of the open university effectively promotes\neducational equity, ensuring that learners of any age can achieve equivalent levels of personal\ngrowth and social participation capacity. Future initiatives promoting distance education for\nsenior citizens should prioritize allocating resources to optimize system interface usability,\nwhile sustaining and strengthening the interactive, videoconference-based instructional model.",
+      "keywords_en": "Intergenerational; Distance Learning; Adult learning",
+      "source_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "PN-05-2",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 05",
+      "code": "Panel 05-2",
+      "presenter": "施伯燁",
+      "presenters": [
+        "施伯燁"
+      ],
+      "title": "用旅行與影像紀錄生活：中高齡學習者手機創作課程之教學實踐研究",
+      "title_en": "Documenting Life through Travel and Mobile Visual Creation: A Teaching Practice Study of a Smartphone-based Course for Middle-aged and Older Learners",
+      "author_info_lines": [
+        "施伯燁 副教授｜國立空中大學人文學系"
+      ],
+      "author_info_lines_en": [
+        "Po-Yeh Shih｜Associate Professor, Department of Humanities, National Open University"
+      ],
+      "abstract": "本研究以國立空中大學114下全遠距課程《帶著 iPhone 去旅行》為場域，探討中高\n齡與成人學習者如何在遠距學習中，透過手機影像創作降低新科技焦慮，建立媒體近用、\n影像敘事與自主學習能力。課程以十八週非同步教材、六次同步面授、線上討論、動動\n手任務與期末影像作品，設計「拍攝—整理—分享—回顧」學習歷程，引導學生以旅行、\n家庭與日常生活為素材，完成個人化生活紀錄。研究採教學實踐與行動研究取向，蒐集\n教學觀察、平台紀錄、學生作品、期末問卷、開放式回應與後續訪談資料。初步問卷有\n效回覆74份，其中50歲以上學習者占56.8%（修課人數為117人）。\n結果顯示，課程整體滿意度平均4.86，循序漸進教學降低新科技焦慮為4.82，影像記\n錄生活信心為4.60，願意繼續探索新媒體知識為4.69。質性回應指出，課程具有生活化、\n實用、陪伴與降低學習壓力等特色；惟動態影片／Vlog 與作品分享均為4.43，仍需強化\n支持。後續將從17位願意受訪者中抽樣，分析中高齡學習者從「接收影像」走向「創作\n影像」的轉變。本研究認為，手機影像課程不只是技術訓練，更是連結生活記憶、媒體\n素養與數位賦能的教學實踐，可作為長壽社會推動無界學習之參考。",
+      "keywords": "行動研究、手機影像創作、中高齡學習者、遠距教學、數位賦能",
+      "abstract_en": "This study takes the fully online course &quot;Traveling with iPhone&quot; offered by\nNational Open University in the 114th academic year (second semester) as the research setting,\nexploring how middle-aged, older, and adult learners reduce new technology anxiety through\nmobile video creation in remote learning, thereby building media access, visual storytelling,\nand autonomous learning capabilities. Spanning eighteen weeks of asynchronous materials, six\nsynchronous online sessions, online discussions, hands-on tasks, and a final video project, the\ncourse\ndesigns\na\nlearning\njourney\nof\n&quot;shooting—organizing—sharing—\nreviewing,&quot; guiding students to use travel, family, and daily life as materials to complete\npersonalized life records. Adopting a scholarship of teaching and learning (SoTL) and action\nresearch approach, data were collected through teaching observations, platform logs, student\nworks, end-of-course questionnaires, open-ended responses, and follow-up interviews. A\npreliminary questionnaire yielded 74 valid responses, with learners aged 50 and above\naccounting for 56.8% (out of 117 enrolled students).\nThe results showed an overall course satisfaction average of 4.86, a step-by-step teaching\napproach reducing new technology anxiety of 4.82, confidence in recording life through video\nof 4.60, and willingness to continue exploring new media knowledge of 4.69. Qualitative\nresponses indicated that the course features characteristics such as being close to daily life,\npractical, companionable, and lowering learning pressure; however, dynamic videos/Vlogs and\nwork-sharing both scored 4.43, indicating a need for strengthened support. Subsequent efforts\nwill sample from 17 willing interviewees to analyze the transformation of middle-aged and\nolder learners moving from &quot;receiving images&quot; to &quot;creating images.&quot;\nThis study argues that mobile video courses are not merely technical training, but a pedagogical\npractice connecting life memories, media literacy, and digital empowerment, which can serve\nas a reference for promoting borderless learning in a longevity society.",
+      "keywords_en": "Action Research; Mobile Visual Creation; Middle-aged and Older Learners; Distance Learning; Digital Empowerment",
+      "source_pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "PN-05-3",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 05",
+      "code": "Panel 05-3",
+      "presenter": "張歆祐",
+      "presenters": [
+        "張歆祐"
+      ],
+      "title": "國立空中大學新住民學生主觀幸福感之意義建構分析：正向心理學觀點",
+      "title_en": "Meaning Construction of Subjective Well-Being Among New Resident Students at National Open University: From a Positive Psychology Perspective",
+      "author_info_lines": [
+        "張歆祐 副教授｜國立空中大學生活科學系"
+      ],
+      "author_info_lines_en": [
+        "Hsin-Yu Chang｜Associate Professor, Department of Life Science, National Open University"
+      ],
+      "abstract": "本研究旨在從正向心理學觀點探討國立空中大學新住民學生之主觀幸福感意義建\n構。研究對象為修讀「幸福學：正向心理學觀點」課程之二十八位新住民女性學生，年\n齡介於33至59歲，原生地包含中國大陸、越南、印尼、泰國等地。研究資料取自學生於\n期中繳交之書面作業，題目為「介紹你自己的幸福觀與幸福感主張」。本研究採質性內\n容分析法，先以意義單元為基礎進行開放編碼，再將編碼整併為次類別與主題。研究結\n果顯示，新住民學生的幸福感可歸納為三個核心主題：一、內在心靈與自我成長，包含\n知足感恩、內心平靜、學習探索、自主與目標達成；二、人際關係與社會連結，包含家\n人平安健康、角色責任與日常付出、家庭溫暖陪伴、友誼社群與助人經驗；三、日常生\n活與身心平衡，包含身體健康、基本作息滿足、微小確幸與工作生活平衡。\n整體而言，受訪文本呈現出高度「關係本位」與「日常微觀化」的幸福觀，並同時\n展現新住民女性在跨文化生活、家庭角色與成人學習中的能動性。研究建議，新住民教\n育與家庭支持服務應由缺陷補救模式轉向優勢發展模式，強化社會支持、雙文化認同、\n終身學習與日常福祉資源。",
+      "keywords": "新住民、主觀幸福感、正向心理學、成人學習、內容分析",
+      "abstract_en": "This study explores the meaning construction of subjective well-being among new\nresident students at National Open University from a positive psychology perspective. The\nparticipants were 28 female new resident students enrolled in the course “Happiness Studies:\nA Positive Psychology Perspective.” Their ages ranged from 32 to 55, and their places of origin\nincluded Mainland China, Vietnam, and Indonesia. The data consisted of students’ midterm\nwritten assignments responding to the prompt, “Introduce your personal view of happiness and\nyour claims about well-being.” Using qualitative content analysis, the study identified meaning\nunits, generated initial codes, and further organized the codes into categories and themes. Three\nmajor themes emerged: inner mind and self-growth, interpersonal relationships and social\nconnections, and daily life and mind-body balance.\nThe findings suggest that participants’ happiness was strongly relational and grounded in\neveryday life, while also reflecting agency in cross-cultural living, family roles, and adult\nlearning. The study argues that educational and family support services for new residents\nshould move from a deficit-remedial model toward a strengths-based model that enhances\nsocial support, bicultural identity, lifelong learning, and everyday well-being resources.",
+      "keywords_en": "new residents; subjective well-being; positive psychology; adult learning; content analysis",
+      "source_pages": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "PN-06-1",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 06",
+      "code": "Panel 06-1",
+      "presenter": "黃月麗",
+      "presenters": [
+        "黃月麗",
+        "林俊裕",
+        "黃國瑞"
+      ],
+      "title": "微型學習與彈性認證：廣播教育與開放式大學的創新與實踐",
+      "title_en": "Microlearning and Flexible Credentialing: Innovations and Practices in Educational Broadcasting and Open Universities",
+      "author_info_lines": [
+        "黃月麗 臺長｜國立教育廣播電臺",
+        "林俊裕 教務長｜國立空中大學",
+        "黃國瑞 主任｜高雄市立空中大學法律系"
+      ],
+      "author_info_lines_en": [
+        "Yueh-Li Huang Director-General｜National Education Radio",
+        "Chun-Yu Lin Dean of Academic Affairs｜National Open University",
+        "Kuo-Jui Huang Chair｜Department of Law, Open University of Kaohsiung"
+      ],
+      "abstract": "在課程規劃的創新上，30+大學計畫突破傳統學系本位藩籬，強調應用導向與職場\n實作能力，設計「全人健康」、「生涯轉型」與「社會連結」三大專長領域課程模組。此\n架構不僅結合「人生100素養」等核心課程，更落實《學位授予法》第5條之精神，放寬\n學生於院、系之間彈性修課（院進系出、系進院出）。透過問題導向的學習設計，引導\n30歲以上成人依個人職涯轉換與發展第二專長之需求累積學分，將終身學習與社會參與\n深度結合。\n在微型學習與多媒體應用方面，本論壇聚焦透過教育電臺專屬架設之「Channel+ 聲\n活學院」數位學習平台，將優質且具備專業主持人的廣播節目與時事議題，無償轉化為\n30+學分學程之多媒體輔助教材。此舉不僅有效豐富大學課程之多元性，更建立起打破\n時空限制、隨選隨聽的成人自主學習模式。\n針對彈性認證制度的實踐，本課程聯盟首創三大對接機制：「鐘點制」將線上專題\n講座納入正式授課時數；「學分制」規定學員於平台自主收聽達18小時，並通過指定作\n業或評量即可採計1學分；「協同授課制」則由具大專講師資格之電臺主持人共同參與學\n習輔導與評分。學員可透過平台完整追蹤收聽軌跡、進行線上課後測驗，並下載官方認\n證之學習證明。\n最重要的是，此微型學習與認證機制與教育部政策深度結合：學生修畢相關規定學\n分後，不僅可獲頒「部頒學分學程證書」，其修習經審認通過之課程，亦能跨校抵免擬\n取得學位系所之相關學分（至少6學分）。本場次期能藉由剖析此一公私協力與資源整合\n模式，展現終身學習體系與高教體系如何善用微型學習與彈性認證，建構出無界線、高\n包容性之終身學習支持網絡。",
+      "keywords": "",
+      "abstract_en": "In terms of curriculum innovation, the 30+ University Program moves beyond conventional\ndepartment-based structures by emphasizing application-oriented learning and practical competencies\nrelevant to the workplace. The program is organized into three specialized curriculum modules: Holistic\nHealth, Career Transition, and Social Connection. This framework incorporates core courses such as\nLife 100 Competencies while also reflecting the intent of Article 5 of Taiwan’s Degree Conferral Act\nby allowing greater flexibility for students to take courses across colleges and departments. Through\nproblem-based learning, the program enables adult learners aged 30 and above to accumulate academic\ncredits according to their needs for career transition and the development of secondary areas of expertise,\nthereby integrating lifelong learning with social participation.\nWith regard to microlearning and multimedia applications, this forum highlights the “Channel+\n聲活學院” digital learning platform, established specifically by educational radio. High-quality\nprofessionally hosted radio programs and content addressing current issues are transformed, free of\ncharge, into supplementary multimedia learning materials for the 30+ credit program. This approach\nnot only enriches the diversity of university curricula but also facilitates a self-directed adult learning\nmodel that transcends temporal and geographical constraints by allowing learners to access audio\ncontent on demand.\nTo implement flexible credentialing, the curriculum consortium has developed three innovative\narticulation mechanisms. First, under the instructional-hour model, online thematic lectures are\nrecognized as part of formal instructional hours. Second, under the credit-based model, learners who\nindependently complete 18 hours of designated audio content on the platform and successfully fulfill\nthe required assignments or assessments may earn one academic credit. Third, the co-teaching model\nengages radio hosts who hold qualifications equivalent to those required of higher education lecturers\nin providing learning support and participating in student assessment. Through the platform, learners\ncan track their listening records, complete online post-learning assessments, and download officially\ncertified records of learning.\nMost importantly, this microlearning and credentialing mechanism is closely aligned with the\npolicies of Taiwan’s Ministry of Education. Upon completing the required credits, students may receive\na Ministry-issued credit program certificate. Courses that have been formally reviewed and approved\nmay also be transferred across institutions and recognized toward relevant degree requirements, with at\nleast six credits eligible for transfer. By examining this model of public–private collaboration and\nresource integration, this forum seeks to demonstrate how lifelong learning and higher education\nsystems can strategically employ microlearning and flexible credentialing to establish a boundaryless\nand highly inclusive support network for lifelong learning.",
+      "keywords_en": "",
+      "source_pages": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "PN-07-1",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 07",
+      "code": "Panel 07-1",
+      "presenter": "李建錡",
+      "presenters": [
+        "李建錡",
+        "林義倫",
+        "陳彥良",
+        "卓美涵"
+      ],
+      "title": "基於跨學期修課關聯分析之數位遠距終身學習智慧課程推薦機制",
+      "title_en": "An Intelligent Course Recommendation Mechanism for Digital Distance Lifelong Learning Based on Cross-Semester Course Enrolment Association Analysis",
+      "author_info_lines": [
+        "李建錡 副教授｜國立空中大學管理與資訊學系",
+        "林義倫 組長｜國立空中大學資訊科技處",
+        "陳彥良 技正｜國立空中大學資訊科技處",
+        "卓美涵 技士｜國立空中大學資訊科技處"
+      ],
+      "author_info_lines_en": [
+        "Li Jian-qi｜Associate Professor, Department of Management and Information, National Open University Lin Yi-lun, Section Chief, Information Technology Office, National Open University Chen Yen-liang, Technical Specialist, Information Technology Office, National Open University Zhuo Mei-han, Technical Staff, Information Technology Office, National Open University"
+      ],
+      "abstract": "隨著終身學習理念日益普及及數位教育環境快速發展，成人學習者對彈性修課與\n個人化學習規劃的需求持續增加。國立空中大學是一所以數位學習（digital learning）與\n遠距教學（distance learning）為主要特色的終身學習型大學，學生涵蓋在職人士、退休\n人士及不同年齡層的學習者，其修課歷程呈現跨學期、非連續與多元化等特性。為提升\n學生的選課決策品質與整體學習體驗，本研究延伸先前以單一學期資料為基礎的課程推\n薦研究，採用國立空中大學113學年度上、下學期教務行政資訊系統之選課資料，分析\n終身學習者的跨學期修課行為與課程關聯，並將應用範圍聚焦於管理與資訊學系的課程\n推薦。研究資料擷取自校務系統中的選課彙整紀錄，其中113學年度上學期涵蓋201門課\n程、16,061位學生及62,443筆選課紀錄；下學期則包含208門課程、14,961位學生及58,374\n筆選課紀錄。本研究運用人工智慧（Artificial Intelligence, AI）與教育資料探勘技術，採\n用Apriori 與 FP-Growth 等關聯規則演算法，探討課程間的關聯規則，以及學習者跨學\n期修課組合與選課順序所呈現的關聯模式，據以建構符合成人終身學習需求之個人化智\n慧課程推薦機制。預期研究成果可提供學生更具參考價值的修課建議，提升選課決策與\n學習規劃效率，亦可作為終身學習課程設計、教學輔導及教育資料探勘應用之參考依據。",
+      "keywords": "人工智慧、終身學習、跨學期修課行為、關聯規則探勘、智慧課程推薦",
+      "abstract_en": "With the growing emphasis on lifelong learning and the rapid development of digital\neducation, adult learners increasingly require flexible course enrolment and personalized\nlearning pathways. National Open University, Taiwan, is a lifelong learning institution\ncharacterized by digital learning and distance education. Its students include working adults,\nretired individuals, and learners from a wide range of age groups. Their course-taking\npatterns are therefore often cross-semester, discontinuous, and diverse.\nTo enhance the quality of students’ course selection decisions and their overall learning\nexperience, this study extends previous research on course recommendation based on single-\nsemester data. Course enrolment records from the academic administration information\nsystem of National Open University for both semesters of the 2024–2025 academic year were\nanalyzed to examine lifelong learners’ cross-semester enrolment behavior and course\nassociations. The application scope was further focused on course recommendations for the\nDepartment of Management and Information. The dataset was extracted from aggregated\nenrolment records in the university information system. The first semester comprised 201\ncourses, 16,061 students, and 62,443 enrolment records, while the second semester included\n208 courses, 14,961 students, and 58,374 enrolment records.\nThis research applies artificial intelligence and educational data mining techniques,\nusing association rule algorithms such as Apriori and FP-Growth to identify relationships\namong courses and association patterns derived from learners’ cross-semester course\ncombinations and enrolment sequences. Based on these findings, a personalized intelligent\ncourse recommendation mechanism is developed to meet the needs of adult lifelong learners.\nThe anticipated outcomes are expected to provide students with more informative course\nrecommendations, improve the efficiency of course selection and learning planning, and offer\nuseful insights for lifelong learning curriculum design, academic guidance, and educational\ndata mining applications.",
+      "keywords_en": "Artificial intelligence; lifelong learning; cross-semester course enrolment behavior; association rule mining; intelligent course recommendation",
+      "source_pages": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "PN-07-2",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 07",
+      "code": "Panel 07-2",
+      "presenter": "林烝增",
+      "presenters": [
+        "林烝增",
+        "陳思帆"
+      ],
+      "title": "中高齡者數位學習困境量表之建構與驗證研究",
+      "title_en": "A Study on the Development and Validation of a Digital Learning Difficulties Scale for Middle-Aged and Older Adults",
+      "author_info_lines": [
+        "林烝增 副教授｜國立空中大學社會科學系",
+        "陳思帆 副教授｜國立臺南大學諮商與輔導學系"
+      ],
+      "author_info_lines_en": [
+        "Department of Social Sciences Cheng-Tseng｜Lin, National Open University Department of Counseling and Guidance Szu-Fan, Chen, National University of Tainan"
+      ],
+      "abstract": "本研究旨在編製一具有信、效度之「中高齡者數位學習困境量表」，作為國內中高\n齡者數位學習困境之評量工具，以利相關教育工作者快速評估，提供更適切之教學策略\n與介入作為。研究者透過半結構式訪談，利用主題分析法分析，編製「中老年族群數位\n學習困境量表」。因考量樣本收集不易，故採專家內容效度審查，以及10位中高齡者進\n行認知訪談作為題項修訂依據，修訂後即進入正式施測。本研究採立意取樣，以國內某\n大學之45歲以上343位在校生為研究對象。問卷經回收整理後，透過 SPSS 24.0 和\nAMOS 28.0統計軟體進行資料分析，研究結果如下：\n1.\n中高齡者數位學習困境量表總計20題，共分為五個分量表，分別為「學習動機」\n分量表共5題、「數位技能」分量表共4題、「身體技能」分量表共4題、「人際支持」分量\n表共4題、「學習習慣」分量表共3題。\n2.\n本量表內部一致性α 係數的分析，「數位技能」分量表α 值為.802，「身體機能」\n分量表α 值為.760，「學習動機」分量表α 值為.725，「人際支持」分量表α 值為.725、\n總量表α 值為.846，顯示本量表具有良好內部一致性信度。此外，本量表具備良好適配\n之建構效度，量表結構獲得支持。",
+      "keywords": "中高齡、數位學習困境、量表編制",
+      "abstract_en": "The purpose of this study was to develop a reliable and valid “Digital Learning\nDifficulties Scale for Middle-Aged and Older Adults” as an assessment tool for evaluating\nthe digital learning difficulties of middle-aged and older adults in Taiwan. The scale is\nintended to help educators rapidly assess learners’ difficulties and provide more appropriate\ninstructional strategies and interventions.The researcher conducted semi-structured interviews\nand analyzed the data using thematic analysis to develop the “Digital Learning Difficulties\nScale for Middle-Aged and Older Adults.” Considering the difficulty of sample collection,\nexpert content validity review and cognitive interviews with 10 middle-aged and older adults\nwere conducted as the basis for item revision. After revision, the scale was administered in\nthe formal survey.This study adopted purposive sampling, recruiting 343 students aged 45\nand above from a university in Taiwan as participants. After the questionnaires were collected\nand organized, data were analyzed using SPSS 24.0 and AMOS 28.0. The findings are as\nfollows:\n1. The Digital Learning Difficulties Scale for Middle-Aged and Older Adults consists of 20\nitems and five subscales: the “Learning Motivation” subscale with 5 items, the “Digital\nSkills” subscale with 4 items, the “Physical Functioning” subscale with 4 items, the\n“Interpersonal Support” subscale with 4 items, and the “Learning Habits” subscale with 3\nitems.\n2. The analysis of internal consistency reliability showed that the Cronbach’s alpha\ncoefficient was .802 for the Digital Skills subscale, .760 for the Physical Functioning\nsubscale, .725 for the Learning Motivation subscale, .725 for the Interpersonal Support\nsubscale, and .846 for the overall scale. These results indicate that the scale has good internal\nconsistency reliability. In addition, the scale demonstrated good model fit in terms of\nconstruct validity, supporting the proposed scale structure.",
+      "keywords_en": "middle-aged and older adults, digital learning difficulties, scale development",
+      "source_pages": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "PN-07-3",
+      "type": "專題發表",
+      "date": "10/1",
+      "session": "Panel 07",
+      "code": "Panel 07-3",
+      "presenter": "陳靜怡",
+      "presenters": [
+        "陳靜怡"
+      ],
+      "title": "適地老化：高齡者家依戀與換居意願之異質性分析",
+      "title_en": "Ageing in a Place of Choice: A Heterogeneity Analysis of Older Adults’ Home Attachment and Willingness to Relocate",
+      "author_info_lines": [
+        "陳靜怡 教授兼系主任｜國立空中大學生活科學系"
+      ],
+      "author_info_lines_en": [
+        "Professor and Department Chair Ching-Yi Chen｜Department of Living Science, National Open University"
+      ],
+      "abstract": "家在哪，心就在那是世人普遍的認知，因此，人們直覺反應高齡者一定偏好在宅老\n化。然而，在宅可能是最不利支持生活獨立性的老化環境，或者是最不利健康因素的老\n化方式。過去研究在此一議題之討論，均立基於既有之理論架構輔以質化研究，表達在\n宅老化是高齡者最佳的養老方式。但晚近亦有另一派言論強調「選擇適當環境」老化才\n是最佳的養老方式。因此，本文以自行進行抽樣調查之一手資料，利用潛在變量依序\nProbit 模型探討新北市高齡者之換居意願。此一模型之優勢在於同時考量樣本異質性之\n特性。\n結果顯示，高齡者傾向不願意換居，且從研究設計之影響因素排序，增加經濟支出，\n高齡者愈不想換居的係數最大；其次是距離生活機能便利之區域越遠；再次為距離子女\n或最好的親朋好友距離越遠，高齡者越不想換居。影響係數最小的反而是與舊家的距離。\n但當考慮家依戀構面與感知壓力之影響時，依戀程度愈高，愈沒有換居意願；感知壓力\n愈大時，愈沒有換居意願。然而，現居住宅型式為透天或公寓之高齡者，確實表現出正\n向顯著之搬遷意願。研究結果意涵，在宅老化必須要在環境能支持高齡者獨立生活的情\n況下才能成立。當高齡者感知壓力愈大時會愈不願意換居，說明養老環境應盡早規畫安\n排適應，否則在宅老化做造成困居或社會孤立，仍未必是養老最佳選擇。",
+      "keywords": "換居、家依戀、感知壓力、高齡者、異質性",
+      "abstract_en": "“Home is where the heart is” is a widely held belief. Accordingly, people often intuitively\nassume that older adults must prefer ageing at home. However, ageing at home may in fact take\nplace in an environment that is least supportive of independent living, or may represent an\nageing arrangement that is most unfavourable to health. Previous studies on this issue have\nmostly been based on existing theoretical frameworks supplemented by qualitative research,\nsuggesting that ageing at home is the best way for older adults to age. More recent discussions,\nhowever, have emphasised that ageing in an appropriate environment, or ageing in a place of\nchoice, may be the best approach. Using primary data collected through a sample survey\nconducted by the author, this study applies a latent variable ordered Probit model to examine\nolder adults’ willingness to relocate in New Taipei City. The advantage of this model lies in its\nability to account for sample heterogeneity.\nThe results show that older adults generally tend to be unwilling to relocate. Among the\ninfluencing factors considered in the research design, increased economic expenditure has the\nlargest coefficient in explaining older adults’ unwillingness to relocate. The second most\ninfluential factor is greater distance from areas with convenient daily living functions, followed\nby greater distance from children or close relatives and friends. By contrast, distance from the\nformer home has the smallest effect. When the dimensions of home attachment and perceived\nstress are taken into account, higher levels of attachment are associated with a lower\nwillingness to relocate. Similarly, higher levels of perceived stress are associated with a lower\nwillingness to relocate. However, older adults currently living in townhouses or apartments do\nshow a significantly positive willingness to relocate. The findings suggest that ageing at home\ncan only be justified when the environment is capable of supporting older adults’ independent\nliving. The finding that older adults with higher perceived stress are less willing to relocate\nindicates that later-life residential environments should be planned and adapted as early as\npossible. Otherwise, ageing at home may lead to residential confinement or social isolation and\nmay not necessarily be the best choice for later-life care.",
+      "keywords_en": "Relocation, Home attachment, Perceived stress, Older adults, Heterogeneity",
+      "source_pages": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "PN-08-1",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 08",
+      "code": "Panel 08-1",
+      "presenter": "賴弘基",
+      "presenters": [
+        "賴弘基"
+      ],
+      "title": "越滑越精彩的高齡人生",
+      "title_en": "A More Engaging Later Life Through Digital Technology",
+      "author_info_lines": [
+        "賴弘基 教授｜國立暨南國際大學諮商心理與人力資源發展學系"
+      ],
+      "author_info_lines_en": [
+        "Hung-Chi Lai Professor｜Department of Counseling Psychology and Human Resource Development, National Chi Nan University"
+      ],
+      "abstract": "本專題論文以〈越滑越精彩的高齡人生〉為題，探討高齡者如何運用數位科技達成\n終身學習、充分參與社會並提升生活品質。依據數位發展部114年數位近用調查，臺灣\n60歲以上上網率已躍升至70.5%，近用落差逐步縮小；但多數使用深度仍不足，65歲以\n上僅即時通訊使用率過半，顯示高齡者數位培力之重點應由近用轉向素養為發展導向。\n其次，本研究之文獻回顧美國AARP（美國退休人員協會）科技趨勢調查，發現美國50\n歲以上成人生成式AI 使用率兩年成長逾三倍；分析澳洲Be Connected 計畫則發現，澳\n洲政府提供免費線上課程並結合社區據點提供的真人輔導，且將政策重心由提供連網設\n備轉向培養數位技能與信心，更能有效提升高齡者的數位參與。此外，本論文並以相關\n實徵研究說明「溝通與使用」構面最能預測高齡者幸福感，社會連結是科技轉化為幸福\n的關鍵。最後檢視臺灣樂齡體系AI 課程的開課熱潮，提出深化課程設計、多元教學方\n法、素養融入各課程與持續支持系統四項教學策略，期使高齡者學得快樂、活得幸福，\n共創數位共融的樂齡社會。",
+      "keywords": "高齡者、數位科技、終身學習、數位素養、幸福感",
+      "abstract_en": "This paper, entitled “A More Engaging Later Life Through Digital Technology,” explores\nhow older adults can use digital technologies to engage in lifelong learning, participate more\nfully in society, and enhance their quality of life. According to Taiwan’s 2025 Digital Access\nSurvey conducted by the Ministry of Digital Affairs, the Internet usage rate among people aged\n60 and above has risen to 70.5%, indicating a gradual narrowing of the digital access gap.\nHowever, the depth of digital use remains limited. Among adults aged 65 and above, only the\nuse of instant messaging exceeds 50%, suggesting that digital empowerment for older adults\nshould shift from a primary emphasis on access toward the development of digital literacy and\nmeaningful use.\nThe study further reviews international evidence and policy practices. Findings from the\nAARP technology trends survey in the United States indicate that the use of generative artificial\nintelligence among adults aged 50 and above increased more than threefold over a two-year\nperiod. An analysis of Australia’s Be Connected program shows that combining free online\nlearning resources with face-to-face support provided through community-based organizations,\nwhile shifting policy emphasis from the provision of connectivity and devices to the\ndevelopment of digital skills and confidence, can more effectively promote the digital\nparticipation of older adults.\nIn addition, empirical studies reviewed in this paper suggest that the dimension of\ncommunication and use is a particularly strong predictor of well-being among older adults,\nhighlighting social connectedness as a key mechanism through which technology may\ncontribute to subjective well-being. Finally, by examining the rapid expansion of artificial\nintelligence courses within Taiwan’s senior learning system, this paper proposes four\ninstructional strategies: strengthening course design, adopting diverse teaching approaches,\nintegrating digital literacy across curricula, and establishing systems for continuous learning\nsupport.\nThrough these strategies, the paper seeks to promote enjoyable learning experiences,\ngreater well-being, and more meaningful digital participation among older adults, thereby\ncontributing to the development of an age-friendly and digitally inclusive society.",
+      "keywords_en": "older adults; digital technology; lifelong learning; digital literacy; well-being",
+      "source_pages": [
+        50,
+        51
+      ]
+    },
+    {
+      "id": "PN-08-2",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 08",
+      "code": "Panel 08-2",
+      "presenter": "黃錦山",
+      "presenters": [
+        "黃錦山"
+      ],
+      "title": "超高齡社會來臨中小學教育的新課題：中小學教師老化素養能力指標及權重體系建構之研究",
+      "title_en": "New Challenges for Primary and Secondary Education in a Super-Aged Society: Developing Aging Literacy Competency Indicators and a Weighting System for School Teachers",
+      "author_info_lines": [
+        "黃錦山 教授｜國立中正大學成人及繼續教育學系"
+      ],
+      "author_info_lines_en": [
+        "Teachers",
+        "Chin-Shan Huang Professor｜Department of Adult and Continuing Education, National Chung Cheng University"
+      ],
+      "abstract": "超高齡社會已經來臨，未來的社會，100歲人瑞將是到處都有。對此，該要如何\n協助目前的中小學生去迎向他們的百歲人生呢？還可以使用「過去」的舊思維老化刻\n板印象，來教導「現在」的中小學生，去面對他們「未來」的百歲人生嗎？這是因應\n超高齡社會來臨，中小學教育必須面對的新課題。誠如世界衛生組織的《全球年齡歧\n視報告書》所言，在世界全球內，「每兩個人當中，就有一個人對老年人持有年齡歧\n視；在歐洲，每三個人當中，就有一個人指出自己有遭受到年齡的歧視」。\n面對這麼嚴重的年齡歧視現象，要如何來打擊與消除呢？世界衛生組織於2022年\n提出「全球打擊年齡歧視運動」，指出三大策略：政策法律、教育介入與代間接觸介\n入。其中，「教育介入」與「代間接觸介入」的兩大策略的實施，就有賴身處於中小學\n第一線的工作人員「教師」了。然而，中小學教師本身是否具備有「老化素養」呢？\n抑或是教師本身也是年齡歧視者呢？這是迎接超高齡社會來臨的重要課題。\n因此，本研究旨在因應百歲人生趨勢，系統性地建構一套具實證基礎的中小學教\n師老化素養能力指標與權重體系，因應全球人口平均壽命延長與超高齡社會來臨、師\n生普遍面臨老化知識不足及年齡歧視之嚴峻挑戰。以為超高齡社會來臨而預做準備，\n從而為老化教育的未來研究與實務發展建立起指引的方向。",
+      "keywords": "",
+      "abstract_en": "As societies enter the era of super-aging, living to the age of 100 is becoming\nincreasingly common. This demographic transformation raises an important educational\nquestion: how can today’s primary and secondary school students be adequately prepared for\na potential centenarian life? Relying on outdated ways of thinking and stereotypical\nperceptions of aging to educate younger generations may no longer be sufficient for preparing\nthem for the realities of longevity. Accordingly, the advent of a super-aged society presents\nnew and pressing challenges for primary and secondary education.\nAs highlighted in the World Health Organization’s Global Report on Ageism, ageism\nremains widespread worldwide. The report indicates that one in every two people globally\nholds ageist attitudes toward older adults, while in Europe, one in three people reports having\nexperienced age discrimination. Addressing and reducing ageism therefore requires\nsystematic intervention. In 2022, the World Health Organization advanced the Global\nCampaign to Combat Ageism, identifying three major strategies: policy and legal measures,\neducational interventions, and intergenerational contact interventions. The effective\nimplementation of the latter two strategies depends substantially on teachers, who serve as\nfrontline professionals in primary and secondary education.\nThis raises a critical question: do primary and secondary school teachers possess\nadequate aging literacy, or might teachers themselves also hold ageist attitudes? Enhancing\nteachers’ aging literacy is therefore an essential educational task in preparation for a super-\naged society. In response to the trend toward longer lifespans and centenarian lives, this study\naims to systematically develop an empirically grounded set of aging literacy competency\nindicators and a corresponding weighting system for primary and secondary school teachers.\nThe framework is intended to address the challenges associated with increasing global\nlongevity, the emergence of super-aged societies, insufficient knowledge of aging among\nteachers and students, and the continuing prevalence of ageism.\nBy establishing a structured and evidence-based framework for teachers’ aging literacy\ncompetencies, this study seeks to contribute to educational preparedness for a super-aged\nsociety and to provide a foundation for future research and practice in aging education.",
+      "keywords_en": "",
+      "source_pages": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "PN-08-3",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 08",
+      "code": "Panel 08-3",
+      "presenter": "潘紅慧",
+      "presenters": [
+        "潘紅慧"
+      ],
+      "title": "從比利時成人教育到長壽社會創新：跨域共創的教育藍圖",
+      "title_en": "From Adult Education in Belgium to Innovation for a Longevity Society: An Educational Blueprint for Interdisciplinary Co-Creation",
+      "author_info_lines": [
+        "潘紅慧 助理教授｜國立中正大學成人及繼續教育學系"
+      ],
+      "author_info_lines_en": [
+        "Hung-Hui Pan Assistant Professor｜Department of Adult and Continuing Education, National Chung Cheng University"
+      ],
+      "abstract": "一、研究背景\n比利時弗拉芒地區將「成人教育」提升為長壽社會的公共政策方法論，透過\nVUB SARLab（Society and Ageing Research Lab）所屬 Adult Educational Sciences\n（Agogiek）體系，與弗拉芒政府、歐盟科研框架、公民社會共構可複製的社會創新流\n程。本摘要回應台灣 2025 年邁入超高齡社會的提問：成人教育如何由單一系所升級\n為社會介入方法論？跨域共創如何設計？\n二、方法\n以社會老年學三大視角取徑：環境老年學（environmental gerontology）關注人與\n環境互動及在地老化；生命歷程（life-course）社會學探討早期條件、遷移、職涯對晚\n年的累積影響；批判老年學（critical gerontology）挑戰「老化＝衰退」敘事，主張學\n習即賦權。\n三、發現\nCaring Neighbourhoods 自 2013 年 3 個里擴張至 2022–2025 年 132 個里，證\n明關懷社區可制度化；D-SCOPE 建立「偵測—支持—照顧—預防—賦能」五步流\n程；HOMeAGE（2023–2027）培育博士人才投入 ageing in place 的研究）：跨國、跨\n族群、跨場域驗證社會參與、學習、孤獨感三者的連動。\n四、貢獻\n對台灣的教育藍圖 提出「三個處方、五個槓桿」：①設立「長壽社會與成人教\n育」跨域學位學程；②以里為單位啟動 Caring Neighbourhoods 試辦；③設立孤獨感\n與社會資本國家級監測指標。五槓桿為成人教育專業化、參與式研究、社區共學網\n絡、數位與媒體素養、政策回饋鏈。\n五、結論\n歐洲的成人教育並非授課技術以及終身學習，而是文化、健康、經濟三條線的交\n集；唯有把學習鑲嵌在社區治理中，長壽社會才能從存活轉向美好生活。",
+      "keywords": "終身學習、成人教育、長壽社會、社會創新、社區共學、孤寂防治、社會參 與、移民長者、Caring Neighbourhoods、D-SCOPE、Flanders、跨域共創",
+      "abstract_en": "1. Research Background\nIn the Flemish region of Belgium, adult education has evolved beyond the boundaries of\nconventional educational provision and has increasingly become a public policy approach to\naddressing the challenges of a longevity society. Through the Adult Educational Sciences (Agogiek)\nframework associated with VUB SARLab (Society and Ageing Research Lab), collaborations among\nacademic institutions, the Flemish government, European Union research frameworks, and civil\nsociety have contributed to the development of replicable processes for social innovation. In response\nto Taiwan’s transition into a super-aged society in 2025, this study raises two central questions: How\ncan adult education be transformed from an academic discipline into a methodology for social\nintervention? How can interdisciplinary co-creation be effectively designed and implemented?\n2. Methodological Approach\nThe analysis adopts three major perspectives from social gerontology. First, environmental\ngerontology examines person–environment interactions and aging in place. Second, the life-course\nsociological perspective explores how early-life conditions, migration experiences, and career\ntrajectories exert cumulative influences on later life. Third, critical gerontology challenges the\ndominant narrative that equates aging with decline and instead emphasizes learning as a process of\nempowerment.\n3. Findings\nThe Caring Neighbourhoods initiative expanded from three neighbourhoods in 2013 to 132\nneighbourhoods during 2022–2025, demonstrating the potential for community-based care models to\nbecome institutionalized. D-SCOPE developed a five-stage process consisting of detection, support,\ncare, prevention, and empowerment. In addition, HOMeAGE (2023–2027) focuses on developing\ndoctoral researchers in the field of aging in place and examines, across countries, population groups,\nand social settings, the interrelationships among social participation, learning, and loneliness.\n4. Contributions: An Educational Blueprint for Taiwan\nDrawing on these experiences, this study proposes three prescriptions and five policy levers for\nTaiwan. The three prescriptions are: (1) establishing an interdisciplinary degree program in Longevity\nSociety and Adult Education; (2) initiating pilot Caring Neighbourhoods projects at the\nneighbourhood level; and (3) establishing national monitoring indicators for loneliness and social\ncapital. The five policy levers include the professionalization of adult education, participatory\nresearch, community-based co-learning networks, digital and media literacy, and the development of\npolicy feedback loops.\n5. Conclusion\nThe European experience demonstrates that adult education should not be understood merely as a\nset of instructional techniques or as lifelong learning in a narrow sense. Rather, it lies at the\nintersection of culture, health, and the economy. Only when learning is embedded within community\ngovernance can a longevity society move beyond an emphasis on survival toward the pursuit of well-\nbeing and a good life.",
+      "keywords_en": "lifelong learning; adult education; longevity society; social innovation; community-based co-learning; loneliness prevention; social participation; older migrants; Caring Neighbourhoods; D-SCOPE; Flanders; interdisciplinary co-creation",
+      "source_pages": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "PN-09-1",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 09",
+      "code": "Panel 09-1",
+      "presenter": "張聖琳",
+      "presenters": [
+        "張聖琳",
+        "許宜珮"
+      ],
+      "title": "氣候調適在地老化的大學—社區協力：雲林五塊村生活實驗室",
+      "title_en": "University–Community Collaboration for Climate-Adaptive Aging-in-Place: A Living Lab in WuKuai Village, Yunlin",
+      "author_info_lines": [
+        "張聖琳 教授｜國立臺灣大學建築與城鄉研究所",
+        "許宜珮 教授｜逢甲大學建築專業學院"
+      ],
+      "author_info_lines_en": [
+        "Shenglin Elijah Chang Professor｜Graduate Institute of Building and Planning, National Taiwan University",
+        "Yi-Pei Hsu Professor｜School of Architecture, Feng Chia University"
+      ],
+      "abstract": "面對人口快速高齡化與氣候威脅加劇，基礎設施與公共資源有限的偏鄉地區尤為\n脆弱。本研究旨在發展一套「超高齡社區可自行操作的微氣候舒適度自我診斷工\n具」，使偏鄉社區能自主評估日常公共空間的熱環境。研究以氣候調適都市主義及\nWHO 高齡友善城市架構為理論基礎，整合大氣科學、景觀建築、空間分析與服務設\n計，採用生活實驗室（Living Lab）為研究方法。\n實證案例為雲林縣元長鄉五塊村。本研究於國科會永續學門「雲林健康社區」跨\n領域研究計畫支持下執行，結合臺灣大學建築與城鄉研究所、中原大學景觀學系及逢\n甲大學建築專業學院之USR 計畫，共同以該村為生活實驗場域。研究透過微氣候模\n擬、GIS 分析與參與式訪談，以生理等效溫度（PET）評估高齡農民熱壓力，並辨識\n公共空間與移動網絡的危險熱點，發現遮蔭不足、道路不安全及農事活動高熱傷害暴\n露等缺口，進而將技術程序簡化為居民與照顧人員免專業訓練即可操作的自我診斷流\n程。\n在診斷之外，研究提出社區改善行動的機制原則：由長照C 據點與社區營造協會\n偕同鄉公所，依診斷結果爭取小額經費，優先改善熱傷害最嚴重的公共空間，形成\n「診斷—提案—改善」的社區驅動機制，促進社會韌性與安全在地老化，並為資源不\n足的偏鄉提供可擴散的規劃參考。",
+      "keywords": "社區自我診斷、熱舒適度、在地老化、超高齡社會、氣候調適、生活實驗室",
+      "abstract_en": "Rural communities with limited infrastructure and public resources are particularly\nvulnerable to rapid population aging and intensifying climate threats. This study aims to\ndevelop a self-assessment tool for microclimatic thermal comfort that super-aged\ncommunities can use independently to evaluate thermal conditions in everyday public spaces.\nDrawing on climate-adaptive urbanism and the World Health Organization’s age-friendly\ncities framework, the study integrates atmospheric science, landscape architecture, spatial\nanalysis, and service design through a living lab approach.\nThe case study was conducted in Wukuai Village, Yuanchang Township, Yunlin County,\nTaiwan, as part of the interdisciplinary “Healthy Communities in Yunlin” project supported\nby sustainability research funding from the National Science and Technology Council. The\ncollaboration brought together University Social Responsibility (USR) initiatives at the\nGraduate Institute of Building and Planning at National Taiwan University, the Department of\nLandscape Architecture at Chung Yuan Christian University, and the School of Architecture\nat Feng Chia University, with the village serving as a shared living lab. Through microclimate\nsimulations, geographic information system (GIS) analysis, and participatory interviews, the\nstudy used physiological equivalent temperature (PET) to assess heat stress among older\nfarmers and identify hazardous hotspots in public spaces and mobility networks. The findings\nrevealed insufficient shade, unsafe road conditions, and high exposure to heat-related health\nrisks during agricultural work. The technical procedures were then simplified into a self-\nassessment process that residents and care workers could use without specialized training.\nBeyond assessment, the study proposes guiding principles for community-led\nimprovements. Under the proposed mechanism, community long-term care stations (C-level)\nand community development associations work with the township office to seek small grants\nbased on assessment results, prioritizing improvements to public spaces with the greatest risk\nof heat-related harm. This community-driven “assessment–proposal–improvement” process\naims to strengthen social resilience and support safe aging in place, while offering a\ntransferable planning approach for resource-constrained rural communities.",
+      "keywords_en": "community self-assessment; thermal comfort; aging in place; super-aged society; climate adaptation; living lab",
+      "source_pages": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "PN-09-2",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 09",
+      "code": "Panel 09-2",
+      "presenter": "張伯茹",
+      "presenters": [
+        "張伯茹"
+      ],
+      "title": "當恢復性感受轉化為公園參與：高齡者在亞熱帶鄰里公園中的社會與季節條件",
+      "title_en": "When Restorativeness Becomes Park Engagement: Social and Seasonal Contingencies among Older Adults in Subtropical Neighborhood Parks",
+      "author_info_lines": [
+        "張伯茹 副教授｜國立臺灣大學園藝暨景觀學系"
+      ],
+      "author_info_lines_en": [
+        "Po-Ju Chang Associate Professor｜Department of Horticulture and Landscape Architecture, National Taiwan University"
+      ],
+      "abstract": "鄰里公園是高齡者進行日常活動、社會互動與心理恢復的重要環境，但公園被感受\n為具有恢復性，是否會進一步轉化為實際參與，可能受到社區社會關係與季節條件影響。\n本研究以臺中市31座鄰里公園為場域，採四季重複橫斷調查，蒐集6,208份55歲以上使\n用者問卷，並以兩層次多層次模型分析環境壓力感受、鄰里社會資本、知覺恢復性與公\n園參與之關聯。\n結果顯示，較高的鄰里社會資本與較低的環境壓力感受、較強的知覺恢復性及較高\n的公園參與皆呈穩定關聯。知覺恢復性與公園參與呈顯著正向關聯，且此關聯在春季較\n強、冬季較弱；空氣污染、垃圾、活動噪音與交通噪音則呈現不同季節型態，但在納入\n知覺恢復性、社會資本與季節後，均未獨立預測公園參與。研究指出，高齡友善公園不\n應只著重綠量，而應同時營造舒適、熟悉且可支持低壓力互動的社會環境，並透過遮蔭、\n休憩、防風、聲景與季節性管理維持全年可使用性，使心理恢復更可能轉化為持續的日\n常參與與在地老化支持。",
+      "keywords": "高齡者、鄰里公園、知覺恢復性、鄰里社會資本、季節性",
+      "abstract_en": "Neighborhood parks are everyday settings for older adults’ activity, social interaction, and\npsychological restoration. Yet it remains unclear when perceiving a park as restorative is\nassociated with actual park engagement, especially in subtropical cities where social context\nand seasonal conditions shape outdoor use. This study used a four-season repeated cross-\nsectional design in 31 neighborhood parks in Taichung, Taiwan. A total of 6,208 adults aged 55\nyears and older completed onsite surveys assessing stressor-specific environmental ratings (air\npollution, litter, activity noise, and traffic noise), neighborhood social capital, perceived\nrestorativeness, and engagement in six park-based activity domains. Two-level multilevel\nmodels accounted for respondents nested within parks.\nHigher neighborhood social capital was consistently associated with lower perceived\nstressor impact, stronger perceived restorativeness, and greater park engagement. Perceived\nrestorativeness was positively associated with park engagement, and this association varied by\nseason: it was stronger in spring and weaker in winter. The four environmental stressors\ndisplayed distinct seasonal patterns, but none remained independently associated with park\nengagement after perceived restorativeness, social capital, season, and sociodemographic\ncovariates were considered. These findings suggest that the behavioral relevance of restorative\nappraisal is socially embedded and seasonally contingent. Age-friendly park planning should\ntherefore move beyond a greenery-centered approach and create socially comfortable, low-\nstrain, and seasonally usable environments. Shaded seating, sheltered rest areas, acoustic\ncomfort, visible maintenance, and small spaces for familiar, low-pressure interaction may help\ntranslate restorative experiences into sustained everyday engagement and support aging in\nplace.",
+      "keywords_en": "older adults; neighborhood parks; perceived restorativeness; neighborhood social capital; seasonality",
+      "source_pages": [
+        59,
+        60
+      ]
+    },
+    {
+      "id": "PN-09-3",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 09",
+      "code": "Panel 09-3",
+      "presenter": "潘紅慧",
+      "presenters": [
+        "潘紅慧",
+        "劉立凡"
+      ],
+      "title": "The Mediating Role of Community Social Capital in the Relationship Between Loneliness and Depression Among Community-dwelling Older Adults in Taiwan",
+      "title_en": "The Mediating Role of Community Social Capital in the Relationship Between Loneliness and Depression Among Community-dwelling Older Adults in Taiwan",
+      "author_info_lines": [
+        "潘紅慧 助理教授｜國立中正大學成人及繼續教育學系",
+        "劉立凡 教授｜國立成功大學老年學研究所"
+      ],
+      "author_info_lines_en": [
+        "Honghui Pan Assistant Professor｜Faculty of Adult and Continuing Education, National Chung Cheng University",
+        "LiFan Liu Professor｜Institute of Gerontology, College of Medicine, National Cheng Kung University"
+      ],
+      "abstract": "",
+      "keywords": "",
+      "abstract_en": "Background\nLoneliness in old age is found to be a significant predictor of depression, with lonely older\nadults at higher risk of depression. However, not all lonely individuals develop depressive\nsymptoms, and social capital may play a mediating role in this relationship.\nMethods\nWe conducted a secondary data analysis of the University Responsibility dataset from\nNational Cheng Kung University in Tainan City, Taiwan. The study included 530 older adults\naged 65 and above. Loneliness was measured using the 6-item De Jong Gierveld Loneliness\nScale (2006), and depression was assessed using the CES-D (Center for Epidemiological\nStudies Depression Scale). Data analysis was performed using SPSS 29.0 and the PROCESS\nv4.3 macro for regression and mediation effect analysis. Demographic covariates, including\nage, gender, marital status, ethnicity, educational level, health, and income, were also included\nin the analysis.\nResults\nPredictors of depression included higher levels of loneliness (β = 0.11, p < 0.001), low\nsocial participation (β = 0.03, p < 0.001), and poor health (β = 0.10, p = 0.002). Mediation\nanalysis indicated that social capital in the community mediated the impact of loneliness on\ndepression (effect = 0.006, BootLLCI = 0.002, BootULCI = 0.011).\nConclusion\nThe findings highlight the importance of building social capital among community-\ndwelling older adults. To facilitate healthy aging in place, policymakers and practitioners\nshould focus on developing community-level interventions that combat loneliness, increase\nopportunities for social participation, and foster social capital.",
+      "keywords_en": "",
+      "source_pages": [
+        61
+      ]
+    },
+    {
+      "id": "PN-10-1",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 10",
+      "code": "Panel 10-1",
+      "presenter": "陳建良",
+      "presenters": [
+        "陳建良"
+      ],
+      "title": "高等教育角色在長壽社會下的重塑：從第三人生到30+大學",
+      "title_en": "Reshaping the Role of Higher Education in a Longevity Society: From the Third Age to the 30+ University",
+      "author_info_lines": [
+        "陳建良 菁英特聘教授兼副校長｜國立暨南國際大學經濟學系"
+      ],
+      "author_info_lines_en": [
+        "the 30+ University",
+        "Professor Chen Chien-liang｜Department of Economics, National Chi Nan University"
+      ],
+      "abstract": "人口高齡化不只是人口年齡結構的改變，更意味著生命歷程、工作型態、健康福祉\n與教育制度都必須重新設計。根據人力資本理論，教育要在青年時期完成，然後透過工\n作貢獻社會；這種將人生區分為「受教育—工作—退休」三階段的線性生命模式，已無\n法回應長壽社會的需求。當前科技快速發展、人工智慧普及與產業結構轉型，30歲以後\n的青壯年及中高齡人口，面對的知識更新、職涯轉銜、健康管理、財務安全與社會參與，\n也與上一代完全不同。高齡化伴隨著少子化而來，當整體社會以前所未見的方式快速轉\n變，高等教育也必須重新思考其學生來源、課程內容、學習方式及社會角色。\n本研究旨在探討長壽社會下高等教育角色重新設計的可能性，並以計畫下國立暨南\n國際大學試辦教育部第三人生大學「健康福祉科技學分學程專班」為實踐案例。本研究\n發現，第三人生大學的功能與角色，並不是只有將大學開放接受中高齡者學習，更在於\n重新檢視人力資本強調的教育應儘早完成的傳統觀念。當我們身處的環境經歷高齡化與\n快速變遷，大學的功能也應該由原本只注重人生前期的人力資本投資，逐步轉型為支持\n個人在生命歷程中能力更新與人生再設計的終身學習平台。\n國立暨南國際大學的經驗顯示，長壽社會中的成人高等教育，可從「健康資本」、\n「人力與數位資本」、「財務安全」及「社會與職涯資本」四個面向整合，並透過大學、\n醫療機構、金融機構與企業之跨域合作，將高等教育、生活實務與社會參與相互連結。\n質言之，高齡化社會下的高等教育政策重點，應不在只注重青年人力資本投資，必須轉\n而涵蓋整個生命歷程的終身學習機構。大學應重新設計入學制度、課程模組、學習場域、\n學習支持與跨部門合作機制，成為建構包容性與永續社會的重要基礎。",
+      "keywords": "30+大學、第三人生、長壽社會、終身學習",
+      "abstract_en": "Population aging is not merely a change in the age structure of the population; it also requires a\nfundamental redesign of the life course, patterns of work, health and well-being, and educational\ninstitutions. According to the conventional human capital perspective, formal education is largely\ncompleted during youth, after which individuals contribute to society through employment before\neventually entering retirement. However, this linear three-stage life course of “education–work–\nretirement” is increasingly unable to respond to the needs of a longevity society. Rapid technological\nadvancement, the widespread adoption of artificial intelligence, and ongoing industrial restructuring\nhave significantly changed the challenges faced by adults aged 30 and above, including midlife and\nolder adults. Their needs for knowledge renewal, career transition, health management, financial\nsecurity, and social participation are substantially different from those of previous generations. As\npopulation aging is accompanied by declining birth rates and society undergoes unprecedented\ndemographic and technological transformation, higher education must reconsider its student population,\ncurriculum design, learning models, and broader social role.\nThis study explores the possibilities for redesigning the role of higher education in a longevity\nsociety, using the “Health and Welfare Technology Credit Program” implemented by National Chi Nan\nUniversity under Taiwan’s Ministry of Education Third Age University initiative as a practical case.\nThe study argues that the role of the Third Age University extends beyond simply opening university\ncampuses to middle-aged and older learners. More importantly, it calls for a re-examination of the\ntraditional human capital assumption that education should be completed as early as possible in life. In\nan era characterized by population aging and rapid social and technological change, universities should\ngradually move beyond their conventional emphasis on early-life human capital investment and\ntransform into lifelong learning platforms that support continuous capability renewal and life redesign\nthroughout the life course.\nThe experience of National Chi Nan University further suggests that adult higher education in a\nlongevity society can be organized around four interconnected dimensions: “health capital,” “human\nand digital capital,” “financial security,” and “social and career capital.” Through cross-sector\ncollaboration among universities, healthcare institutions, financial organizations, and enterprises,\nhigher education can more effectively connect academic learning with everyday life and social\nparticipation. In short, higher education policy in an aging society should no longer focus solely on\nhuman capital investment among young people; instead, it should evolve toward a lifelong learning\nsystem that serves individuals across the entire life course. Universities should therefore redesign\nadmission mechanisms, curriculum modules, learning environments, student support systems, and\ncross-sector collaboration in order to become a key institutional foundation for building a more\ninclusive and sustainable society.",
+      "keywords_en": "30+ University; Third Age; longevity society; lifelong learning",
+      "source_pages": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "PN-10-2",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 10",
+      "code": "Panel 10-2",
+      "presenter": "陳正芳",
+      "presenters": [
+        "陳正芳"
+      ],
+      "title": "智慧學習新定義，以人文為方法",
+      "title_en": "Redefining Smart Learning: Humanities as a Method",
+      "author_info_lines": [
+        "陳正芳 教授｜國立暨南國際大學中文系"
+      ],
+      "author_info_lines_en": [
+        "Professor Chen Zheng-fang｜Department of Chinese Language and Literature, National Chi Nan University"
+      ],
+      "abstract": "本論文的「智慧學習」是針對從第三人生大學到30+大學招生與開課的教育經驗所\n提出，一般對「智慧學習」比較是從數位科技想像，我想提出的是「第三人生」大學的\n人文智慧學習（humanities-based smart learning）。\n當我們以為要用最先進的A.I.才能帶領第三人生進入未來，實際上，藉由大數據產\n生對話、文稿甚至研究的生成式A.I.，，如chatgpt 其實是浸潤「歷史」最多的現代工具，\n相較第一或第二人生，第三人生的學生也是浸潤「歷史」最多的人。智慧學習的新定義，\n不是忘記背後的，而是如何借助「過去」成為學習前進的推力；換言之，如何轉化經驗\n和舊有知識，，是第三人生大學課程設計的挑戰。由於「智慧學習」源於良好的課程設計，\n本文將以我們所開設的「身心舒健與人文創新學分學程」及其課程為分析案例，如此將\n會進入人文素養的環節，這也是何以本文要以人文為方法。其中將透過課程設計、教學\n實踐和招生宣導三個面向來探討智慧學習的新定義，從而建構終身學習的新價值，翻轉\n國人既有思維，而能理解重返大學的時代新意義。",
+      "keywords": "智慧學習、新定義、人文",
+      "abstract_en": "In this paper, the concept of “smart learning” is developed from educational experiences\ngained through the establishment of a University for the Third Age and the subsequent\nrecruitment and implementation of courses for a 30+ university program. In general, “smart\nlearning” tends to be imagined primarily in terms of digital technologies. What I propose,\nhowever, is a form of humanities-based smart learning for universities serving learners in the\n“third stage of life.”\nWhen we assume that the most advanced A.I. technologies are necessary to lead people\nin the third stage of life into the future, we may overlook the fact that generative A.I. tools such\nas ChatGPT—which can generate dialogue, manuscripts, and even research through the\nprocessing of massive amounts of data—are, in fact, among the modern tools most deeply\nimmersed in “history.” Compared with learners in the first or second stages of life, students in\nthe third stage of life are likewise those whose lives are most deeply immersed in “history.”A\nnew definition of smart learning, therefore, does not mean forgetting what lies behind us, but\nrather understanding how to draw upon the “past” as a driving force for moving learning\nforward. In other words, the central challenge in curriculum design for universities serving\nlearners in the third stage of life is how to transform accumulated experience and existing\nknowledge into new sources of learning.Because “smart learning” originates in thoughtful and\neffective curriculum design, this paper takes as its case study the Interdisciplinary Credit\nProgram in Physical and Mental Well-being and Humanities Innovation and the courses offered\nwithin the program. This approach necessarily brings the discussion into the domain of the\nhumanities, which explains why this paper proposes the humanities as a method. From three\nperspectives—curriculum design, teaching practice, and recruitment and outreach—this paper\nexplores a new definition of smart learning and, in doing so, seeks to construct new values for\nlifelong learning, transform conventional perceptions among the Taiwanese public, and foster\nan understanding of the contemporary significance of returning to university in later life.",
+      "keywords_en": "Smart Learning, New Definition, Humanities Keywords: Smart Learning, New Definition, Humanities",
+      "source_pages": [
+        65,
+        66
+      ]
+    },
+    {
+      "id": "PN-10-3",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 10",
+      "code": "Panel 10-3",
+      "presenter": "劉美吟",
+      "presenters": [
+        "劉美吟",
+        "梁鎧麟"
+      ],
+      "title": "大學社會責任的在地實踐：暨大 × 埔里鎮公所共構珠仔山社區長照機構，打造 AI 智慧照顧與產學實習場域",
+      "title_en": "Practicing University Social Responsibility in Place: NCNU and Puli Township Co-creating the Zhuzaishan Community Long-Term Care Institution as an AI-Enabled Care and Industry–Academia Learning Field",
+      "author_info_lines": [
+        "劉美吟 助理教授兼長期照顧中心照顧服務組組長｜國立暨南國際大學高齡健康與長期照顧管理學士學位學程原住民族專班",
+        "梁鎧麟 副教授兼長期照顧中心主任｜國立暨南國際大學高齡健康與長期照顧管理學士學位學程原住民族專班"
+      ],
+      "author_info_lines_en": [
+        "Liu Mei-yin｜Assistant Professor and Head of the Care Services Section, Long-term Care Center; Bachelor’s Program in Geriatric Health and Long-term Care Management (Indigenous Program), National Chi Nan University",
+        "Liang Kai-lin｜Associate Professor and Director of the Long-term Care Center; Bachelor’s Program in Geriatric Health and Long-term Care Management (Indigenous Program), National Chi Nan University"
+      ],
+      "abstract": "臺灣已於 2025 年邁入超高齡社會，偏鄉與原鄉地區長期面臨照顧服務據點與專業\n照顧人力不足之困境。國立暨南國際大學秉持大學社會責任（USR）理念，與南投縣埔\n里鎮公所、珠仔山社區發展協會三方共構，於 2026 年 8 月設立「國立暨南國際大學\n附設珠仔山社區長照機構」，提供日間照顧與交通接送服務，並簽署產學合作備忘錄，\n將機構定位為高齡長照原住民族專班學生之產學實習與學習場域。\n本機構以「職人公會」理念設計照顧活動，視長輩為具技藝與生命經驗的職人，將\n復能訓練融入有意義的角色任務；同時導入校內社區福祉研究室自主研發、部署於 NAS\n與 Mac mini 之三套 AI 智慧照顧系統：「職人賦能」以電腦視覺辨識動作，發展沈浸\n式遊戲化體能運動；「腦友會」以十款在地文化遊戲結合難度自適應機制，促進認知功\n能；「厝邊伴」以合作互惠之互動遊戲提升社會連結。\n遊戲歷程資料自動綁定世界衛生組織 ICOPE 六大內在能力與社會連結指標\n（UCLA-LS3，、LSNS-6，、WHO-5），經三系統整合分析後由 AI 產出照顧行動建議，協\n助照顧服務員擬定個別化照顧計畫，以達延緩失能與認知退化之目標。本案展現大學將\n研發知識轉譯至照顧現場、培育在地長照人才之 USR 實踐模式。",
+      "keywords": "大學社會責任、社區長照機構、產學實習、AI 智慧照顧、ICOPE",
+      "abstract_en": "Taiwan became a super-aged society in 2025, and rural and Indigenous areas continue to\nface shortages of community care facilities and trained care workers. Guided by the principles\nof University Social Responsibility (USR), National Chi Nan University (NCNU) partnered\nwith the Puli Township Office and the Zhuzaishan Community Development Association to\nestablish the NCNU-affiliated Zhuzaishan Community Long-Term Care Institution, which\nopened in August 2026. The institution provides day care and transportation services, and a\nmemorandum of understanding designates it as an industry–academia internship and learning\nfield for students in the university’s Indigenous program in aging health and long-term care\nmanagement.Care activities follow an “Artisan Guild” philosophy: older adults are regarded as\nartisans with valuable skills and life experience, and reablement training is embedded in\nmeaningful role-based tasks. The institution also adopts three AI-enabled care systems\ndeveloped in-house by the university’s Community Welfare Lab and deployed on local NAS\nand Mac mini servers. Shokunin Empowerment uses computer-vision motion recognition to\ndeliver immersive, gamified physical exercise; BrainBuddy offers ten culturally grounded\ngames with adaptive difficulty to stimulate cognitive function; and NeighborCompanion\npromotes social connectedness through cooperative and reciprocal interaction games.\nGameplay data are automatically linked to the six domains of intrinsic capacity in the\nWorld Health Organization’s Integrated Care for Older People (ICOPE) framework and to\nsocial connectedness indicators, including the UCLA Loneliness Scale (UCLA-LS3), the\nLubben Social Network Scale (LSNS-6), and the WHO-5 Well-Being Index. After cross-\nsystem integration, AI generates care action recommendations that help care workers develop\nindividualized care plans aimed at delaying functional disability and cognitive decline, while\nfinal decisions remain with care professionals. This case demonstrates a USR practice model\nin which a university translates research and development into frontline care while cultivating\nlocal long-term care talent.",
+      "keywords_en": "University Social Responsibility; community long-term care; industry– academia internship; AI-enabled care; ICOPE",
+      "source_pages": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "PN-10-4",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 10",
+      "code": "Panel 10-4",
+      "presenter": "李宜倫",
+      "presenters": [
+        "李宜倫",
+        "林松柏"
+      ],
+      "title": "從計畫績效到個體價值內化：建構大學生高齡社會創新與關懷素養量表",
+      "title_en": "From Project Performance to Individual Value Internalization: Constructing a Scale for University Students' Social Innovation and Care Competence in an Aging Society",
+      "author_info_lines": [
+        "李宜倫 碩士｜國立暨南國際大學教育政策與行政學系",
+        "林松柏 教授兼教務長｜國立暨南國際大學教育政策與行政學系"
+      ],
+      "author_info_lines_en": [
+        "Yi-Lun Lee Master｜Department of Educational Policy and Administration, National Chi Nan University",
+        "Sung-Po Lin Professor｜Department of Educational Policy and Administration, National Chi Nan University"
+      ],
+      "abstract": "面對超高齡社會的衝擊，高等教育積極推動大學社會責任（USR）。然而，現行USR\n評估多聚焦於學校層級的計畫執行KPI 與量化成果，忽視了評估最核心的對象——學\n生端之「個體價值內化」。若僅以計畫績效為導向，難以驗證學生是否將外部關懷轉化\n為個人素養，凸顯出評估大學生個人社會責任（ISR）的重要性與必要性。\n將USR 轉化為ISR 具有深遠的時代意義：大學生是長壽社會下的關鍵創新者與世\n代橋樑，建構ISR 量表能將組織層級的責任落地為個人素養，引導學生建立面對高齡社\n會所需的創新解方與同理關懷。\n在研究方法上，本研究結合SROI 邏輯架構，運用「模糊德懷術（FDM）」收斂專\n家意見，篩選出包含「議題知覺與動機觸發」、「專業轉化與溝通合作」、「情感連結與認\n同感」及「公民實踐與永續行為」四大構面之指標；並導入「模糊熵權法（FEM）」進\n行客觀賦權，有效排除主觀偏誤，建構出具客觀性與科學性之權重體系。\n在實務應用層面，本量表指標能精準對接高齡社會需求：引導學生察覺高齡困境、\n運用課堂專業進行福祉創新、建立跨世代情感連結與尊嚴認同，並最終落實為日常生活\n中的友善高齡實踐。本量表可作為高等教育檢視學生高齡關懷素養與個體價值內化之重\n要工具。",
+      "keywords": "社會責任、高等教育、模糊統計",
+      "abstract_en": "Facing the challenges of a super-aged society, higher education institutions have actively\npromoted University Social Responsibility (USR). However, current USR evaluations\npredominantly focus on institutional-level project KPIs and quantitative outputs, neglecting the\n\"individual value internalization\" of the primary stakeholders—the students. Relying merely\non project performance makes it difficult to verify whether students internalize external social\ncare into personal competence, underscoring the necessity and significance of assessing\nIndividual Social Responsibility (ISR) among university students.\nTransforming USR into ISR carries profound contemporary importance. University\nstudents serve as crucial innovators and intergenerational bridges in a longevity society.\nConstructing an ISR scale bridges organizational-level responsibility with individual\ncompetence, guiding students to develop innovative solutions and empathetic care essential for\nan aging society.\nMethodologically, this study integrates the Social Return on Investment (SROI)\nframework and employs the Fuzzy Delphi Method (FDM) to consolidate expert consensus. It\nidentifies indicators across four key dimensions: \"Issue Perception and Motivation Triggering,\"\n\"Professional Transformation and Collaborative Communication,\" \"Emotional Connection and\nIdentity,\" and \"Civic Practice and Sustainable Behavior\". Furthermore, the Fuzzy Entropy\nMethod (FEM) is applied for objective weighting, mitigating subjective bias to establish a\nscientifically rigorous weight system.\nPractically, the scale directly addresses the needs of an aging society. It guides students to\nperceive the challenges of aging, apply academic expertise to care innovation, cultivate\nintergenerational emotional bonds and mutual dignity, and ultimately realize age-friendly\npractices in daily life. This scale serves as an essential evaluation tool for higher education to\nassess students' value internalization and care competence regarding aging issues.",
+      "keywords_en": "Social Responsibility, Higher Education, Fuzzy Statistics",
+      "source_pages": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "PN-11-1",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 11",
+      "code": "Panel 11-1",
+      "presenter": "吳慧娜",
+      "presenters": [
+        "吳慧娜"
+      ],
+      "title": "高齡社會下未來勞動市場前景與因應",
+      "title_en": "The Future Labor Market Outlook and Responses in an Aging Society",
+      "author_info_lines": [
+        "吳慧娜 副研究員｜勞動部勞動及職業安全衛生研究所勞動市場研究組"
+      ],
+      "author_info_lines_en": [
+        "Hui-Na Wu Associate Research Fellow｜Division of Labor Market Research, Occupational",
+        "Safety and Health Research Institute｜Ministry of Labor"
+      ],
+      "abstract": "研究背景與目的\n臺灣正處於人口結構高齡化與產業數位轉型的關鍵轉折期。本文呈現勞動部勞動\n及職業安全衛生研究所的最新研究成果，以國家發展委員會人口推估資料為基礎，進\n一步推估未來十年各產業及不同年齡層勞動力人數的變化；前瞻探討在未來缺工環境\n下，面對全球經濟不確定性衝擊時，企業與政府應如何動態調整因應策略，以提升勞\n動市場韌性。\n研究方法\n本研究運用國家發展委員會2035年中推計之單齡及性別人口資料，並結合2024年\n12月勞工保險資料中的行業別、性別及單齡人口結構，推估未來我國非農產業勞工的\n就業人數。除量化推估外，本研究亦透過專家觀點質性研究與問卷調查等系統化研究\n設計，歸納未來勞動市場的關鍵趨勢。考量臺灣除面臨高齡社會所帶來的壓力外，亦\n須因應全球經濟不確定性的衝擊，本研究進一步運用情境分析矩陣，交叉分析不同勞\n動力短缺程度與經濟景氣情境，據以提出相應的因應對策，並展望未來人力資源發展\n方向。\n研究結果\n本研究以假設未來十年各年齡層勞參率不變的情境下進行推估，我國非農產業就\n業人數至2035年將減少131萬人，其中，作為勞動市場中堅的35至54歲壯年族群預估減\n少67萬人。臺灣在全球製造供應鏈中扮演重要角色，相關產業對人才的需求殷切；然\n而，未來十年的缺工壓力將更加嚴峻。研究推估，製造業勞動力在未來十年將減少33\n萬人。展望未來，科技業憑藉較高薪資吸引人才，亦將持續對傳統製造業及高度依賴\n人力的民生產業產生顯著的人才排擠效應。\n另一方面，結構性缺工在營建工程業、醫療保健及社會工作服務業尤為顯著。此\n類產業通常具有較高的專業技能門檻，且常伴隨高體力負荷或較高職業風險，因而降\n低勞動者的投入意願，進一步形成長期性的人力供給斷層。研究推估，至2035年，營\n建工程業勞動力將減少9萬人，醫療保健及社會工作服務業則將減少近6萬人。若再考\n量未來十年扶養比增加以及隨之增加的照護需求，醫療保健及社會工作服務業的實際\n人力需求缺口將接近7萬人。\n在民生服務方面，批發及零售業、住宿及餐飲業，以及運輸及倉儲業多具有勞力\n密集、技術門檻較低及人員流動率高等特性，並以婦女與青年為主要勞動力。研究推\n估，至2035年，上述產業的勞動力將合計減少37萬人；除勞動力規模大幅縮減外，非\n典型就業亦呈增加趨勢。\n缺工因應的建議策略\n一、不同類型勞動力短缺的因應策略\n(一) 流動性缺工的因應：流動性缺工主要發生於進入門檻較低的服務業，其成因多為\n薪資水準、工作條件及職涯發展空間有限，導致人員流動率偏高。政策宜透過改\n善勞動條件、導入自動化、促進中高齡者就業及強化勞動市場監測，提升人力留\n任與就業穩定性。\n(二) 結構性缺工的因應：結構性缺工主要源於專業門檻、高體力負荷與職業風險，造\n成勞動者投入意願不足。政策應透過改善薪資與勞動條件、推動職務再設計、強\n化職業安全衛生、適度補充外籍人力及促進退休者再就業，以改善人力供需失衡\n與技術斷層。\n(三) 職能落差型缺工的因應：職能落差型缺工主要源於產業轉型速度快於勞工技能更\n新，造成職缺與失業並存的結構性錯配。企業應強化內部訓練、產學合作與員工\n再培訓；政府則應調整職業訓練資源配置、強化轉職支持，並深化教育與產業之\n間的連結。\n(四) 關鍵人才競爭的因應：關鍵人才競爭主要源於全球科技產業同步搶才，以及國內\n人才培育量能不足，致使人工智慧、半導體等領域的高階人才供不應求。企業應\n優化薪酬與股權激勵制度，並強化國際合作；政府則應精進國際攬才與移民政\n策、擴充產學培育量能，並提升國際人才留臺誘因。\n二、政府因應不同景氣階段的策略\n(一) 景氣擴張 × 輕微／摩擦性短缺：此情境的核心問題在於勞動市場資訊不對稱與媒\n合效率不足。政策應強化人工智慧就業媒合，促進二度就業婦女、身心障礙者等\n潛在人力投入勞動市場，並搭配短期、實務導向的職業訓練，以提升勞動參與率\n與即時人力供給效率。\n(二) 景氣擴張 × 嚴重／結構性短缺：短期補充人力已不足以因應需求，政策應轉向中\n長期結構調整，透過國際攬才、數位轉型與自動化，降低產業對人力的依賴，並\n深化產學合作與人才培育，以同步擴充高品質人力供給及提升產業競爭力。\n(三) 景氣衰退 × 輕微／摩擦性短缺：政策重點應轉向失業保障與轉職支持。政府除應\n強化失業給付與短期公共就業措施外，亦須結合職業訓練與前瞻性人力規劃，引\n導受夕陽產業衰退或產業轉型影響的勞工，轉移至具成長潛力的產業。\n(四) 景氣衰退 × 嚴重／結構性短缺：政策核心應由失業調節轉向人力資本保存。政府\n可透過就業安定措施、以減班方式替代裁員、推動在職訓練及中高齡職務再設\n計，維持關鍵勞動力與技能累積，並為景氣復甦預作人力準備。",
+      "keywords": "高齡社會、未來工作、缺工、景氣循環、勞動力轉型",
+      "abstract_en": "Purpose and Scope\nTaiwan is at a critical turning point of population aging and industrial digital transformation. This article\npresents the latest research findings from the Institute of Labor, Occupational Safety and Health, Ministry of\nLabor. Based on population projection data from the National Development Council (NDC), it further estimates\nthe changes in the workforce across various industries and age groups over the next decade. It prospectively\nexamines how enterprises and the government should dynamically adjust their response strategies to enhance\nlabor market resilience when facing the impact of global economic uncertainty in a future labor shortage\nenvironment.\nResearch Methodology\nThis study utilizes the NDC's medium-projection data for single-age and gender populations in 2035,\ncombined with data on industry, gender, and single-age population structure from the December 2024 Labor\nInsurance statistics, to estimate the future employment figures for workers in Taiwan's non-agricultural\nindustries. In addition to quantitative projections, this research also synthesizes key future labor market trends\nthrough systematic research designs, including qualitative research based on expert opinions and questionnaire\nsurveys. Given that Taiwan faces not only the pressure brought by an aging society but also the necessity to\nrespond to the impact of global economic uncertainty, this study further employs a scenario analysis matrix to\ncross-analyze different levels of labor shortage severity and economic cycle scenarios, thereby proposing\ncorresponding countermeasures and outlining the future direction of human resource development.\nStudy Outcomes\nBased on the assumption that the labor force participation rate for each age group remains unchanged over\nthe next decade, this study projects that employment in Taiwan's non-agricultural industries will decrease by\n1.31 million people by 2035. Specifically, the decline is estimated at 670,000 for the core workforce aged 35 to\n54. Taiwan plays a significant role in the global manufacturing supply chain, and related industries have an\nurgent demand for talent; however, the pressure from labor shortages will become even more severe in the next\ndecade. The study projects that the manufacturing workforce will decrease by 330,000 people over the next ten\nyears. Looking ahead, the technology sector, with its higher salaries, will continue to attract talent, leading to a\nsignificant talent-crowding-out effect on traditional manufacturing and human-labor-intensive service industries.\nMoreover, structural labor shortages are particularly pronounced in the construction engineering industry\nand the health care and social work services sector. These industries often have high professional skill barriers\nand are frequently associated with high physical demands or higher occupational risks, which lowers workers'\nwillingness to enter, leading to a long-term discontinuity in labor supply. The study projects that by 2035, the\nconstruction engineering workforce will decrease by 90,000 people, and the health care and social work services\nsector will decline by nearly 60,000 people. Considering that the dependency ratio will rise over the next\ndecade, along with the corresponding increase in care demands, the actual human resource gap in the health care\nand social work services sector will approach 70,000 people.\nRegarding consumer services, the wholesale and retail trade, accommodation and food service, and\ntransportation and storage industries are often characterized by labor intensity, lower skill barriers, and high\npersonnel turnover, primarily employing women and youth. The study projects that the combined workforce in\nthese sectors will decrease by 370,000 people by 2035. In addition to the significant reduction in workforce size,\natypical employment is also trending upward.\nProposed Strategies for Addressing Labor Shortages\nI. Reaction Techniques for Various Labor Shortage Types\n1. Handling Fluid Shortages: The majority of fluid shortages happen in service sectors with low entry barriers.\nThese shortages are frequently brought on by poor pay scales, unfavorable working conditions, and little\nopportunity for professional advancement, which results in high turnover rates. To strengthen workforce\nretention and employment stability, policies should focus on enhancing labor market monitoring, promoting\nemployment for middle-aged and older workers, introducing automation, and improving working conditions.\n2. Addressing Structural Shortages:  Professional obstacles, high physical demands, and occupational hazards\nare the primary causes of structural shortages, which lead to a lack of employee participation. Policies should\nimprove wages and working conditions, promote job redesign, strengthen occupational safety and health,\nappropriately supplement foreign labor, and encourage re-employment of retirees to address the imbalance in\nlabor supply and demand and the skills gap.\n3. Addressing Skills Gap Shortages: The main cause of skills gap shortages is that industry transformation is\nhappening faster than worker skill upgrades, which leads to a structural mismatch where job openings and\nunemployment coexist. Businesses should improve internal training, industry-academia cooperation, and staff\nretraining; the government should modify the distribution of resources for vocational training, improve career\ntransition assistance, and increase the link between education and business.\n4. Addressing the Competition for Key Talent: There is a shortage of top talent in industries like artificial\nintelligence (AI) and semiconductors due to the simultaneous global race for talent in the technology sector and\na lack of domestic talent cultivation capacity. Businesses should enhance international cooperation and optimize\ncompensation and stock incentive programs; the government should enhance immigration and international\ntalent recruitment policies, increase industry-academia cultivation capacity, and boost incentives for foreign\ntalent to remain in Taiwan.\nII. Government Strategies for Various Economic Phrases\n1. Economic Expansion × Slight/Frictional Shortage: The core issue in this scenario is labor market information\nasymmetry and inefficient matching. Policies should strengthen AI-based job matching, facilitate the entry of\npotential workers—such as re-entering women and people with disabilities—into the labor market, and be\nsupplemented by short-term, practice-oriented vocational training to enhance labor participation rates and the\nefficiency of immediate labor supply.\n2. Economic Expansion × Severe/Structural Shortage: Demand cannot be met by temporary manpower\naugmentation. To lessen sectors' dependency on human labor, policies should move toward medium-to-long-\nterm structural changes through automation, digital transformation, and international talent acquisition.\nFurthermore, in order to concurrently increase the supply of top-notch human resources and boost industrial\ncompetitiveness, industry-academia collaboration and talent cultivation must be strengthened.\n3. Economic Downturn × Slight/Frictional Shortage: The policy focus should shift to unemployment protection\nand transition support. In addition to strengthening unemployment benefits and short-term public employment\nmeasures, the government must integrate vocational training with forward-looking human resource planning to\nguide workers affected by the decline of sunset industries or industrial transformation toward industries with\ngrowth potential.\n4. Economic Downturn × Severe/Structural Shortage: The policy core should shift from unemployment\nregulation to human capital preservation. The government can utilize employment stabilization measures,\nreplace layoffs with reduced working hours, and promote on-the-job training and job redesign for middle-aged\nand older workers to maintain critical labor and skill accumulation, preparing the workforce for economic\nrecovery.",
+      "keywords_en": "Aging Society; Future of Work; Labor Shortage; Business Cycle; Workforce Transformation",
+      "source_pages": [
+        72,
+        73,
+        74,
+        75
+      ]
+    },
+    {
+      "id": "PN-11-2",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 11",
+      "code": "Panel 11-2",
+      "presenter": "高慧珠",
+      "presenters": [
+        "高慧珠"
+      ],
+      "title": "促進中高齡及高齡者重返職場之措施探討：國內勞動流動、就業需求與國際政策借鏡",
+      "title_en": "Exploring Policy Measures Supporting Workforce Re-entry Among Middle-Aged and Older Adults: Domestic Labor Mobility, Employment Needs, and International Policy Insights",
+      "author_info_lines": [
+        "高慧珠 助理研究員｜勞動部勞動及職業安全衛生研究所勞動市場研究組"
+      ],
+      "author_info_lines_en": [
+        "Hui-Chu Kao｜Assistant Research Fellow, Division of Labor Market Research, Occupational",
+        "Safety and Health Research Institute｜Ministry of Labor"
+      ],
+      "abstract": "面對少子高齡化加劇與產業缺工常態化，活化退離職場之中高齡及高齡人力，已成\n為穩定我國勞動力供給與促進經濟發展之重要策略。相較於日、韓等主要國家，我國勞\n工平均退離勞動市場年齡（男性64.3歲、女性61.4歲）顯著偏早，且55歲後勞動參與率\n呈現陡降。為落實《中高齡者及高齡者就業促進法》之意旨，支持退休及非自願離職者\n再就業，本研究整合政府次級統計調查、勞保公務資料長期串接追蹤（2016–2023年）、\n勞資雙方深度訪談，以及美、日、韓、德與北歐等主要國家就業政策進行比較分析，系\n統性剖析國內中高齡及高齡勞動流動軌跡、就業需求落差與重返職場之具體促進措施。\n大數據與實證分析顯示，在勞動流動方面，中高齡在職勞工雖具極高之職場穩定性，\n但離職後再就業的跨業與跨區域流動性隨年齡顯著遞減，多數限縮於原居住縣市及原產\n業內部流動，且薪資向下變動風險隨年齡增加而加劇；在就業需求與尋職障礙方面，中\n高齡失業者未能就業之主因以「缺乏工作機會」最高（逾7成），細分情形以「未遇到合\n適職缺」占近7成居首，且「年齡限制」長年被視為求職的最大障礙；此外，訪談發現\n勞方重返職場高度渴望適性職能培訓、彈性工時及低體力負荷職缺，而雇主端則企盼政\n府政策具備延續性、透明度與實質誘因。\n借鏡國際推動「全生命週期職涯支持」、「專屬銀髮就服網絡」與「彈性漸進退休」\n等成功實踐，本研究建議：政府應落實年齡友善僱用環境以消除制度與隱性就業歧視；\n強化轉型與數位技能培訓以提升勞工就業競爭力；擴大建置中高齡專屬求職媒合平台與\n銀髮人才服務據點以提升適性職缺可見度；並積極鼓勵企業採行部分工時、兼職顧問與\n職務再設計等多元模式，有效契合勞資雙方就業需求，促進中高齡及高齡勞動力順利且\n持續地重返職場。",
+      "keywords": "中高齡及高齡者、重返職場、勞動流動、就業需求、就業促進、國際借鏡",
+      "abstract_en": "Amid the dual challenges of population aging and structural labor shortages, mobilizing middle-aged\nand older individuals who have exited the labor force has become an essential human resource strategy\nin Taiwan. The effective age of retirement in Taiwan (64.3 for males and 61.4 for females) remains\nmarkedly earlier than that in Japan and South Korea, with labor force participation dropping\nprecipitously after age 55. To fulfill the legislative intent of the Middle-aged and Elderly Employment\nPromotion Act and facilitate post-retirement re-employment, this study synthesizes national secondary\nsurvey data, longitudinal administrative labor insurance records (2016–2023), qualitative in-depth\ninterviews, and comparative policy reviews from Japan, South Korea, Germany, the United States, and\nNordic countries, offering a comprehensive examination of domestic labor mobility, employment needs,\nand support measures for workforce re-entry.\nEmpirical findings indicate that while older workers exhibit high job tenure stability, their inter-\nindustry and geographic mobility decreases significantly after job departure; re-employment\npredominantly remains confined to the same locality and original industry sector, alongside heightened\nrisks of downward wage adjustments as age advances. Regarding employment needs and obstacles,\nover 70% of unemployed middle-aged and older jobseekers attribute their unemployment to a lack of\njob opportunities, with the absence of suitable vacancies being the most prevalent factor (nearly 70%),\nwhile age restrictions remain the most persistent structural barrier. Qualitative interviews further reveal\nthat older jobseekers prioritize adaptive vocational upskilling, flexible hours, and roles with reduced\nphysical strain, whereas employers demand sustainable, predictable, and transparent policy incentives.\nDrawing upon international practices in lifecycle career navigation, dedicated silver talent service\nwindows, and phased retirement frameworks, this study proposes that policy interventions should\nprioritize: enforcing age-friendly labor standards to dismantle ageist hiring barriers; expanding digital\nand vocational transition training to bolster employability; establishing dedicated silver matching\nplatforms alongside localized service centers to increase job visibility; and incentivizing flexible\narrangements, consultative roles, and ergonomic job redesign to bridge supply-demand mismatches and\nfacilitate successful, sustained workforce re-entry for older adults.",
+      "keywords_en": "Middle-Aged and Older Adults; Workforce Re-entry; Labor Mobility; Employment Needs; Employment Promotion; International Lessons",
+      "source_pages": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "PN-11-3",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 11",
+      "code": "Panel 11-3",
+      "presenter": "顏雅婷",
+      "presenters": [
+        "顏雅婷"
+      ],
+      "title": "中高齡者與高齡者就業彈性樣態之勞動條件探討",
+      "title_en": "Exploring Labor Conditions for Employment Flexibility Among Middle-aged and Elderly Workers",
+      "author_info_lines": [
+        "顏雅婷 副研究員｜勞動部勞動及職業安全衛生研究所勞動關係研究組"
+      ],
+      "author_info_lines_en": [
+        "Ya-Ting Yen｜Associate Research Fellow, Division of Labor Relations Research, Occupational Safety and Health Research Institute, Ministry of Labor"
+      ],
+      "abstract": "我國於114 年65 歲以上人口占總人口比率突破20%，正式邁入超高齡社會。在少\n子化趨勢及勞動力就業年齡存在「晚進早出」的結構影響下，預估45 歲以上中高齡者\n將成為職場主力軍，面對勞動力運用議題，我國於民國108 年制定專法並於109 年12\n月4 日正式實施，推動中高齡及高齡者續留職場或再就業，因應時代變遷與社會經濟發\n展需求，勞動彈性措施亦漸被討論。然而對於中高齡及高齡者就業彈性職場之資料與發\n展尚未臻完備，爰以相關資料之蒐集發掘中高齡及高齡者就業彈性之職場現況，並藉由\n盤點個案經驗，瞭解案例管理規範與就業條件，分析發展就業彈性之可能挑戰，做為促\n進中高齡與高齡者就業之政策建議基礎。\n本研究透過國內外文獻蒐集，聚焦美、日、韓三國之經驗，並納入國內司法實務裁\n判事件判決，以及針對勞、資、政三方的深度訪談進行就業彈性資料之蒐集，再經由專\n家座談蒐集推動就業彈性之因應策略，分析彙整出11 案例作為職場常見就業彈性運用\n為計畫成果。\n美國中高齡及高齡者對於彈性工作時間安排重視度高，其職場彈性樣態豐富，內\n容含括彈性工時、兼職工作、工作分享、遠端辦公、職務再設計與定期性契約；日本就\n業彈性強調工作環境的改善與時間彈性，並搭配教育訓練及健康等配套措施；韓國彈性\n化措施仍尚未普及，中高齡者易被迫退離勞動市場而造成老人貧窮現象，故其政府積極\n推廣中高齡者促進就業計畫，輔導企業改善就業環境、減少工時、職務再設計、工作分\n享及調整職務內容。而我國以兼職工作、彈性工時、跨世代合作團隊、工作分享及退休\n後回聘等彈性就業類型，協助打造友善中高齡及高齡者的職場環境。\n透過研究及調查，獲取就業彈性職場之資料，經分析檢討，就業彈性於國內之推\n動，仍待提升勞資溝通管道、簡化政府補助申請程序並適量放寬申請條件、加強企業宣\n導、加強中高齡及高齡輔導及諮詢與多元化媒合管道等作為。",
+      "keywords": "中高齡與高齡者就業、彈性職場、勞動力高齡化、彈性工作方案",
+      "abstract_en": "In 2025, the proportion of Taiwan's population aged 65 and above exceeded 20%, marking its official\ntransition into a super-aged society. Against the backdrop of a declining birthrate and a labor market characterized\nby the structural pattern of “late entry and early exit,” individuals aged 45 and above are expected to become a\nmajor component of the workforce. In response to the challenges associated with labor force utilization, Taiwan\nenacted dedicated legislation in 2019, which took effect on December 4, 2020, to promote the continued\nemployment and re-employment of middle-aged and elderly individuals. As society and the economy continue to\nevolve, flexible work arrangements have also received increasing attention. However, information on the\ndevelopment and current practices of flexible workplaces for middle-aged and elderly individuals remains\ninsufficient. Accordingly, this study collected relevant data to examine current flexible employment practices for\nmiddle-aged and elderly individuals. By reviewing practical cases, the study further explored management\npractices and employment conditions and analyzed potential challenges in developing flexible employment,\nthereby providing a basis for policy recommendations aimed at promoting the employment of middle-aged and\nelderly individuals.\nThis study reviewed domestic and international literature, with a particular focus on the experiences of the\nUnited States, Japan, and South Korea. It also examined domestic court decisions and conducted in-depth\ninterviews with representatives of labor, employers, and government agencies to collect information on flexible\nemployment practices. In addition, expert panel discussions were held to identify strategies for promoting\nemployment flexibility. Based on the findings, 11 cases representing common applications of flexible employment\nin the workplace were identified and analyzed.\nIn the United States, middle-aged and elderly individuals place considerable importance on flexible work\narrangements, and a wide variety of workplace flexibility practices are available, including flexible working hours,\npart-time work, job sharing, remote work, job redesign, and fixed-term contracts. In Japan, employment flexibility\nemphasizes improvements in the work environment and flexibility in working time, complemented by supporting\nmeasures such as education, training, and health-related programs. In South Korea, flexible employment measures\nhave yet to become widespread, and middle-aged and elderly individuals are more likely to be forced to withdraw\nfrom the labor market, contributing to elderly poverty. The South Korean government has therefore actively\npromoted employment programs for middle-aged and elderly individuals and assisted enterprises in improving\nworking environments, reducing working hours, redesigning jobs, implementing job sharing, and adjusting job\nduties. In Taiwan, flexible employment practices, including part-time work, flexible working hours,\nintergenerational collaborative teams, job sharing, and post-retirement re-employment, have been adopted to help\ncreate friendly workplace environments for middle-aged and elderly individuals.\nBased on the research and survey findings regarding flexible workplaces, the study concludes that further\nefforts are needed in Taiwan to strengthen labor-management communication channels, streamline government\nsubsidy application procedures while moderately relaxing eligibility requirements, enhance outreach to\nenterprises, strengthen guidance and consultation services for middle-aged and elderly individuals, and diversify\nemployment matching channels.",
+      "keywords_en": "Middle-aged and Elderly Employment; Flexible Workplaces; Workforce Aging; Flexible Work Arrangements",
+      "source_pages": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "PN-12-1",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 12",
+      "code": "Panel 12-1",
+      "presenter": "王重凱",
+      "presenters": [
+        "王重凱",
+        "吳博軒"
+      ],
+      "title": "健身、健心、健腦：以臨床心理與運動指導為核心的跨專業人才培訓和健康促進之多模組推廣系統",
+      "title_en": "Fitness, Mental Wellness, and Cognitive Health: A Multi-Module Promotion System for Interprofessional Workforce Training and Health Promotion Centered on Clinical Psychology and Exercise Instruction",
+      "author_info_lines": [
+        "王重凱 博士生｜國立中正大學教育學研究所運動與休閒教育組",
+        "吳博軒 博士生｜國立中正大學心理學系臨床心理學研究所"
+      ],
+      "author_info_lines_en": [
+        "Chung-Kai Wang Doctoral Student｜National Chung Cheng University",
+        "Po-Hsuan Wu Doctoral Student｜National Chung Cheng University"
+      ],
+      "abstract": "區普及率仍低。為釐清推廣瓶頸，針對 144 位一般民眾進行調查，結果顯示逾八\n成民眾在專業指導下可接受高齡者使用啞鈴與槓鈴等自由重量，其主要疑慮為「缺乏專\n業指導」與「受傷風險」。由此可知，推廣關鍵不在於說服民眾「重訓有效」，而在於建\n立「能安全指導」的信任體系。\n結合「健康台灣計畫」種子學員培訓經驗，指導高齡者的關鍵概念為「Knowing ≠\nDoing ≠ Coaching」。學員學會操作動作（Doing）不等於具備指導能力（Coaching）；真\n正的專業核心在於動作觀察、實時判斷、個別化進退階與風險管理。此能力無法僅憑課\n程或證照取得，必須經由觀摩、實作、帶領與專業督導等過程方能建立。\n本報告以「健康台灣深耕計畫高齡者自由重量運動指導模組」為例，主張社區推廣\n不能僅發布運動課程，更須建構「專業培訓 → 能力評估 → 實作帶領 → 場域實習 →\n專業督導 → 人才再培育」的永續支持系統，方能真正實現高齡重量訓練之社區落地與\n安全保障。",
+      "keywords": "高齡者重量訓練、自由重量訓、心理健康、多模組培訓、健康台灣深耕計畫",
+      "abstract_en": "The adoption of such programs at the community level remains limited. To identify\nbarriers to wider implementation, a survey was conducted among 144 members of the general\npublic. The results showed that more than 80% of respondents considered the use of free\nweights, such as dumbbells and barbells, acceptable for older adults when appropriate\nprofessional supervision was provided. Their primary concerns were the lack of professional\nguidance and the risk of injury. These findings suggest that the key challenge in promoting\nresistance training among older adults is not convincing the public that resistance training is\neffective, but rather establishing a trusted system capable of providing safe and professional\ninstruction.\nDrawing on training experiences from the seed instructor program of the Healthy Taiwan\nInitiative, this report highlights the principle of “Knowing ≠ Doing ≠ Coaching” as a core\nconcept in preparing professionals to work with older adults. Being able to perform an exercise\ncorrectly (Doing) does not necessarily mean that an individual is capable of instructing others\neffectively (Coaching). Professional competence instead depends on the ability to observe\nmovement, make real-time judgments, individualize exercise progression and regression, and\nmanage potential risks. Such competencies cannot be acquired solely through coursework or\ncertification; rather, they must be developed through a sustained process of observation, hands-\non practice, supervised instruction, field-based experience, and professional supervision.\nUsing the Free-Weight Exercise Instruction Module for Older Adults under the Healthy\nTaiwan Deepening Initiative as an example, this report argues that community-based\nimplementation should go beyond simply offering exercise programs. A sustainable support\nsystem should be established that incorporates professional training, competency assessment,\nsupervised practice, field-based practicum, professional supervision, and the continued\ndevelopment of future instructors. Such a system is essential for ensuring both the effective\ncommunity implementation and the safe delivery of free-weight resistance training for older\nadults.",
+      "keywords_en": "older adults; resistance training; free-weight training; psychological health; multi-module training; Healthy Taiwan Deepening Initiative",
+      "source_pages": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "PN-13-1",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 13",
+      "code": "Panel 13-1",
+      "presenter": "陳淑敏",
+      "presenters": [
+        "陳淑敏",
+        "林振春",
+        "詹盛如",
+        "陳柏霖"
+      ],
+      "title": "高齡社會歧視的結構、影響與突破",
+      "title_en": "Structures, Impacts, and Pathways Beyond Age Discrimination in an Aging Society",
+      "author_info_lines": [
+        "陳淑敏 副教授兼副系主任｜國立清華大學教育與學習科技學系",
+        "林振春 兼任教授｜國立臺灣師範大學社會教育學系",
+        "詹盛如 特聘教授兼副校長｜國立中正大學教育學研究所／高齡社會勞動與福祉研究中心",
+        "陳柏霖 教授兼系主任｜國立臺北教育大學心理與諮商學系"
+      ],
+      "author_info_lines_en": [
+        "Shu-Min Chen Associate Professor and Associate Chair｜Department of Education and Learning Technology, National Tsing Hua University",
+        "Chen-Chun Lin Adjunct Professor｜Department of Adult and Continuing Education, National Taiwan Normal University",
+        "Sheng-Ju Chan Distinguished Professor and Vice President｜Graduate Institute of Education, National Chung Cheng University",
+        "Po-Lin Chen Professor and Chair｜Department of Psychology and Counseling, National Taipei University of Education"
+      ],
+      "abstract": "本論壇以「高齡社會歧視的結構、影響與突破」為主題，從社會變遷與文化、生活\n資源與環境支持、勞動再參與及個體學習增能四個層面，討論高齡歧視的形成背景、社\n會影響及可能的突破方向。高齡歧視並非單純源自個人對高齡者的態度與偏見，而是與\n社會結構和文化、勞動市場、生活環境及個人學習機會相互關聯。四位講者依序從不同\n層次切入，分析高齡者在社會變遷中的位置，以及高齡社會需要重新思考的文化觀念、\n生活條件、勞動制度與學習支持。\n陳淑敏教授：社會變遷與文化層面\n高齡歧視並非單純源自個人對老年人的負面態度，而是與社會變遷過程中的文化\n價值、權力關係及制度安排密切相關。傳統社會對「老」具有多重文化意義。從告老還\n鄉、扶老攜幼、白頭偕老、老當益壯、老吾老以及人之老、敬老尊賢等語言使用，可以\n發現年齡曾與經驗、知識、權威及社會地位相互連結。然而，現代社會強調民主、自由、\n平等與個人自主，傳統年齡秩序及其權威基礎逐漸受到挑戰；另一方面，科技發展、消\n費文化與效率導向的社會價值，也使高齡者容易被置於能力衰退、依賴照顧與退出生產\n活動的位置。福利國家的發展使原本由家庭承擔的部分照顧責任逐漸公共化，高齡者也\n成為社會福利與長期照顧制度的重要服務對象。然而，與此同時，銀色經濟將高齡人口\n重新界定為具有市場價值的消費群體，醫療、藥物、保健、器材與休閒服務大量進入高\n齡生活。高齡者因而同時尊重、照顧、治理與消費等參與之多重社會角色和限制。因此，\n基於關切臺灣社會的高齡歧視問題，本文分析「老」在社會變遷中的意義轉換，以及文\n化、制度與市場脈絡下，當代臺灣社會對高齡群體之理解與對待。\n林振春教授：生活資源與環境支持\n高齡者是否或如何成為社會弱勢的群體或對象？除了從生理年齡或個人能力加以\n解釋，亦需要檢視其所處的生活環境與社會支持條件。高齡者之所以容易受到歧視，往\n往與其在快速變遷的社會中缺乏必要的生活能力，以及社會環境未能充分回應高齡者的\n需求有關。不過，當公共服務、交通系統、金融活動、醫療資訊與日常溝通快速數位化\n之際，若是高齡者缺乏網路使用、資訊判讀及數位服務操作能力，則容易在日常生活中\n遭遇新的排除。教育的重要性在於協助高齡者取得網路社會所需要的核心能力，使其能\n夠維持生活自主性並持續參與社會。然而，能力問題不能完全由個人承擔。如果社會制\n度、公共空間與服務系統皆以年輕人的身體條件、數位能力與生活方式作為設計標準，\n即使高齡者持續學習，仍可能面臨結構性的生活障礙。本文主張高齡友善環境應該致力\n於建立符合友善運用的物理環境，以及尊重、理解與支持所形成的人際互動與交往環境。\n從德國、法國、日本及韓國等高齡社會的發展經驗來看，高齡問題並非增加福利服務即\n可處理，而需要重新思考教育、社區、公共服務與生活環境之間的關係，提升高齡者持\n續自主生活與社會連結的真實脈絡。\n詹盛如教授：勞動再參與\n人口高齡化往往牽動勞動力不足的產業或經濟發展挑戰，因此，有關高齡者的勞動\n再參與成為重要的社會議題。不過，高齡就業困境的解方，並非僅由個人工作能力調整\n得以改善，實際上，密切和勞動市場之組織方式、產業結構及社會對老年角色的期待有\n關。更進一步言之，尤其資本主義運作邏輯下，資訊科技社會高度重視效率、速度、變\n動與技術更新，此產業發展需求下，企業更易於對高齡者的工作能力與生產效率有所遲\n疑，導致企業對高齡者之招募、升遷、職務安排及再就業過程，面臨多重的制度障礙。\n再者，由於臺灣中小企業比例較高，企業在工作調整、職務再設計與人力培訓方面，需\n要由企業主承擔更高的轉換成本，此更加減降企業主雇用或留任高齡工作者的意願。高\n齡就業問題同時涉及資源移轉與世代關係。對此，社會若是要突破高齡勞動歧視，需要\n重新檢視年齡與工作能力之間的既定連結，藉由對於工作制度、職務設計、組織文化及\n社會角色期待等層面，建立高齡者持續參與勞動的多元途徑。\n陳伯霖教授：個體學習增能\n高齡歧視會影響個人的自我認知、社會參與及生活選擇，當社會長期將老年與能力\n退化、被動依賴及社會退出相互連結，高齡者可能逐漸接受外部社會對年齡的刻板期待，\n降低參與學習、公共活動與人際互動的意願。終身學習提供高齡者重新理解自身能力與\n社會位置的重要途徑。高齡者參與學習的動機並不限於知識或技能取得，也包括人際關\n係建立、生活適應、社會參與及自我價值的重新確認。透過持續學習，高齡者可以發展\n新的知識與能力，提升自我效能，並在學習團體與社會互動中建立支持網絡。學習歷程\n也可能促使高齡者重新檢視過往經驗、生活角色與未來規劃，使老年生活不再只是退休\n後的被動適應，而具有持續選擇與行動的可能性。然而，個體增能仍受到學習資源、支\n持系統與規範制度的影響。高齡者是否能夠持續學習，取決於教育機會的可近性、課程\n設計的適切性，以及家庭、社區與社會制度所提供的支持。從個體學習增能的角度突破\n高齡歧視，重點不在要求高齡者證明自己仍然有用，而是透過學習擴展其自主選擇、社\n會參與及生活規劃的能力，建立較具主體性的老年生活。",
+      "keywords": "",
+      "abstract_en": "This forum, entitled “Structures, Impacts, and Pathways Beyond Age Discrimination in an Aging\nSociety,” examines the origins, social consequences, and possible responses to age discrimination from\nfour interrelated dimensions: social change and culture, living resources and environmental support,\nlabor-force re-engagement, and individual empowerment through learning. Age discrimination does not\narise solely from individual attitudes or prejudice toward older adults; rather, it is closely intertwined\nwith social structures and cultural values, labor-market arrangements, living environments, and access\nto learning opportunities. The four speakers approach the issue from different levels of analysis,\nexamining the social position of older adults in the context of social transformation and identifying\ncultural assumptions, living conditions, labor institutions, and learning support systems that require\nreconsideration in an aging society.\nShu-Min Chen: Social Change and Cultural Dimensions\nAge discrimination is not simply the result of negative individual attitudes toward older adults. It\nis also deeply embedded in cultural values, power relations, and institutional arrangements that evolve\nthrough processes of social change. In traditional societies, old age carried multiple cultural meanings\nand was often associated with experience, knowledge, authority, and social status. These meanings can\nbe observed in traditional expressions that emphasize respect for older adults, intergenerational\nresponsibility, longevity, and continued vitality in later life. In modern societies, however, the growing\nemphasis on democracy, freedom, equality, and individual autonomy has gradually challenged\ntraditional age-based hierarchies and the authority historically associated with age. At the same time,\ntechnological development, consumer culture, and efficiency-oriented social values may position older\nadults as declining in competence, dependent on care, or withdrawing from productive activity.The\ndevelopment of the welfare state has also shifted part of the responsibility for care from families to\npublic institutions, making older adults a major target population for social welfare and long-term care\nsystems. Simultaneously, the rise of the silver economy has redefined older populations as consumers\nwith market value, as healthcare, pharmaceuticals, wellness products, assistive devices, and leisure\nservices increasingly enter later-life consumption. Older adults are therefore situated within multiple\nand sometimes contradictory social roles involving respect, care, governance, participation, and\nconsumption. Against this background, this presentation analyzes the changing meanings associated\nwith old age and examines how older adults are understood and treated in contemporary Taiwanese\nsociety within broader cultural, institutional, and market contexts\nChen-Chun Lin: Living Resources and Environmental Support\nWhether and how older adults become socially disadvantaged cannot be explained solely in terms\nof chronological age or individual ability. Their living environments and the availability of social\nsupport must also be taken into account. Older adults may become vulnerable to discrimination when\nthey lack the capabilities required to navigate a rapidly changing society and when social environments\nfail to adequately respond to their needs.\nAs public services, transportation systems, financial activities, healthcare information, and\neveryday communication become increasingly digitalized, older adults who lack internet skills,\ninformation literacy, or the ability to use digital services may encounter new forms of exclusion in daily\nlife. Education therefore plays an important role in helping older adults acquire the core competencies\nneeded to participate in a networked society, maintain autonomy, and remain socially\nengaged.Nevertheless, capability gaps should not be treated solely as an individual responsibility. If\nsocial institutions, public spaces, and service systems are designed primarily around the physical\nconditions, digital skills, and lifestyles of younger people, older adults may continue to encounter\nstructural barriers despite ongoing learning efforts. This presentation argues that age-friendly\nenvironments should include both accessible physical settings and interpersonal environments\ncharacterized by respect, understanding, and support. Experiences from aging societies such as\nGermany, France, Japan, and South Korea further suggest that population aging cannot be addressed\nmerely through the expansion of welfare services. Rather, it requires a reconsideration of the\nrelationships among education, community, public services, and everyday environments in order to\nstrengthen the conditions that enable older adults to live independently and maintain meaningful social\nconnections.\nSheng-Ju Chan: Labor-Force Re-engagement\nPopulation aging often creates labor shortages and broader challenges for industrial and economic\ndevelopment, making the labor-force re-engagement of older adults an increasingly important social\nissue. However, difficulties related to employment in later life cannot be resolved solely by improving\nindividual work capacity. They are also closely related to labor-market organization, industrial\nstructures, and social expectations regarding the roles of older adults.Within the operating logic of\ncontemporary capitalism, information- and technology-intensive societies place a strong emphasis on\nefficiency, speed, adaptability, and technological renewal. Under these conditions, employers may be\nmore likely to question the productivity and work capacity of older workers, creating institutional\nbarriers in recruitment, promotion, job assignment, and re-employment. In Taiwan, where small and\nmedium-sized enterprises constitute a substantial proportion of businesses, employers may also face\nrelatively high transition costs associated with workplace adjustment, job redesign, and workforce\ntraining, further reducing their willingness to hire or retain older workers.\nEmployment in later life also involves issues of resource distribution and intergenerational\nrelations. Addressing age discrimination in the labor market therefore requires a reconsideration of the\nassumed relationship between age and work ability. More diverse pathways for the continued labor-\nforce participation of older adults can be developed through changes in employment systems, job design,\norganizational culture, and social expectations regarding age and work.\nPo-Lin Chen: Individual Empowerment Through Learning\nAge discrimination can affect individuals’ self-perceptions, social participation, and life choices.\nWhen aging is persistently associated with declining ability, passive dependence, and withdrawal from\nsociety, older adults may gradually internalize age-based stereotypes and become less willing to\nparticipate in learning, public activities, and interpersonal interaction.\nLifelong learning provides an important means through which older adults can reinterpret their\nabilities and social positions. Their motivations for learning extend beyond the acquisition of knowledge\nand skills to include relationship building, adjustment to everyday life, social participation, and the\nreaffirmation of personal value. Through continuous learning, older adults can develop new knowledge\nand competencies, enhance self-efficacy, and build supportive networks through learning communities\nand broader social interaction.\nThe learning process may also enable older adults to reconsider previous experiences, life roles,\nand future plans, allowing later life to be understood not merely as a period of passive adjustment\nfollowing retirement, but as a stage characterized by continued choice and action. Nevertheless,\nindividual empowerment is also shaped by learning resources, support systems, and institutional\narrangements. Whether older adults are able to continue learning depends on the accessibility of\neducational opportunities, the appropriateness of curriculum design, and support from families,\ncommunities, and social institutions. From the perspective of empowerment through learning,\novercoming age discrimination should not require older adults to prove that they remain socially useful.\nRather, learning should expand their capacity for autonomous choice, social participation, and life\nplanning, thereby supporting a more agentic and self-directed experience of later life.",
+      "keywords_en": "",
+      "source_pages": [
+        84,
+        85,
+        86,
+        87,
+        88
+      ]
+    },
+    {
+      "id": "PN-14-1",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 14",
+      "code": "Panel 14-1",
+      "presenter": "高慧娟",
+      "presenters": [
+        "高慧娟"
+      ],
+      "title": "（待補）",
+      "title_en": "",
+      "author_info_lines": [
+        "高慧娟 副教授兼環境保護暨職業安全衛中心主任｜慈濟大學醫務暨健康管理學系"
+      ],
+      "author_info_lines_en": [],
+      "abstract": "",
+      "keywords": "",
+      "abstract_en": "",
+      "keywords_en": "",
+      "source_pages": []
+    },
+    {
+      "id": "PN-14-2",
+      "type": "專題發表",
+      "date": "10/2",
+      "session": "Panel 14",
+      "code": "Panel 14-2",
+      "presenter": "許峻嘉",
+      "presenters": [
+        "許峻嘉"
+      ],
+      "title": "應用數位科技－輔助高齡者交通安全宣導之研究",
+      "title_en": "A Study on the Use of Digital Technology to Enhance Traffic Safety Education for Older Adults",
+      "author_info_lines": [
+        "許峻嘉 教授｜慈濟大學國際數位媒體科技學士學位學程"
+      ],
+      "author_info_lines_en": [],
+      "abstract": "",
+      "keywords": "",
+      "abstract_en": "",
+      "keywords_en": "",
+      "source_pages": []
+    },
+    {
+      "id": "PN-15-1",
+      "type": "專題發表",
+      "date": "10/3",
+      "session": "Panel 15",
+      "code": "Panel 15-1",
+      "presenter": "林宏陽",
+      "presenters": [
+        "林宏陽"
+      ],
+      "title": "高齡者延長工作年限之社會處方方案：從英國經驗思考我國相關制度與方案之設計",
+      "title_en": "Social Prescribing Programmes for Extending Older People’s Working Lives: Reflecting on the British Experience for Institutional and Programme Design in Taiwan",
+      "author_info_lines": [
+        "林宏陽 教授｜國立屏東科技大學社會工作系"
+      ],
+      "author_info_lines_en": [
+        "Professor Hung-Yang Lin Department of Social Work｜National Pingtung University of Science and Technology"
+      ],
+      "abstract": "本文旨在探討如何借鏡英國社會處方（social prescribing, SP）之發展經驗，設計具\n一定成效的SP 服務方案，藉以規劃協助有意延續就業之中高齡者的制度與方案。質言\n之，年金給付與勞動市場資歷高度連動，各項社會保險須與勞動市場現況與需求相互搭\n配，延長工作年限亦為年金適足的前提；而在SP 自英國擴展至世界各國、我國全民健\n康保險自2025年起規劃將其納入給付並於2026年試辦的趨勢下，或可思考如何透過SP\n協助中高齡勞動者延續就業。據此，將以在職的中高齡勞動者為對象，基於「留任優先、\n重返為輔」之理念，降低其提早離開勞動市場的可能。在理論上，本文一方面從社會投\n資與積極勞動市場政策（active labour market policy, ALMP）之論述切入，另一方面以活\n躍老化（active ageing）為視角，主張SP 或可作為在個人層次維持並增進人力資本的工\n具。在方法上，係採文獻分析與方案比較為方式：以芬蘭國家高齡計畫（FINPAW）與\n工作能力屋為基礎，依各樓層探究回應各面向障礙的英國SP 方案組合，萃取其成功要\n素。在實務上，我國若欲以現有的制度與社會結構趨近FINPAW 的組織形式或有困難；\n相對可行的方向，或在於以全民健康保險補助所需的SP 服務方案，循「健保先行、勞\n動接續」的分工，逐步發展具整體性的政策與服務方案。",
+      "keywords": "社會處方、積極勞動市場政策、社會投資、活躍老化、延長工作年限",
+      "abstract_en": "This paper examines how the British experience of social prescribing (SP) might inform\nthe design of SP programmes with a demonstrable effect, and thereby the planning of\ninstitutions and programmes to support middle-aged and older people who wish to continue\nworking. In essence, pension entitlements are closely tied to labour-market careers, so each\nbranch of social insurance must be aligned with the realities and needs of the labour market,\nand extending working lives is itself a precondition of pension adequacy. As SP spreads from\nBritain across the world—with Taiwan’s National Health Insurance having planned SP\ncoverage since 2025 and piloting it in 2026—it is worth asking how SP might help middle-\naged and older workers to remain in employment. Accordingly, the paper takes middle-aged\nand older workers still in employment as its object and, guided by the principle of ‘retention\nfirst, return second’, seeks to reduce the likelihood of their premature exit from the labour\nmarket. Theoretically, it draws on social investment and active labour market policy (ALMP)\non the one hand and adopts active ageing as its perspective on the other, arguing that SP may\nserve as a tool for sustaining and enhancing human capital at the individual level.\nMethodologically, it combines documentary analysis with programme comparison: taking the\nFinnish National Programme on Ageing Workers (FINPAW) and the work ability house as its\nfoundation, it examines, floor by floor, a package of British SP programmes responding to the\nbarriers in each dimension, and distils their success factors. In practical terms, approximating\nFINPAW’s organisational form within Taiwan’s existing institutional and social structure\nwould be difficult; a more feasible direction may lie in funding the requisite SP programmes\nthrough National Health Insurance and, following a division of labour in which ‘health\ninsurance leads and labour policy follows’, gradually developing an integrated set of policies\nand service programmes.",
+      "keywords_en": "social prescribing; active labour market policy; social investment; active ageing; extending working lives",
+      "source_pages": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "PN-15-2",
+      "type": "專題發表",
+      "date": "10/3",
+      "session": "Panel 15",
+      "code": "Panel 15-2",
+      "presenter": "戴曉惠",
+      "presenters": [
+        "戴曉惠"
+      ],
+      "title": "中高齡及高齡者持續就業的工會因應：以英國及德國經驗為借鏡",
+      "title_en": "Trade Union Responses to the Continued Employment of Middle-Aged and Elderly Workers: Lessons from the British and German Experiences",
+      "author_info_lines": [
+        "戴曉惠 助理教授｜中國文化大學勞動暨人力資源學系"
+      ],
+      "author_info_lines_en": [
+        "Assistant Professor Hsiao-Hui Tai｜Department of Labor and Human Resources, Chinese Culture University"
+      ],
+      "abstract": "因應人口高齡化與延後退休趨勢，勞動力結構正面臨劇烈轉變。面對工會會員組成\n日益多元化之現況，現代工會組織必須打破傳統僅關注年輕或全職勞工之框架，積極將\n中高齡與高齡會員的需求納入核心議程。本文以英國與德國工會經驗為主軸，剖析兩國\n工會如何透過集體協商機制與組織改革，促進高齡者持續就業並保障其勞動尊嚴。\n英國總工會（Trades Union Congress，TUC）因應勞動力轉變的多元會員需求，積\n極教育會員運用法定彈性工作申請權，並制定工會代表指引，輔導基層幹部透過集體協\n商推動彈性工時、職務共享、終身培訓等，並嚴防高齡勞工因調整工時而面臨退休金權\n益的折算損失。\n德國工會（如德國金屬工業工會，IG Metall）則透過團體協約將「漸進式退休」\n（Altersteilzeit）制度化，推動高齡部分工時模式，並強制要求雇主給予薪資補貼與養老\n金加碼；同時，工會積極調整內部組織結構，設置專責的高齡與退休會員代表機制，確\n保多元世代的集體發言權。\n綜合英國與德國經驗，現代工會應積極發揮集體協商功能，引導雇主導入中高齡及\n高齡就業促進措施（如職務再設計、健康管理與漸進式退場機制）。臺灣工會可借鏡兩\n國經驗，將集體協商重心轉向高齡友善條款，，並深化工會內部之多元代表性，以集體力\n量守護高齡勞動尊嚴。",
+      "keywords": "中高齡就業、高齡就業、漸進式退休、高齡部分工時、集體協商、工會對策",
+      "abstract_en": "In response to population ageing and the trend towards delayed retirement, the structure\nof the workforce is undergoing a profound transformation. Confronted with an increasingly\ndiverse membership base, modern trade union organisations must transcend their traditional\nfocus on younger or full-time workers and actively integrate the needs of middle-aged and\nelderly members into their core agendas. Taking the experiences of British and German trade\nunions as its central axis, this paper analyses how unions in both nations utilise collective\nbargaining mechanisms and organisational reforms to promote the continued employment of\nolder workers while safeguarding their dignity at work.\nResponding to the diverse demands of a shifting workforce, the Trades Union Congress\n(TUC) in the UK actively educates members on exercising their statutory right to request\nflexible working. The TUC has also formulated guidance for union representatives to assist\nworkplace reps in bargaining for flexible working hours, job sharing, and lifelong learning\nthrough collective negotiations, whilst rigorously guarding against reductions in older workers'\npension entitlements resulting from working-time adjustments.\nConversely, German trade unions (such as the industrial union IG Metall) have\ninstitutionalised 'phased retirement' (Altersteilzeit) through collective agreements. This model\npromotes part-time employment for older workers while mandating employer-funded wage\ntop-ups and supplementary pension contributions. Concurrently, German unions have\nrestructured their internal organisation by establishing dedicated representation mechanisms\nfor older and retired members, thereby securing collective voice across generations.\nSynthesising the British and German experiences, modern trade unions ought to leverage\ntheir collective bargaining functions to guide employers in introducing employment promotion\nmeasures tailored to middle-aged and elderly workers—such as job redesign, occupational\nhealth management, and phased exit mechanisms. Taiwanese trade unions can draw on these\ndual experiences to shift the locus of collective bargaining towards age-friendly provisions and\ndeepen internal diversity of representation, ultimately deploying collective power to protect the\ndignity of older workers.",
+      "keywords_en": "Middle-aged employment, elderly workers’ Employment, phased retirement, part-time work for elderly workers, collective bargaining, trade union strategies",
+      "source_pages": [
+        95,
+        96
+      ]
+    },
+    {
+      "id": "PN-15-3",
+      "type": "專題發表",
+      "date": "10/3",
+      "session": "Panel 15",
+      "code": "Panel 15-3",
+      "presenter": "林淑慧",
+      "presenters": [
+        "林淑慧",
+        "馬財專"
+      ],
+      "title": "中高齡及高齡者勞動退出的彈性路徑：撤退理論與選擇性最佳化補償理論的整合觀點",
+      "title_en": "Flexible Pathways to Labor Force Exit among Middle-Aged and Older Adults: An Integrated Perspective of Disengagement Theory and Selective Optimization with Compensation Theory",
+      "author_info_lines": [
+        "林淑慧 副教授兼系主任｜國立中正大學勞工關係學系",
+        "馬財專 教授兼社科院院長｜國立中正大學勞工關係學系"
+      ],
+      "author_info_lines_en": [
+        "Associate Professor Lin Shu-hui｜Department of Labor Relations, National Chung Cheng University",
+        "Professor Ma Tsai-chuan｜Department of Labor Relations, National Chung Cheng University"
+      ],
+      "abstract": "本研究探討中高齡及高齡者勞動參與和退出職場的現象，研究以撤退理論\n（Disengagement Theory ）與選擇性最佳化補償理論（Selective Optimization with\nCompensation, SOC Model）的整合解析中高齡者與高齡者不同的勞動選擇。研究結果顯\n示，高達72.2%的非勞動力，並無重返職場意願，反映高齡者隨年齡增長逐漸退出勞動\n市場的現象，符合撤退理論所指出個體與社會逐步降低互動與角色參與的觀點。然而，\n研究亦發現，近兩成非勞動力在特定條件下仍具有重返職場的意願，尤其受到友善工作\n環境與經濟需求等因素影響。\n此結果顯示，中高齡者與高齡者的勞動退出並非單一且不可逆的過程，部分仍會依\n據本身的條件進行選擇。本研究呈現高齡勞動力原則性撤退、條件性回歸的雙重現象，\n說明高齡者勞動參與不宜僅以退出或留任二分法看待，而應關注其在不同生命情境與工\n作條件下展現的選擇與彈性。",
+      "keywords": "中高齡者及高齡者、撤退理論、選擇性最佳化補償理論、彈性就業",
+      "abstract_en": "This study examines labor participation and workplace exit among middle-aged and older\nworkers, integrating Disengagement Theory and the Selective Optimization with\nCompensation (SOC) Model to analyze their varied employment choices. The findings reveal\nthat 72.2% of non-labor force participants have no intention of returning to the workforce. This\nreflects a gradual withdrawal from the labor market with advancing age, aligning with\nDisengagement Theory's perspective that individuals and society progressively reduce\ninteraction and role participation. However, the study also indicates that nearly 20% of non-\nlabor force participants express a willingness to return to work under specific conditions,\nparticularly influenced by factors such as a friendly work environment and financial needs.\nThese results demonstrate that labor market exit among middle-aged and older workers is\nnot a uniform or irreversible process; rather, some individuals make strategic choices based on\ntheir own circumstances. By highlighting the dual phenomenon of \"principled withdrawal and\nconditional return,\" this study suggests that senior labor participation should not be viewed\nthrough a binary lens of either retention or exit. Instead, attention must be paid to the choices\nand flexibility these individuals exhibit across different life situations and working conditions.\nKey Words: Middle-Aged and Older Workers, Disengagement Theory, Selective\nOptimization with Compensation Theory(SOC), Flexible Employment",
+      "keywords_en": "",
+      "source_pages": [
+        97,
+        98
+      ]
+    },
+    {
       "id": "P-A1",
       "type": "論文發表",
       "date": "10/1",
@@ -25,7 +1109,8 @@ window.DB = {
         "¹國立高雄科技大學觀光管理系兼任助理教授",
         "2國立高雄科技大學觀光管理系兼任助理副教授",
         "3國立中正大學成人及繼續教育學系特聘教授"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-A2",
@@ -50,7 +1135,8 @@ window.DB = {
       "author_info_lines": [
         "李莉娟 助理教授｜南臺科技大學財經法律研究所",
         "南臺科技大學財經法律研究所｜助理教授"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-A3",
@@ -74,7 +1160,8 @@ window.DB = {
       "display_presenters": "林嘉琪",
       "author_info_lines": [
         "林嘉琪 教授｜淡江大學歷史學系"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-B1",
@@ -97,9 +1184,12 @@ window.DB = {
       "keywords_en": "Wearable Sensor, Three-Axis Accelerometer, Activity Recognition, Sedentary Behavior Reminder, Smart Healthcare",
       "display_presenters": "莊采穎",
       "author_info_lines": [
-        "莊采穎1、郭信宏1*",
-        "中原大學 生物醫學工程系1",
-        "e-mail : khh@cycu.edu.tw *"
+        "莊采穎｜中原大學生物醫學工程系",
+        "郭信宏 助理教授｜中原大學生物醫學工程系"
+      ],
+      "author_info_lines_en": [
+        "Cai-Ying Juang｜Department of Biomedical Engineering, Chung Yuan Christian University",
+        "Hsin-Hung Kuo｜Department of Biomedical Engineering, Chung Yuan Christian University"
       ]
     },
     {
@@ -124,7 +1214,8 @@ window.DB = {
       "display_presenters": "范家榮",
       "author_info_lines": [
         "范家榮 兼任助理教授｜國立臺北大學社會工作學系"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-B3",
@@ -148,7 +1239,8 @@ window.DB = {
       "display_presenters": "蔡文宜",
       "author_info_lines": [
         "蔡文宜 助理教授｜臺北醫學大學醫療暨生物科技法律研究所"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-B4",
@@ -173,7 +1265,8 @@ window.DB = {
       "author_info_lines": [
         "戴慧真 博士生｜國立中正大學成人及繼續教育學系",
         "國立中正大學成人及繼續教育學系 博士班"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-C1",
@@ -198,9 +1291,11 @@ window.DB = {
       "display_presenters": "馮卓奇、蘇枳晴",
       "author_info_lines": [
         "蘇枳晴 學生｜香港中文大學文化及宗教研究系",
-        "馮卓奇 講師｜香港都會大學伍絜宜人文社會科學院社會科學系",
-        "So Chi Ching｜The Chinese University of Hong Kong｜Master's Student",
-        "Fung Cheuk Ki｜Hong Kong Metropolitan University｜Lecturer"
+        "馮卓奇 講師｜香港都會大學伍絜宜人文社會科學院社會科學系"
+      ],
+      "author_info_lines_en": [
+        "So Chi Ching Master's Student｜The Chinese University of Hong Kong",
+        "Fung Cheuk Ki Lecturer｜Hong Kong Metropolitan University"
       ]
     },
     {
@@ -225,10 +1320,9 @@ window.DB = {
       "keywords_en": "older family caregivers; adult education; lifelong learning; psychological resilience; family caregiver support services",
       "display_presenters": "林佳慈",
       "author_info_lines": [
-        "林佳慈 博士生｜國立中正大學成人及繼續教育學系",
-        "國立中正大學成人及繼續教育學系／博士生",
-        "臺南國家美術館籌備處／教育推廣組副研究員兼組長"
-      ]
+        "林佳慈 博士生／副研究員兼組長｜國立中正大學成人及繼續教育學系；臺南國家美術館籌備處教育推廣組"
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-C3",
@@ -253,9 +1347,9 @@ window.DB = {
       "author_info_lines": [
         "黃菁萍1, *",
         "1 國立中正大學成人及繼續教育學系 博士生",
-        "＊ 通訊作者：黃菁萍",
-        "聯絡Email: submerge215@gmail.com"
-      ]
+        "＊ 通訊作者：黃菁萍"
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-C4",
@@ -278,10 +1372,10 @@ window.DB = {
       "keywords_en": "capability approach; lifelong learning policy; middle-aged and older adult learning; super-aged society; age justice",
       "display_presenters": "Bei-Yun Wang",
       "author_info_lines": [
-        "Bei-Yun Wang 博士生｜國立中正大學教育學研究所",
-        "Graduate Institute of Education, National Chung Cheng University",
-        "Ph.D. Student",
-        "bethiawang@alum.ccu.edu.tw"
+        "Bei-Yun Wang 博士生｜國立中正大學教育學研究所"
+      ],
+      "author_info_lines_en": [
+        "Bei-Yun Wang Ph.D. Student｜Graduate Institute of Education, National Chung Cheng University"
       ]
     },
     {
@@ -308,7 +1402,8 @@ window.DB = {
       "author_info_lines": [
         "劉宜君 教授兼學務長｜元智大學社會暨政策科學學系",
         "陳怡蒨 助理教授兼校務研究中心主任｜元智大學社會暨政策科學學系"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-D2",
@@ -332,7 +1427,8 @@ window.DB = {
       "display_presenters": "何至皓",
       "author_info_lines": [
         "何至皓／國立中正大學法律學系／博士生"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-D3",
@@ -358,7 +1454,8 @@ window.DB = {
       "author_info_lines": [
         "吳子頤 博士生｜國立政治大學社會學系",
         "張文馨"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-E1",
@@ -382,7 +1479,8 @@ window.DB = {
       "display_presenters": "葉桂娥",
       "author_info_lines": [
         "葉桂娥／新竹縣私立佳佳幼兒園／負責人"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-E2",
@@ -406,7 +1504,8 @@ window.DB = {
       "display_presenters": "吳茹慧",
       "author_info_lines": [
         "吳茹慧／中華國際享齡賦能教育發展協會／理事長"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-E3",
@@ -431,7 +1530,8 @@ window.DB = {
       "author_info_lines": [
         "余莉苹｜中原大學商業設計學系｜碩士生",
         "黃文宗｜中原大學商業設計學系｜副教授"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-F1",
@@ -454,9 +1554,9 @@ window.DB = {
       "keywords_en": "birth cohort, longevity design, older workers, long-term care, Taiwan Longitudinal Study on Aging",
       "display_presenters": "黃芳誼",
       "author_info_lines": [
-        "黃芳誼／東吳大學社會學系／副教授",
-        "通訊作者 Email：fyhuang1981@gmail.com"
-      ]
+        "黃芳誼／東吳大學社會學系／副教授"
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-F2",
@@ -479,8 +1579,9 @@ window.DB = {
       "keywords_en": "Older exercisers, Health literacy, Healthy aging, Senior fitness clubs, Health inequality",
       "display_presenters": "林玉梅",
       "author_info_lines": [
-        "林玉梅 博士/教師｜國立中正大學成人及繼續教育所暨雲林縣古坑國民中小學"
-      ]
+        "林玉梅 博士／教師｜國立中正大學成人及繼續教育所；雲林縣古坑國民中小學"
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-F3",
@@ -507,7 +1608,8 @@ window.DB = {
         "林則豪1、魏惠娟2",
         "1國立中正大學成人及繼續教育學系博士生",
         "2國立中正大學成人及繼續教育學系教授"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-F4",
@@ -533,7 +1635,8 @@ window.DB = {
         "劉霽瑈¹、胡夢鯨²",
         "¹國立中正大學成人及繼續教育學系博士生",
         "²國立中正大學成人及繼續教育學系特聘教授"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-G1",
@@ -559,7 +1662,8 @@ window.DB = {
         "游立旻／國立臺灣科技大學數位學習與教育研究所／碩士研究生",
         "李采儒／國立臺灣科技大學數位學習與教育研究所／助理教授",
         "黃妤潔／國立臺灣科技大學數位學習與教育研究所／碩士研究生"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-G2",
@@ -582,8 +1686,10 @@ window.DB = {
       "keywords_en": "Self-Determination Theory, Adult Music Learning, Sustained Participation, Non-formal Learning, Jazz Camp",
       "display_presenters": "江翊甄",
       "author_info_lines": [
-        "江翊甄／國立臺灣師範大學／研究生",
-        "Yi Chen Chiang / NTNU / Master's student"
+        "江翊甄 研究生｜國立臺灣師範大學"
+      ],
+      "author_info_lines_en": [
+        "Yi Chen Chiang Master's Student｜NTNU"
       ]
     },
     {
@@ -607,8 +1713,12 @@ window.DB = {
       "keywords_en": "",
       "display_presenters": "高停雅",
       "author_info_lines": [
-        "高停雅/國立雲林科技大學/數位媒體設計系地方創生智能設計碩士在職專班三年級",
-        "楊晰勛／國立雲林科技大學／數位媒體設計系教授"
+        "高停雅 學生｜國立雲林科技大學數位媒體設計系地方創生智能設計碩士在職專班",
+        "楊晰勛 教授｜國立雲林科技大學數位媒體設計系"
+      ],
+      "author_info_lines_en": [
+        "Ting-Ya Gao Student｜Department of Digital Media Design In-service Master’s Program of Smart Design for Regional Revitalization, National Yunlin University of Science and Technology",
+        "Hsi-Hsun Yang Professor｜Department of Digital Media Design, National Yunlin University of Science and Technology"
       ]
     },
     {
@@ -635,7 +1745,8 @@ window.DB = {
         "余金娥1、張菀珍2",
         "國立中正大學成人及繼續教育學研究所 碩士研究生1",
         "國立中正大學成人及繼續教育學研究所 教授2"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-I1",
@@ -659,7 +1770,8 @@ window.DB = {
       "display_presenters": "黃冠豪",
       "author_info_lines": [
         "黃冠豪 碩士生｜國立臺北大學公共行政暨政策學系"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-I2",
@@ -683,7 +1795,8 @@ window.DB = {
       "display_presenters": "陳志羿",
       "author_info_lines": [
         "陳志羿 碩士生｜國立臺灣師範大學工業教育學系技職教育碩士在職專班"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-I3",
@@ -707,7 +1820,8 @@ window.DB = {
       "display_presenters": "陳香婷",
       "author_info_lines": [
         "陳香婷 碩士生｜國立清華大學社會學研究所"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-J1",
@@ -730,8 +1844,9 @@ window.DB = {
       "keywords_en": "Dementia; Aging Co-design; Wellbeing in Old Age; Participation Patterns; Social Participation",
       "display_presenters": "張品儀",
       "author_info_lines": [
-        "張品儀｜國立成功大學工業設計所｜碩二"
-      ]
+        "張品儀 碩士生｜國立成功大學工業設計所"
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-J2",
@@ -758,7 +1873,8 @@ window.DB = {
         "陳相訓/吳鳳科技大學餐旅管理系/副教授",
         "蕭玉芬/中正大學高齡社會勞動與福祉研究中心/助理研究員",
         "翁育玲/國立臺灣師範大學社會教育學系/碩士生"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "P-J3",
@@ -783,7 +1899,8 @@ window.DB = {
       "display_presenters": "黃雪芳",
       "author_info_lines": [
         "黃雪芳 博士生｜國立臺北科技大學技術及職業教育研究所"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "S-01",
@@ -808,7 +1925,8 @@ window.DB = {
       "author_info_lines": [
         "陳靖垟 博士生｜國立中正大學成人及繼續教育學系研究所",
         "國立中正大學成人及繼續教育學系研究所博士生"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "S-02",
@@ -832,7 +1950,11 @@ window.DB = {
       "display_presenters": "戴慧真",
       "author_info_lines": [
         "戴慧真 博士生｜國立中正大學成人及繼續教育學系",
-        "國立中正大學成人及繼續教育學系/博士班 國立臺東大學公共與文化事務學系/碩士班"
+        "王皓晨 碩士生｜國立臺東大學公共與文化事務學系"
+      ],
+      "author_info_lines_en": [
+        "Dai-hui June Ph.D. Student｜Department of Adult and Continuing Education, National Chung Cheng University",
+        "Wang-hao Chen Master’s Student｜Department of Public and Cultural Affairs, National Taitung University"
       ]
     },
     {
@@ -858,7 +1980,8 @@ window.DB = {
       "author_info_lines": [
         "陳怡陵 組員｜高雄市立小港醫院",
         "高雄市立小港醫院（委託財團法人私立高雄醫學大學經營）、高雄醫學大學附設中和紀念醫院、高雄醫學大學｜人力資源室 中級組員"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "S-04",
@@ -883,7 +2006,8 @@ window.DB = {
       "author_info_lines": [
         "陳怡陵 組員｜高雄市立小港醫院",
         "高雄市立小港醫院（委託財團法人私立高雄醫學大學經營）、高雄醫學大學附設中和紀念醫院、高雄醫學大學｜人力資源室 中級組員"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "S-05",
@@ -911,7 +2035,8 @@ window.DB = {
         "²中原大學商設系產設組／學生",
         "³高雄師範大學軟工系／學生",
         "⁴高英工商資訊科／教師"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "S-06",
@@ -934,8 +2059,12 @@ window.DB = {
       "keywords_en": "Path finding algorithm, Longevity society; Community elder、Home visitors",
       "display_presenters": "黃瑞麟",
       "author_info_lines": [
-        "黃瑞麟1 蘇聖煌2",
-        "臺北市立大學學生1龍華科技大學助理教授2"
+        "黃瑞麟 學生｜臺北市立大學資訊科學系",
+        "蘇聖煌 助理教授｜龍華科技大學"
+      ],
+      "author_info_lines_en": [
+        "Rui-Lin Huang Student｜University of Taipei",
+        "Sheng-Huang Su Assistant Professor｜Lunghwa University of Science and Technology"
       ]
     },
     {
@@ -960,7 +2089,8 @@ window.DB = {
       "display_presenters": "姚成瑞",
       "author_info_lines": [
         "姚成瑞｜大葉大學管理學院博士生"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "S-08",
@@ -983,11 +2113,14 @@ window.DB = {
       "keywords_en": "",
       "display_presenters": "廖峻德",
       "author_info_lines": [
-        "廖峻德1,2、林哲立3、黃士瑋2,3",
-        "1臺北醫學大學護理學院國際高齡健康暨長期照護博士學位學程 副教授",
-        "2臺北醫學大學雙和醫院復健醫學部 物理治療師",
-        "3臺北醫學大學雙和醫院骨科醫學部 主治醫師",
-        "4臺北醫學大學萬芳醫院復健醫學部 主治醫師"
+        "廖峻德 副教授／物理治療師｜臺北醫學大學護理學院國際高齡健康暨長期照護博士學位學程；臺北醫學大學雙和醫院復健醫學部",
+        "林哲立 主治醫師｜臺北醫學大學雙和醫院骨科醫學部",
+        "黃士瑋 主治醫師｜臺北醫學大學萬芳醫院復健醫學部"
+      ],
+      "author_info_lines_en": [
+        "Chun-De Liao｜International Ph.D. Program in Gerontology and Long-Term Care, College of Nursing, Taipei Medical University; Department of Physical Medicine and Rehabilitation, Shuang Ho Hospital, Taipei Medical University",
+        "Che-Li Lin｜Department of Orthopedic Surgery, Shuang Ho Hospital, Taipei Medical University",
+        "Shih-Wei Huang｜Department of Physical Medicine and Rehabilitation, Wan Fang Hospital, Taipei Medical University"
       ]
     },
     {
@@ -1013,7 +2146,8 @@ window.DB = {
       "author_info_lines": [
         "陳靖垟 博士生｜國立中正大學成人及繼續教育學系研究所",
         "國立中正大學成人及繼續教育學系研究所博士生"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "S-10",
@@ -1038,9 +2172,9 @@ window.DB = {
       "author_info_lines": [
         "黃菁萍1, *",
         "1 國立中正大學成人及繼續教育學系 博士生",
-        "＊ 通訊作者：黃菁萍",
-        "聯絡Email: submerge215@gmail.com"
-      ]
+        "＊ 通訊作者：黃菁萍"
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "S-11",
@@ -1063,8 +2197,10 @@ window.DB = {
       "keywords_en": "Community programme, Hegemonic Masculinity, Gender Sensitive Tool Hong Kong, Older Men",
       "display_presenters": "鄒文睿",
       "author_info_lines": [
-        "鄒文睿｜香港都會大學｜四年級生",
-        "CHAU Man Yui｜Hong Kong Metropolitan University｜Year 4 Student"
+        "鄒文睿 四年級生｜香港都會大學"
+      ],
+      "author_info_lines_en": [
+        "CHAU Man Yui Year 4 Student｜Hong Kong Metropolitan University"
       ]
     },
     {
@@ -1089,8 +2225,11 @@ window.DB = {
       "keywords_en": "Ageing Technology; LINE Chatbot; Artificial Intelligence; Anti-Fraud Design; Design Translation.",
       "display_presenters": "張紋綺、楊吉豐",
       "author_info_lines": [
-        "張紋綺／國立屏東大學／研究生、楊吉豐／國立屏東大學／研究生、陳怡穆／國立屏東大學／副教授"
-      ]
+        "張紋綺 研究生｜國立屏東大學行銷與流通管理學系",
+        "楊吉豐 研究生｜國立屏東大學行銷與流通管理學系",
+        "陳怡穆 副教授｜國立屏東大學"
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "S-13",
@@ -1114,7 +2253,8 @@ window.DB = {
       "display_presenters": "呂紀臻",
       "author_info_lines": [
         "呂紀臻 學生｜龍華科技大學電子工程系"
-      ]
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "S-14",
@@ -1137,8 +2277,10 @@ window.DB = {
       "keywords_en": "Elder-Aware, exercise-habit, exercise date and timing, personal-driven user-interface",
       "display_presenters": "倪郡嶸",
       "author_info_lines": [
-        "倪郡嶸 學生｜龍華科技大學電子工程系",
-        "NI, CHUN-JUNG／student"
+        "倪郡嶸 學生｜龍華科技大學電子工程系"
+      ],
+      "author_info_lines_en": [
+        "NI, CHUN-JUNG Student"
       ]
     },
     {
@@ -1162,9 +2304,10 @@ window.DB = {
       "keywords_en": "Sarcopenia; Gamified Training; Multisensory Feedback; Interactive Assistive Device for Older Adults; Directional Movement Training",
       "display_presenters": "李育瑋",
       "author_info_lines": [
-        "李育瑋 碩士生｜大同大學機械與材料工程學系",
-        "賴躍仁 大同大學機械與材料工程學系 助理教授"
-      ]
+        "李育瑋 研究生｜大同大學機械與材料工程學系",
+        "賴躍仁 助理教授｜大同大學機械與材料工程學系"
+      ],
+      "author_info_lines_en": []
     },
     {
       "id": "S-16",
@@ -1188,9 +2331,10 @@ window.DB = {
       "keywords_en": "Generative AI, Older Adults, Local Cultural Translation, Scaffolding Theory, Digital Empowerment",
       "display_presenters": "林孟儀",
       "author_info_lines": [
-        "林孟儀 博士生｜國立彰化師範大學教育研究所",
-        "國立彰化師範大學 教育研究所",
-        "博士生"
+        "林孟儀 博士生｜國立彰化師範大學教育研究所"
+      ],
+      "author_info_lines_en": [
+        "Lin Mengyi PhD Student｜Graduate Institute of Education, National Changhua University of Education"
       ]
     }
   ],
