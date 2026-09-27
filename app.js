@@ -296,27 +296,37 @@ function cellClass(text){
 }
 function clickableText(raw){
   if(!raw)return '';
-  let safe=esc(raw);
-  const tokens=[];
-  allNames.forEach(name=>{
-    const encoded=esc(name);
-    if(!safe.includes(encoded))return;
-    const key=`@@NAME${tokens.length}@@`;
-    tokens.push({key,name});
-    safe=safe.split(encoded).join(key);
-  });
-  safe=safe.replace(/\n/g,'<br>');
-  tokens.forEach(({key,name})=>{
-    const rows=nameIndex.get(name)||[];
-    const btn=rows.length===1
-      ?`<button class="presenter-link" data-abstract-id="${esc(rows[0].id)}">${esc(name)}</button>`
-      :`<button class="presenter-link" data-presenter="${esc(name)}">${esc(name)}</button>`;
-    safe=safe.split(key).join(btn);
-  });
-  const parts=safe.split('<br>');
-  return parts.map((p,i)=>{
-    if(i===0)return `<span class="session-title">${p}</span>`;
-    return `<span class="line">${p}</span>`;
+  const lines=String(raw).split('\n');
+
+  function linkPresenterNames(line){
+    let safe=esc(line);
+    const tokens=[];
+    allNames.forEach(name=>{
+      const encoded=esc(name);
+      if(!safe.includes(encoded))return;
+      const key=`@@NAME${tokens.length}@@`;
+      tokens.push({key,name});
+      safe=safe.split(encoded).join(key);
+    });
+    tokens.forEach(({key,name})=>{
+      const rows=nameIndex.get(name)||[];
+      const btn=rows.length===1
+        ?`<button class="presenter-link" data-abstract-id="${esc(rows[0].id)}">${esc(name)}</button>`
+        :`<button class="presenter-link" data-presenter="${esc(name)}">${esc(name)}</button>`;
+      safe=safe.split(key).join(btn);
+    });
+    return safe;
+  }
+
+  return lines.map((line,i)=>{
+    const trimmed=line.trim();
+    // Only actual presenter / co-presenter lines are clickable.
+    // Hosts, moderators, commentators, keynote speakers and other names stay plain text.
+    const isNonPresenterRole=/^(主持人|主講人|評論人|新書分享人|分享人|與談人|引言人|司儀|貴賓|講者)\s*[｜|:：]/.test(trimmed);
+    const isPresenterLine=/^(發表人|共同發表人|聯合發表人|發表)\s*[｜|:：]/.test(trimmed);
+    const html=(!isNonPresenterRole && isPresenterLine)?linkPresenterNames(line):esc(line);
+    if(i===0)return `<span class="session-title">${html}</span>`;
+    return `<span class="line">${html}</span>`;
   }).join('');
 }
 
