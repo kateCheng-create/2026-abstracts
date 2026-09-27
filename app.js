@@ -318,13 +318,21 @@ function clickableText(raw){
     return safe;
   }
 
+  let presenterContinuation=false;
+  const roleStart=/^(主持人|主講人|評論人|新書分享人|分享人|與談人|引言人|司儀|貴賓|講者|發表人|共同發表人|聯合發表人|發表)\s*[｜|:：]/;
   return lines.map((line,i)=>{
     const trimmed=line.trim();
-    // Only actual presenter / co-presenter lines are clickable.
-    // Hosts, moderators, commentators, keynote speakers and other names stay plain text.
     const isNonPresenterRole=/^(主持人|主講人|評論人|新書分享人|分享人|與談人|引言人|司儀|貴賓|講者)\s*[｜|:：]/.test(trimmed);
     const isPresenterLine=/^(發表人|共同發表人|聯合發表人|發表)\s*[｜|:：]/.test(trimmed);
-    const html=(!isNonPresenterRole && isPresenterLine)?linkPresenterNames(line):esc(line);
+
+    if(isPresenterLine) presenterContinuation=true;
+    else if(isNonPresenterRole) presenterContinuation=false;
+    else if(roleStart.test(trimmed)) presenterContinuation=false;
+
+    // A presenter list may wrap onto the next physical line in the agenda data.
+    // Keep those continuation lines clickable until a different role begins.
+    const shouldLink=!isNonPresenterRole && (isPresenterLine || presenterContinuation);
+    const html=shouldLink?linkPresenterNames(line):esc(line);
     if(i===0)return `<span class="session-title">${html}</span>`;
     return `<span class="line">${html}</span>`;
   }).join('');
